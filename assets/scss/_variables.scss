@@ -1,0 +1,38 @@
+// Fonts families
+
+$ff-title: 'oswald-bold', sans-serif;
+$ff-alt: 'oswald', sans-serif;
+$ff-body: 'linux-libertine', serif;
+$ff-body-italic: 'linux-libertine-italic', serif;
+$ff-body-bold: 'linux-libertine-bold', serif;
+$ff-body-bold-italic: 'linux-libertine-bold-italic', serif;
+
+// Font sizes
+
+$fs-huge: 3rem;
+$fs-big: 1.6rem;
+$fs-normal: 1rem;
+$fs-small: 0.75rem;
+
+// Colors
+
+$primary: #d9aa3e;
+$white: #fff;
+$grey-light: #f4f4f4;
+$grey: #e1e1e1;
+$grey-dark: #787777;
+$black-light: #143a63;
+$black: #0f2443;
+
+// Margins, paddings, borders.
+
+$onepix: 0.0625rem;
+$margin: 1rem;
+
+// Media queries.
+
+$mq-680: 42.5em;
+
+// Animations
+
+$transition-duration: 0.4s;

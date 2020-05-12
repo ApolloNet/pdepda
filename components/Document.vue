@@ -1,0 +1,166 @@
+<template>
+  <article class="doc" :class="document.component">
+    <div class="wrapper">
+      <div class="doc-content">
+        <h3 class="doc-title">{{ document.document }}</h3>
+        <div class="doc-body" v-html="document.text"></div>
+        <p class="doc-legend">{{ document.legend }}</p>
+      </div>
+      <div class="doc-medias">
+        <Media
+          v-for="media in document.medias"
+          :key="media"
+          :src="media"
+          :alt="document.legend"
+        />
+      </div>
+    </div>
+  </article>
+</template>
+
+<script>
+import Media from '@/components/Media.vue'
+
+export default {
+  name: 'Document',
+  components: {
+    Media
+  },
+  props: {
+    document: {
+      type: Object,
+      required: true
+    }
+  }
+}
+</script>
+
+<style lang="scss" scoped>
+.doc {
+  display: flex;
+  justify-content: space-between;
+  align-items: stretch;
+  flex-wrap: wrap;
+  padding: $margin * 4 $margin * 2;
+}
+
+// Document elements
+
+.doc-title {
+  font-size: $fs-big;
+
+  &::after {
+    content: '';
+    display: block;
+    width: 10rem;
+    height: 0.5rem;
+    margin-top: $margin;
+    background-color: $primary;
+  }
+}
+
+.doc-legend {
+  font-size: $fs-small;
+  color: $grey-dark;
+}
+
+// Black / White
+
+.doc-black {
+  background-color: $black;
+  color: $white;
+
+  .doc-title {
+    color: $white;
+  }
+}
+
+@media (min-width: $mq-680) {
+  // Left / Right
+
+  .doc-right,
+  .doc-left {
+    .doc-content,
+    .doc-medias {
+      flex-basis: 50%;
+    }
+  }
+
+  .doc-right {
+    flex-direction: row;
+
+    .doc-content {
+      padding-right: $margin * 2;
+    }
+  }
+
+  .doc-left {
+    flex-direction: row-reverse;
+
+    .doc-content {
+      padding-left: $margin * 2;
+    }
+  }
+
+  // Top / Bottom
+
+  .doc-top,
+  .doc-bottom {
+    .doc-content {
+      padding: 0 $margin * 6 0 $margin * 20;
+    }
+
+    .doc-medias {
+      width: 100%;
+    }
+  }
+
+  .doc-top {
+    flex-direction: column-reverse;
+
+    .doc-medias {
+      padding-bottom: $margin * 2;
+    }
+  }
+
+  .doc-bottom {
+    flex-direction: column;
+
+    .doc-content {
+      padding-bottom: $margin * 2;
+    }
+  }
+}
+
+// Multiple
+
+.doc-multiple {
+  .doc-medias {
+    position: relative;
+    display: flex;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    padding-right: 15rem;
+
+    &::after {
+      content: '';
+      position: absolute;
+      top: 0;
+      right: 0;
+      display: block;
+      width: 15rem;
+      height: 100%;
+      background: linear-gradient(to right, transparent, $white);
+    }
+  }
+
+  &.doc-black .doc-medias::after {
+    background: linear-gradient(to right, transparent, $black);
+  }
+
+  .media {
+    flex: 0 0 auto;
+    padding-right: $margin;
+  }
+}
+</style>

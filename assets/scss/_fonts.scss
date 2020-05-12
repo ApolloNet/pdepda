@@ -1,0 +1,39 @@
+@font-face {
+  font-family: 'oswald-bold';
+  font-weight: 700;
+  font-style: normal;
+  src: url('/fonts/Oswald-Bold.woff2') format('woff2'),
+       url('/fonts/Oswald-Bold.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'linux-libertine';
+  font-weight: 400;
+  font-style: italic;
+  src: url('/fonts/LinLibertine_R.woff2') format('woff2'),
+       url('/fonts/LinLibertine_R.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'linux-libertine-bold';
+  font-weight: 700;
+  font-style: normal;
+  src: url('/fonts/LinLibertine_RB.woff2') format('woff2'),
+       url('/fonts/LinLibertine_RB.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'linux-libertine-italic';
+  font-weight: 400;
+  font-style: italic;
+  src: url('/fonts/LinLibertine_RI.woff2') format('woff2'),
+       url('/fonts/LinLibertine_RI.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'linux-libertine-bold-italic';
+  font-weight: 700;
+  font-style: italic;
+  src: url('/fonts/LinLibertine_RBI.woff2') format('woff2'),
+       url('/fonts/LinLibertine_RBI.woff') format('woff');
+}

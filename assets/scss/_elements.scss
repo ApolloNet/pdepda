@@ -1,0 +1,277 @@
+
+// HTML Elements
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 100%;
+
+  @media (min-width: 50em) {
+    font-size: 2vw;
+  }
+
+  @media (min-width: 80em) {
+    font-size: 150%;
+  }
+}
+
+body {
+  overflow-x: hidden;
+  background-color: $white;
+  color: $black;
+  font-family: $ff-body;
+  font-size: $fs-normal;
+  line-height: 1.33;
+}
+
+// Titles
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0 0 $margin 0;
+  font-family: $ff-title;
+  color: $black-light;
+  line-height: 1.1;
+  text-transform: uppercase;
+}
+
+h1,
+.h1 {
+  margin-bottom: $margin*2;
+  font-size: $fs-huge;
+}
+
+h2,
+.h2 {
+  font-size: $fs-big;
+}
+
+h3,
+.h3 {
+  font-size: $fs-normal;
+}
+
+// Paragraphs et Lists
+
+p,
+ul,
+ol,
+dl {
+  margin: 0 0 $margin 0;
+
+  &:empty {
+    margin-bottom: 0;
+  }
+}
+
+ul,
+ol {
+  margin-left: $margin;
+  padding: 0;
+}
+
+ul {
+  list-style: disc outside;
+}
+
+ol {
+  list-style: decimal outside;
+}
+
+li {
+  margin-bottom: $margin / 2;
+}
+
+li li {
+  padding-left: $margin;
+}
+
+dl {
+  margin-bottom: $margin;
+}
+
+dt {
+  font-family: $ff-body-bold;
+  font-size: $fs-normal;
+}
+
+dd {
+  margin-bottom: $margin;
+}
+
+// Quotes
+
+blockquote {
+  margin: $margin 0;
+  padding: $margin;
+  font-style: ff-body-italic;
+
+  p:last-of-type {
+    margin-bottom: 0;
+  }
+}
+
+q,
+cite {
+  font-family: $ff-body-italic;
+}
+
+q {
+  quotes: "\00AB\A0" "\A0\00BB" "\201C" "\201D" "\2018" "\2019";
+
+  &::before {
+    content: open-quote;
+  }
+
+  &:after {
+    content: close-quote;
+  }
+}
+
+// Inlines
+
+strong,
+b {
+  font-family: $ff-body-bold;
+}
+
+em,
+i,
+dfn,
+var {
+  font-family: $ff-body-italic;
+}
+
+code {
+  display: inline-block;
+  padding: $margin;
+  background-color: $grey-light;
+}
+
+kbd {
+  display: inline-block;
+  padding: 0 0.25rem;
+  background-color: $grey-light;
+  border:1px solid $grey;
+  font-family: $ff-body-bold;
+}
+
+samp,
+small {
+  font-size: $fs-small;
+}
+
+// Address
+
+address {
+  margin-bottom: $margin;
+}
+
+// Sup, sub
+
+sub,
+sup {
+  font-size: 0.625rem;
+  font-variant: normal;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+}
+
+sub {
+  bottom: -0.5em;
+}
+
+sup {
+  top: -0.5em;
+}
+
+// Section
+
+hr {
+  margin: $margin 0;
+  border: $onepix solid $primary;
+  border-width: $onepix 0 0 0;
+}
+
+// Media
+
+main img {
+  height: auto;
+  max-width: 100%;
+}
+
+iframe {
+  border: 0;
+  max-width: 100%;
+}
+
+figure {
+  margin-bottom: $margin;
+  img {
+    display: block;
+  }
+}
+
+figcaption {
+  display: inline-block;
+  padding: $margin 0;
+  border-bottom: 1px solid $grey;
+  font-family: $ff-body-italic;
+}
+
+audio,
+video {
+  margin-bottom: $margin;
+}
+
+// Links
+
+a {
+  text-decoration: underline;
+  transition: color $transition-duration;
+
+  &:focus,
+  &:hover {
+    text-decoration: none;
+  }
+}
+
+// Button
+
+button {}
+
+// Table
+
+table {
+  border-collapse: collapse;
+  margin-bottom: $margin;
+}
+
+caption {
+  padding: $margin;
+  background-color: $black;
+  color: $white;
+  font-family: $ff-body-bold;
+}
+
+tr {
+  border-bottom: 1px solid $grey-dark;
+
+  &:nth-child(even) {
+    background-color: $grey-light;
+  }
+}
+
+th,
+td {
+  padding: $margin / 2;
+  text-align: left;
+  font-family: $ff-body-bold;
+}

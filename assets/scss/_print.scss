@@ -1,0 +1,31 @@
+@media print {
+  html {
+    font-size: 13pt;
+  }
+  body {
+    color: #000;
+  }
+  a,
+  header a {
+    color: #000;
+  }
+  p, blockquote {
+    orphans: 3;
+    widows: 3;
+  }
+  blockquote, ul, ol {
+    page-break-inside: avoid;
+  }
+  h1, h2, h3, caption {
+    page-break-after: avoid;
+  }
+  header,
+  footer,
+  nav {
+    display: none;
+  }
+  .wrapper {
+    max-width: none;
+    margin: 0;
+  }
+}
