@@ -1,5 +1,5 @@
-import contents from '~/static/contents.json'
+import contents from '~/contents/contents.json'
 
 export default function({ store }) {
-  store.commit('add', contents)
+  store.commit('addContents', contents)
 }

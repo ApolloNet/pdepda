@@ -5,7 +5,7 @@
   "author": "Alexandre Ronsaut",
   "private": true,
   "scripts": {
-    "kamokamo": "cd static && kamokamo > contents.json",
+    "kamokamo": "cd contents && kamokamo > contents.json",
     "images": "node create-responsive-images.js",
     "dev": "npm run kamokamo && nuxt",
     "build": "npm run kamokamo && nuxt build",

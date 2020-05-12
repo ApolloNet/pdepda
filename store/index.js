@@ -3,7 +3,7 @@ export const state = () => ({
 })
 
 export const mutations = {
-  add(state, contents) {
+  addContents(state, contents) {
     state.contents = contents
   }
 }

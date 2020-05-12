@@ -1,4 +1,4 @@
-import contents from './static/contents.json'
+import contents from './contents/contents.json'
 const routes = ['/', ...Object.keys(contents)]
 
 export default {
