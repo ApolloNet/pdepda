@@ -10,9 +10,11 @@
         />
       </div>
       <div class="doc-content">
-        <h3 class="doc-title">{{ document.document }}</h3>
-        <div class="doc-body" v-html="document.text"></div>
-        <p class="doc-legend">{{ document.legend }}</p>
+        <div class="sticky">
+          <h3 class="doc-title">{{ document.document }}</h3>
+          <div class="doc-body" v-html="document.text"></div>
+          <p class="doc-legend">{{ document.legend }}</p>
+        </div>
       </div>
     </div>
   </article>
@@ -87,6 +89,11 @@ export default {
     .doc-medias {
       flex-basis: 50%;
     }
+
+    .sticky {
+      position: sticky;
+      top: $margin;
+    }
   }
 
   .doc-left {
@@ -123,7 +130,7 @@ export default {
 
 // Multiple
 
-.doc-multiple {
+.doc-multiple.doc-top {
   .doc-medias {
     position: relative;
     display: flex;

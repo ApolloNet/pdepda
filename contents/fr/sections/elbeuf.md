@@ -75,13 +75,13 @@ chapters:
           - /files/Doc8-b_9Fi601.jpg
           - /files/Doc8-c_9Fi603.jpg
       - document: Procuration d’Ernest Blin pour la remise de ses titres à Charles Bedeaux, 14 mai 1940.
-        component: doc-left
+        component: doc-right
         legend: RMM. Fabrique des savoirs, Archives patrimoniales (Fonds Blin, 9Fi2705)
         text: <p>Dans le cadre de l’accord conclu entre les dirigeants de Blin et la société Française Bedeaux, Charles Bedeaux reçoit la garde des titres et se voit attribuer une fonction d’arbitrage en cas de conflit entre les deux parties.</p>
         medias:
           - /files/Doc9_9Fi2705.jpg
       - document: Attestation allemande confirmant l’attribution du statut de « Sperr-Betriebe » 1943
-        component: doc-top doc-multiple
+        component: doc-left doc-multiple
         legend: RMM. Fabrique des savoirs, Archives patrimoniales (Fonds Blin, 3Z279)
         text: "<p>L’entreprise est désormais gérée par un administrateur « aryen » en l’occurrence la Société Bedeaux. Elle obtient successivement le statut de Rüstung Betriebe (entreprise d’armement) qui lui accorde des facilités d’approvisionnement en matières premières. En 1943, elle est désignée <em>Sperr-Betriebe</em> (du nom du ministre de l’armement du IIIe Reich, Albert Sperr) : elle est à ce titre exemptée du prélèvement de main d’œuvre pour le STO (Service du travail obligatoire). Une grande partie de sa production est livrée aux autorités d’occupation sous la forme de drap militaire.</p>"
         medias:
