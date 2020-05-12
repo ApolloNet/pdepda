@@ -1,5 +1,5 @@
 import contents from './contents/contents.json'
-const routes = ['/', ...Object.keys(contents)]
+const routes = ['/', '/fr', '/en', ...Object.keys(contents)]
 
 export default {
   mode: 'universal',
