@@ -24,7 +24,7 @@ chapters:
         medias: 
           - /files/Doc2_8FI1526.jpg
       - document: Visite des maires de Normandie au chef de l’Etat Philippe Pétain à Vichy vers 1942. (Premier à gauche, René Lebret maire d’Elbeuf)
-        component: doc-bottom
+        component: doc-top
         legend: RMM. Fabrique des savoirs, Archives patrimoniales (3Fi826)
         medias:
           - /files/Doc3_3Fi0826.jpg
@@ -38,14 +38,14 @@ chapters:
         medias:
           - /files/Doc4_8FI1421.jpg
       - document: Recensement des juifs du canton d’Elbeuf, [1940].
-        component: doc-bottom doc-black doc-multiple
+        component: doc-top doc-black doc-multiple
         legend: RMM. Fabrique des savoirs, Archives patrimoniales (4H-ELB136)
         text: <p>Depuis 1848, il existe à Elbeuf une petite communauté juive qui s’est développée avec l’arrivée d’industriels alsaciens en 1871. Cette liste manuscrite, sans doute la première établie vraisemblablement dès la parution du « Premier Statut des juifs » recense 92 personnes. La plupart de ces listes et fichiers établis avec minutie par l’administration française servira pour procéder aux arrestations à partir de 1942.</p>
         medias:
           - /files/Doc5_p01.jpg
           - /files/Doc5_p05.jpg
       - document: Déclaration d’Ernest Blin, 1941.
-        component: doc-bottom doc-multiple
+        component: doc-top doc-multiple
         legend: Déclaration d’Ernest Blin, 1941.
         text: <p>Suite à la parution du « Second Statut », les citoyens de confession juive sont contraints de faire une déclaration écrite mentionnant leur état civil, leur situation de famille, leur profession et l’état de leurs biens. Ernest Blin, qui dirige l’entreprise Blin et Blin avec ses frères André et Maurice procède à cette déclaration le 1er juillet également au titre de ses enfants, Albert, 20 ans et Dominique, 17 ans.</p>
         medias:
@@ -81,7 +81,7 @@ chapters:
         medias:
           - /files/Doc9_9Fi2705.jpg
       - document: Attestation allemande confirmant l’attribution du statut de « Sperr-Betriebe » 1943
-        component: doc-bottom doc-multiple
+        component: doc-top doc-multiple
         legend: RMM. Fabrique des savoirs, Archives patrimoniales (Fonds Blin, 3Z279)
         text: "<p>L’entreprise est désormais gérée par un administrateur « aryen » en l’occurrence la Société Bedeaux. Elle obtient successivement le statut de Rüstung Betriebe (entreprise d’armement) qui lui accorde des facilités d’approvisionnement en matières premières. En 1943, elle est désignée <em>Sperr-Betriebe</em> (du nom du ministre de l’armement du IIIe Reich, Albert Sperr) : elle est à ce titre exemptée du prélèvement de main d’œuvre pour le STO (Service du travail obligatoire). Une grande partie de sa production est livrée aux autorités d’occupation sous la forme de drap militaire.</p>"
         medias:
@@ -91,7 +91,7 @@ chapters:
     text: <p>La répression à l’encontre des juifs s’intensifie, résultat d’une collaboration active entre le gouvernement de Vichy et le régime nazi. La Solution finale qui vise à l’extermination totale des juifs d’Europe vient d’être décidée et planifiée au cours de la conférence de Wannsee le 20 janvier 1942.</p><p>Selon le recensement de 1940, la communauté juive d’Elbeuf concernée par les mesures anti juives se compose de 92 personnes. 34 personnes d’entre elles sont arrêtées et déportées entre 1942 et 1944. D’autres comme les membres de la famille Blin ont fui et sont contraints à la clandestinité jusqu’à la Libération.</p>
     documents:
       - document: Ordonnance allemande du 1er juin 1942 rendant obligatoire le port de l’étoile jaune.
-        component: doc-bottom doc-black doc-multiple
+        component: doc-top doc-black doc-multiple
         legend: RMM. Fabrique des savoirs, Archives patrimoniales (Fonds ville d’Elbeuf, 4H-ELB 136)
         text: <p>Le port de l’étoile jaune est imposé aux citoyens français et aux étrangers de confession juive. Elle ne fut pas portée dans la zone libre même après son envahissement le 11 novembre 1942 mais un tampon avec la mention « Juif » est apposé sur les papiers d’identité.</p>
         medias:
@@ -119,7 +119,7 @@ chapters:
           - /files/Doc14-3_9Fi1877.jpg
           - /files/Doc14-4_9Fi0127.jpg
       - document: Correspondance de Sarah à la famille Gillot, adressée du camp de Drancy le 14 février 1943.
-        component: doc-bottom doc-multiple
+        component: doc-top doc-multiple
         legend: RMM. Fabrique des savoirs, Archives patrimoniales (don Germaine Thiry-Guillotin)
         text: <p>Entre le 15 janvier et le 24 mars, Sarah Rotmentz correspond avec des voisins, la famille Gillot, et son amie Germaine Guillotin. Après leur arrestation, Sarah et sa mère sont détenues dans le camp de Drancy en région parisienne puis transférées vers la mi-mars dans celui de Beaune-la-Rolande (Loiret).</p><br><p>Dans cette correspondance, la jeune femme confie son quotidien, les conditions et les règles de vie à l’intérieur des camps mais aussi son incertitude quant à l’avenir.</p>
         medias:
@@ -127,7 +127,7 @@ chapters:
           - /files/Doc16_9Fi1885.jpg
           - /files/Doc17_9Fi1886.jpg
       - document: Correspondance de Sarah à son amie Germaine, adressée du camp de Drancy le 28 février 1943.
-        component: doc-bottom doc-multiple
+        component: doc-top doc-multiple
         legend: RMM. Fabrique des savoirs, Archives patrimoniales (don Germaine Thiry-Guillotin)
         text: <p>Entre le 15 janvier et le 24 mars, Sarah Rotmentz correspond avec des voisins, la famille Gillot, et son amie Germaine Guillotin. Après leur arrestation, Sarah et sa mère sont détenues dans le camp de Drancy en région parisienne puis transférées vers la mi-mars dans celui de Beaune-la-Rolande (Loiret).</p><br><p>Dans cette correspondance, la jeune femme confie son quotidien, les conditions et les règles de vie à l’intérieur des camps mais aussi son incertitude quant à l’avenir.</p>
         medias:
@@ -136,28 +136,28 @@ chapters:
           - /files/Doc1_9Fi0767.jpg
           - /files/Doc20_9Fi0130.jpg
       - document: Correspondance de Sarah à son amie Germaine, adressée du camp de Beaune La Rolande le 15 mars 1943.
-        component: doc-bottom doc-black doc-multiple
+        component: doc-top doc-black doc-multiple
         legend: RMM. Fabrique des savoirs, Archives patrimoniales (don Germaine Thiry-Guillotin)
         text: <p>Entre le 15 janvier et le 24 mars, Sarah Rotmentz correspond avec des voisins, la famille Gillot, et son amie Germaine Guillotin. Après leur arrestation, Sarah et sa mère sont détenues dans le camp de Drancy en région parisienne puis transférées vers la mi-mars dans celui de Beaune-la-Rolande (Loiret).</p><br><p>Dans cette correspondance, la jeune femme confie son quotidien, les conditions et les règles de vie à l’intérieur des camps mais aussi son incertitude quant à l’avenir.</p>
         medias:
           - /files/Doc21_9Fi1891.jpg
           - /files/Doc22_9Fi1892.jpg
       - document: Enveloppe d’une correspondance de Germaine à Sarah, adressée au camp de Beaune La Rolande et datée du 22 mars 1943.
-        component: doc-bottom doc-multiple
+        component: doc-top doc-multiple
         legend: RMM. Fabrique des savoirs, Archives patrimoniales (don Germaine Thiry-Guillotin)
         text: <p>Entre le 15 janvier et le 24 mars, Sarah Rotmentz correspond avec des voisins, la famille Gillot, et son amie Germaine Guillotin. Après leur arrestation, Sarah et sa mère sont détenues dans le camp de Drancy en région parisienne puis transférées vers la mi-mars dans celui de Beaune-la-Rolande (Loiret).</p><br><p>Dans cette correspondance, la jeune femme confie son quotidien, les conditions et les règles de vie à l’intérieur des camps mais aussi son incertitude quant à l’avenir.</p>
         medias:
           - /files/Doc23_9Fi1893.jpg
           - /files/Doc24_9Fi1894.jpg
       - document: Correspondance de Sarah à son amie Germaine adressée du camp de Beaune La Rolande le 24 mars 1943.
-        component: doc-bottom doc-black doc-multiple
+        component: doc-top doc-black doc-multiple
         legend: RMM. Fabrique des savoirs, Archives patrimoniales (don Germaine Thiry-Guillotin)
         text: <p>Entre le 15 janvier et le 24 mars, Sarah Rotmentz correspond avec des voisins, la famille Gillot, et son amie Germaine Guillotin. Après leur arrestation, Sarah et sa mère sont détenues dans le camp de Drancy en région parisienne puis transférées vers la mi-mars dans celui de Beaune-la-Rolande (Loiret).</p><br><p>Dans cette correspondance, la jeune femme confie son quotidien, les conditions et les règles de vie à l’intérieur des camps mais aussi son incertitude quant à l’avenir.</p>
         medias:
           - /files/Doc25_9Fi1889.jpg
           - /files/Doc26_9Fi1890.jpg
       - document: Correspondance de Sarah à son amie Germaine, adressée du camp de Drancy le 24 mars 1943.
-        component: doc-bottom doc-multiple
+        component: doc-top doc-multiple
         legend: RMM. Fabrique des savoirs, Archives patrimoniales (don Germaine Thiry-Guillotin)
         text: <p>Entre le 15 janvier et le 24 mars, Sarah Rotmentz correspond avec des voisins, la famille Gillot, et son amie Germaine Guillotin. Après leur arrestation, Sarah et sa mère sont détenues dans le camp de Drancy en région parisienne puis transférées vers la mi-mars dans celui de Beaune-la-Rolande (Loiret).</p><br><p>Dans cette correspondance, la jeune femme confie son quotidien, les conditions et les règles de vie à l’intérieur des camps mais aussi son incertitude quant à l’avenir.</p>
         medias:
@@ -170,7 +170,7 @@ chapters:
         medias:
           - /files/Doc29.jpg
       - document: Liste des déportés raciaux non rentrés [1947].
-        component: doc-bottom doc-multiple
+        component: doc-top doc-multiple
         legend: RMM. Fabrique des savoirs, Archives patrimoniales (4H-ELB136)
         text: "<p>Etablie dans l’immédiat après-guerre dans le but de recenser les victimes du conflit, cette liste est incomplète. Sur les 92 personnes recensées en 1940, 34 sont déclarées disparues : pour certaines dans des circonstances encore inconnues de nos jours.</p>"
         medias:

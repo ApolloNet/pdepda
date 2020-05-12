@@ -24,8 +24,6 @@ export default {
 
 <style lang="scss" scoped>
 .main-footer {
-  display: flex;
-  justify-content: space-between;
   padding: $margin/2 $margin * 2;
   background-color: $black;
   color: $white;
@@ -39,6 +37,11 @@ export default {
   a {
     color: $white;
   }
+}
+
+.main-footer .wrapper {
+  display: flex;
+  justify-content: space-between;
 }
 
 .footer-links {

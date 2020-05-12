@@ -46,6 +46,6 @@ export default {
 
 .media-image {
   max-width: 100%;
-  max-height: 80vh;
+  max-height: 90vh;
 }
 </style>

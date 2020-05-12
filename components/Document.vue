@@ -1,11 +1,6 @@
 <template>
   <article class="doc" :class="document.component">
     <div class="wrapper">
-      <div class="doc-content">
-        <h3 class="doc-title">{{ document.document }}</h3>
-        <div class="doc-body" v-html="document.text"></div>
-        <p class="doc-legend">{{ document.legend }}</p>
-      </div>
       <div class="doc-medias">
         <Media
           v-for="media in document.medias"
@@ -13,6 +8,11 @@
           :src="media"
           :alt="document.legend"
         />
+      </div>
+      <div class="doc-content">
+        <h3 class="doc-title">{{ document.document }}</h3>
+        <div class="doc-body" v-html="document.text"></div>
+        <p class="doc-legend">{{ document.legend }}</p>
       </div>
     </div>
   </article>
@@ -37,11 +37,14 @@ export default {
 
 <style lang="scss" scoped>
 .doc {
+  padding: $margin * 4 $margin * 2;
+}
+
+.doc .wrapper {
   display: flex;
   justify-content: space-between;
   align-items: stretch;
   flex-wrap: wrap;
-  padding: $margin * 4 $margin * 2;
 }
 
 // Document elements
@@ -86,47 +89,33 @@ export default {
     }
   }
 
-  .doc-right {
-    flex-direction: row;
-
-    .doc-content {
-      padding-right: $margin * 2;
-    }
-  }
-
   .doc-left {
-    flex-direction: row-reverse;
+    flex-direction: row;
 
     .doc-content {
       padding-left: $margin * 2;
     }
   }
 
-  // Top / Bottom
+  .doc-right {
+    flex-direction: row-reverse;
 
-  .doc-top,
-  .doc-bottom {
     .doc-content {
-      padding: 0 $margin * 6 0 $margin * 20;
-    }
-
-    .doc-medias {
-      width: 100%;
+      padding-right: $margin * 2;
     }
   }
+
+  // Top
 
   .doc-top {
     flex-direction: column-reverse;
 
-    .doc-medias {
-      padding-bottom: $margin * 2;
-    }
-  }
-
-  .doc-bottom {
-    flex-direction: column;
-
     .doc-content {
+      padding: $margin * 2 $margin * 6 0 $margin * 20;
+    }
+
+    .doc-medias {
+      width: 100%;
       padding-bottom: $margin * 2;
     }
   }
