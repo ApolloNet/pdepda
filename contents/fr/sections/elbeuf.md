@@ -1,7 +1,7 @@
 ---
 id: elbeuf
 place: Elbeuf
-title: Les archives locales et la question juive (1940-1944)
+title: Destinées juives en terre normande
 museum: Réunion des Musées Métropolitains Rouen Normandie
 image: 
 description: 
