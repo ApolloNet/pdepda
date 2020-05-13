@@ -2,12 +2,14 @@
   <article class="doc" :class="document.component">
     <div class="wrapper">
       <div class="doc-medias">
-        <Media
-          v-for="media in document.medias"
-          :key="media"
-          :src="media"
-          :alt="document.legend"
-        />
+        <div class="doc-medias-inner">
+          <Media
+            v-for="media in document.medias"
+            :key="media"
+            :src="media"
+            :alt="document.legend"
+          />
+        </div>
       </div>
       <div class="doc-content">
         <div class="sticky">
@@ -133,10 +135,6 @@ export default {
 .doc-multiple.doc-top {
   .doc-medias {
     position: relative;
-    display: flex;
-    flex-wrap: nowrap;
-    overflow-x: auto;
-    padding-right: 15rem;
 
     &::after {
       content: '';
@@ -150,6 +148,12 @@ export default {
     }
   }
 
+  .doc-medias-inner {
+    display: flex;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+  }
+
   &.doc-black .doc-medias::after {
     background: linear-gradient(to right, transparent, $black);
   }
@@ -157,6 +161,10 @@ export default {
   .media {
     flex: 0 0 auto;
     padding-right: $margin;
+
+    &:last-of-type {
+      padding-right: 15rem;
+    }
   }
 }
 </style>
