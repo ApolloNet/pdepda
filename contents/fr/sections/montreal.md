@@ -37,7 +37,18 @@ chapters:
         legend: MBAM, don de la famille Éliane et Georges Jorisch 2013.791, Photo MBAM, Christine Guest
         text: <p>1836<br>Huile sur papier marouflé sur bois<br>44,5 x 34,5 cm</p><p><strong>Ferdinand Georg Waldmüller</strong><br>Vienne 1793 – Hinterbrühl (Autriche) 1865</p><p>Waldmüller, figure majeure de l’époque Biedermeier en Autriche, combine un traitement minutieux du sujet, un réalisme rigoureux et une volonté innovatrice de capter la lumière naturelle. À partir de 1830, il passe ses étés dans la région de Berchtesgaden, dans les Alpes bavaroises. La composition pyramidale de ces Enfants rentrant de l’école montre le long chemin – au sens propre et figuré – accompli par deux pauvres écoliers bavarois revenant du village. Le peintre témoigne, au-delà du charme premier de la représentation, de l’importance de l’éducation.</p><p>Ce tableau a appartenu à l’industriel juif Viktor Zuckerkandl, important mécène de Klimt. À son décès, il revient à sa sœur Amalie Redlich. Avec l’Anschluss en 1938, elle est déportée et ses biens sont séquestrés. Caché en Belgique pendant la guerre, le petit-fils d’Amalie, Georges Jorisch, s’installe à Montréal en 1957. Il réussit à récupérer après bien des péripéties, certains biens spoliés, dont deux Klimt et ce tableau exquis, qui lui rappelle son enfance. Après sa mort et suivant sa volonté, il est offert au Musée des beaux-arts de Montréal, en reconnaissance de l’hospitalité de la ville. Sa petite fille, Edith Jorisch, a réalisé un documentaire  émouvant sur l'aventure de cette restitution, <em>L'héritier</em>, en 2016.</p>
         medias:
+          - /files/2013_791.jpg
+      - document: Photographie de Mathilde Jorisch et Amalie Redlich
+        component: doc-right
+        legend: 
+        text:
+        medias:
           - /files/Jorisch.jpg
+      - document: Photographie de Amalie Redlich
+        component: doc-left
+        legend: 
+        text:
+        medias:
           - /files/RET_Redlich_Amalie_GREY_M_s_2013.jpg
       - document: Photographie de la famille de Jorisch lors du don du Waldmuller au MBAM
         component: doc-right

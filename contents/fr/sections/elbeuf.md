@@ -56,6 +56,7 @@ chapters:
           - /files/Doc6_p5
           - /files/Doc6_p6
           - /files/Doc6_p7
+          - /files/275Z56.jpg
       - document: Supplique adressée le 17 juillet 1941 par Simon Sender au maire afin d’obtenir l’autorisation de poursuivre son activité de pâtissier à Elbeuf.
         component: doc-right
         legend: RMM. Fabrique des savoirs, Archives patrimoniales (4H-ELB136)
@@ -70,10 +71,13 @@ chapters:
         legend: RMM. Fabrique des savoirs, Archives patrimoniales (Fonds Albert Blin, 275Z56)
         text: "<p>De gauche à droite : Maurice Blin (1879-1967), Ernest Blin (1880-1949), André Blin (1887-1958)</p><p>Afin de garantir la pérennité de leur entreprise, les frères André, Ernest et Maurice Blin concluent dès le 16 mai 1940 un accord qui remet la direction de leur entreprise entre les mains de la <em>Française Bedeaux</em> dirigée par Charles Bedeaux, ami d’Ernest. En vertu d’un premier contrat, la société Bedeaux prend en charge la gestion commerciale et technique mais aussi l’intégralité des pouvoirs du conseil d’administration pour une durée de 3 à 5 ans. Cet accord conduit à une « aryanisation » fictive de l’entreprise qui prend le nom d’<em>Anciens établissements Blin et Blin</em>, à partir du 21 juin 1940.</p>"
         medias:
-          - /files/Doc8_1
           - /files/Doc8-a_9Fi602.jpg
           - /files/Doc8-b_9Fi601.jpg
           - /files/Doc8-c_9Fi603.jpg
+          - /files/3Z279p1.jpg
+          - /files/3Z279p2.jpg
+          - /files/3Z279p3.jpg
+          - /files/3Z279p4.jpg
       - document: Procuration d’Ernest Blin pour la remise de ses titres à Charles Bedeaux, 14 mai 1940.
         component: doc-right
         legend: RMM. Fabrique des savoirs, Archives patrimoniales (Fonds Blin, 9Fi2705)
