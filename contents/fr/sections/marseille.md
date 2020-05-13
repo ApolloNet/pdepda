@@ -1,7 +1,7 @@
 ---
 id: marseille
 place: Marseille
-title: Les archives locales et la question juive (1940-1944)
+title: Ville refuge, ville piège
 museum: Musée d'Histoire de la Ville de Marseille
 description: 
 image: 
