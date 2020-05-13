@@ -18,7 +18,7 @@ chapters:
         medias:
           - /files/Doc1_9Fi0767.jpg
       - document: Affiche relative à la nouvelle dénomination de la rue de la Barrière en hommage au maréchal Pétain, mars 1941.
-        component: doc-top doc-black
+        component: doc-top
         legend: RMM. Fabrique des savoirs, Archives patrimoniales (8Fi1526)
         text: <p>A Elbeuf, les autorités allemandes se sont installées à l’hôtel de ville où elles cohabitent avec la municipalité conduite par René Lebret, maintenu dans ses fonctions.<br>René Lebret est élu député du canton d’Elbeuf et de Grand-Couronne dans les rangs de la SFIO (Section Française de l’Internationale Ouvrière) en 1928. Pourtant, il vote les pleins pouvoirs à Pétain en 1940. Anti communiste convaincu, il évolue politiquement vers le parti socialiste français puis l’Union socialiste républicaine.  A la Libération, il est condamné à la Dégradation nationale par la Cour de justice de Rouen pour avoir notamment assuré les fonctions de responsable de la propagande du régime de Vichy pour la Normandie.</p>
         medias: 
@@ -38,7 +38,7 @@ chapters:
         medias:
           - /files/Doc4_8FI1421.jpg
       - document: Recensement des juifs du canton d’Elbeuf, [1940].
-        component: doc-top doc-black doc-multiple
+        component: doc-top doc-multiple
         legend: RMM. Fabrique des savoirs, Archives patrimoniales (4H-ELB136)
         text: <p>Depuis 1848, il existe à Elbeuf une petite communauté juive qui s’est développée avec l’arrivée d’industriels alsaciens en 1871. Cette liste manuscrite, sans doute la première établie vraisemblablement dès la parution du « Premier Statut des juifs » recense 92 personnes. La plupart de ces listes et fichiers établis avec minutie par l’administration française servira pour procéder aux arrestations à partir de 1942.</p>
         medias:
@@ -66,7 +66,7 @@ chapters:
     text: "<p>Les dirigeants d’entreprise de confession juive sont concernés par les mesures prises par l’occupant et le régime de Vichy et notamment par la loi du 22 juillet 1941 sur l’«aryanisation » économique. L’«aryanisation », véritable système de spoliation des biens juifs, s’opère par un transfert de la gestion des entreprises à des administrateurs provisoires et pour finir par leur vente à des acquéreurs « aryens » ou leur liquidation. A Elbeuf, sont concernées plusieurs entreprises créées au lendemain de l’annexion de l’Alsace : usines de fabrication de drap de laine comme Fraenckel-Herzog et Blin & Blin ou l’usine de confection Weill-Kingsbourg-Bernheim.</p>"
     documents:
       - document: Accord entre la société Blin et Blin et la Française Bedeaux, 14 mai 1940
-        component: doc-top doc-black doc-multiple
+        component: doc-top doc-multiple
         legend: RMM. Fabrique des savoirs, Archives patrimoniales (Fonds Albert Blin, 275Z56)
         text: <p>Afin de garantir la pérennité de leur entreprise, les frères André, Ernest et Maurice Blin concluent dès le 16 mai 1940 un accord qui remet la direction de leur entreprise entre les mains de la <em>Française Bedeaux</em> dirigée par Charles Bedeaux, ami d’Ernest. En vertu d’un premier contrat, la société Bedeaux prend en charge la gestion commerciale et technique mais aussi l’intégralité des pouvoirs du conseil d’administration pour une durée de 3 à 5 ans. Cet accord conduit à une « aryanisation » fictive de l’entreprise qui prend le nom d’<em>Anciens établissements Blin et Blin</em>, à partir du 21 juin 1940.</p>
         medias:
@@ -91,7 +91,7 @@ chapters:
     text: <p>La répression à l’encontre des juifs s’intensifie, résultat d’une collaboration active entre le gouvernement de Vichy et le régime nazi. La Solution finale qui vise à l’extermination totale des juifs d’Europe vient d’être décidée et planifiée au cours de la conférence de Wannsee le 20 janvier 1942.</p><p>Selon le recensement de 1940, la communauté juive d’Elbeuf concernée par les mesures anti juives se compose de 92 personnes. Parmi elles, 34 personnes sont arrêtées et déportées entre 1942 et 1944. D’autres comme les membres de la famille Blin ont fui et sont contraints à la clandestinité jusqu’à la Libération.</p>
     documents:
       - document: Ordonnance allemande du 1er juin 1942 rendant obligatoire le port de l’étoile jaune.
-        component: doc-top doc-black doc-multiple
+        component: doc-top doc-multiple
         legend: RMM. Fabrique des savoirs, Archives patrimoniales (Fonds ville d’Elbeuf, 4H-ELB 136)
         text: <p>Le port de l’étoile jaune est imposé aux citoyens français et aux étrangers de confession juive. Elle ne fut pas portée dans la zone libre même après son envahissement le 11 novembre 1942 mais un tampon avec la mention « Juif » est apposé sur les papiers d’identité.</p>
         medias:
@@ -104,13 +104,13 @@ chapters:
         medias:
           - /files/Doc12_9Fi3878.jpg
       - document: Pétition des ouvriers en faveur des dirigeants de l’entreprise Blin et Blin, 10 juin 1941.
-        component: doc-right doc-black
+        component: doc-right
         legend: RMM. Fabrique des savoirs, Archives patrimoniales (Fonds Blin, 9Fi2724)
         text: <p>Grâce à l’appui de leurs ouvriers, les frères Blin sont maintenus dans l’entreprise comme conseillers techniques. Mais la pression se fait plus forte après la publication du « Second Statut des juifs » en juin 1941. Ils quittent Elbeuf avec leurs familles. Ernest Blin est le dernier à quitter la ville le 10 décembre, informé de la menace d’une rafle qui a lieu à Paris le 12 décembre. Isolés et séparés les uns des autres, ils trouvent refuge dans divers lieux d’accueil au sud et au sud-ouest de la France jusqu’à la Libération.</p>
         medias:
           - /files/Doc13_9Fi2724.jpg
       - document: (4 clichés) Sarah Rotmentz et son amie Germaine Guillotin vers 1940 à Elbeuf.
-        component: doc-top doc-black doc-multiple
+        component: doc-top doc-multiple
         legend: RMM. Fabrique des savoirs, Archives patrimoniales (don Germaine Thiry-Guillotin)
         text: <p>Sarah a vingt ans en 1943 et elle est employée dans l’entreprise Blin et Blin. Le 15 janvier, elle est arrêtée par la police française à son domicile 12 rue du Pré Bazile, avec sa mère Dinah Vicquelin et en même temps que 16 autres membres de la communauté juive d’Elbeuf.</p>
         medias:
@@ -136,7 +136,7 @@ chapters:
           - /files/Doc1_9Fi0767.jpg
           - /files/Doc20_9Fi0130.jpg
       - document: Correspondance de Sarah à son amie Germaine, adressée du camp de Beaune La Rolande le 15 mars 1943.
-        component: doc-top doc-black doc-multiple
+        component: doc-top doc-multiple
         legend: RMM. Fabrique des savoirs, Archives patrimoniales (don Germaine Thiry-Guillotin)
         text: <p>Entre le 15 janvier et le 24 mars, Sarah Rotmentz correspond avec des voisins, la famille Gillot, et son amie Germaine Guillotin. Après leur arrestation, Sarah et sa mère sont détenues dans le camp de Drancy en région parisienne puis transférées vers la mi-mars dans celui de Beaune-la-Rolande (Loiret).</p><br><p>Dans cette correspondance, la jeune femme confie son quotidien, les conditions et les règles de vie à l’intérieur des camps mais aussi son incertitude quant à l’avenir.</p>
         medias:
@@ -150,7 +150,7 @@ chapters:
           - /files/Doc23_9Fi1893.jpg
           - /files/Doc24_9Fi1894.jpg
       - document: Correspondance de Sarah à son amie Germaine adressée du camp de Beaune La Rolande le 24 mars 1943.
-        component: doc-top doc-black doc-multiple
+        component: doc-top doc-multiple
         legend: RMM. Fabrique des savoirs, Archives patrimoniales (don Germaine Thiry-Guillotin)
         text: <p>Entre le 15 janvier et le 24 mars, Sarah Rotmentz correspond avec des voisins, la famille Gillot, et son amie Germaine Guillotin. Après leur arrestation, Sarah et sa mère sont détenues dans le camp de Drancy en région parisienne puis transférées vers la mi-mars dans celui de Beaune-la-Rolande (Loiret).</p><br><p>Dans cette correspondance, la jeune femme confie son quotidien, les conditions et les règles de vie à l’intérieur des camps mais aussi son incertitude quant à l’avenir.</p>
         medias:
@@ -164,7 +164,7 @@ chapters:
           - /files/Doc27_9Fi1888.jpg
           - /files/Doc28_9Fi1887.jpg
       - document: Procès-verbal d’audition de témoins sur les conditions de la disparition de Simon Sender, 14 novembre 1947.
-        component: doc-right doc-black
+        component: doc-right
         legend: RMM. Fabrique des savoirs, Archives patrimoniales (4H-ELB136)
         text: <p>Sept membres de la famille Sender, âgés de 7 à 41 ans, sont arrêtés entre le 6 mai 1942 et le 15 janvier 1943. Aucun n’est revenu de déportation.</p>
         medias:

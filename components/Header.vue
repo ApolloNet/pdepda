@@ -43,7 +43,7 @@ export default {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: $margin $margin * 2;
+  padding: $margin;
 
   a {
     color: $white;
@@ -68,5 +68,12 @@ export default {
 .switch-lang-item {
   display: inline-block;
   margin: 0;
+}
+
+@media (min-width: $mq-680) {
+  .main-header {
+    padding-left: $margin * 2;
+    padding-right: $margin * 2;
+  }
 }
 </style>

@@ -83,7 +83,7 @@ export default {
 
 .section-header-content {
   width: 66.66%;
-  padding: $margin * 2;
+  padding: $margin * 2 $margin;
 }
 
 .section-elbeuf {
@@ -136,6 +136,13 @@ export default {
   &:focus,
   &:hover {
     text-decoration: underline;
+  }
+}
+
+@media (min-width: $mq-680) {
+  .section-header {
+    padding-left: $margin * 2;
+    padding-right: $margin * 2;
   }
 }
 </style>

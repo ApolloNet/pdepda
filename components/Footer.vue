@@ -24,7 +24,7 @@ export default {
 
 <style lang="scss" scoped>
 .main-footer {
-  padding: $margin/2 $margin * 2;
+  padding: $margin/2 $margin;
   background-color: $black;
   color: $white;
 
@@ -51,5 +51,12 @@ export default {
 
 .footer-links-item {
   padding: 0 $margin/2;
+}
+
+@media (min-width: $mq-680) {
+  .main-footer {
+    padding-left: $margin * 2;
+    padding-right: $margin * 2;
+  }
 }
 </style>

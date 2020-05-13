@@ -8,11 +8,11 @@
 html {
   font-size: 100%;
 
-  @media (min-width: 50em) {
-    font-size: 2vw;
+  @media (min-width: 65em) {
+    font-size: 1.6vw;
   }
 
-  @media (min-width: 80em) {
+  @media (min-width: 90em) {
     font-size: 150%;
   }
 }
@@ -36,15 +36,15 @@ h5,
 h6 {
   margin: 0 0 $margin 0;
   font-family: $ff-title;
-  color: $black-light;
+  color: inherit;
   line-height: 1.1;
-  text-transform: uppercase;
 }
 
 h1,
 .h1 {
   margin-bottom: $margin*2;
   font-size: $fs-huge;
+  text-transform: uppercase;
 }
 
 h2,
@@ -55,6 +55,15 @@ h2,
 h3,
 .h3 {
   font-size: $fs-normal;
+
+  &::after {
+    content: '';
+    display: block;
+    width: 10rem;
+    height: 0.25rem;
+    margin-top: $margin;
+    background-color: $primary;
+  }
 }
 
 // Paragraphs et Lists
@@ -64,6 +73,7 @@ ul,
 ol,
 dl {
   margin: 0 0 $margin 0;
+  max-width: 70ch;
 
   &:empty {
     margin-bottom: 0;

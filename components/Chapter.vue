@@ -1,8 +1,10 @@
 <template>
   <section :id="'chapter-' + index" class="chapter">
-    <div class="wrapper">
-      <h2 class="h1 chapter-title">{{ chapter.chapter }}</h2>
-      <div class="chapter-intro" v-html="chapter.text"></div>
+    <div class="chapter-header">
+      <div class="wrapper">
+        <h2 class="h1 chapter-title">{{ chapter.chapter }}</h2>
+        <div class="chapter-intro" v-html="chapter.text"></div>
+      </div>
     </div>
     <Document
       v-for="document in chapter.documents"
@@ -34,17 +36,23 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-.chapter-title {
-  padding: $margin * 2;
+.chapter-header {
+  padding: $margin * 2 $margin;
+  background: $black;
+  color: $white;
 }
 
-.chapter-intro {
-  padding: 0 $margin * 2;
+.chapter:first-of-type {
+  .chapter-header {
+    background: $grey;
+    color: $black;
+  }
 }
 
 @media (min-width: $mq-680) {
-  .chapter-intro {
-    padding: 0 $margin * 6 $margin * 2 $margin * 20;
+  .chapter-header {
+    padding-right: $margin * 6;
+    padding-left: $margin * 20;
   }
 }
 </style>

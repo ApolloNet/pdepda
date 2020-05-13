@@ -41,7 +41,15 @@ export default {
 
 <style lang="scss" scoped>
 .doc {
-  padding: $margin * 4 $margin * 2;
+  padding: $margin * 4 $margin;
+
+  &:nth-of-type(even) {
+    background: $grey;
+
+    &.doc-multiple.doc-top .doc-medias::after {
+      background: linear-gradient(to right, transparent, $grey);
+    }
+  }
 }
 
 .doc .wrapper {
@@ -55,34 +63,58 @@ export default {
 
 .doc-title {
   font-size: $fs-big;
+}
 
-  &::after {
-    content: '';
-    display: block;
-    width: 10rem;
-    height: 0.5rem;
-    margin-top: $margin;
-    background-color: $primary;
-  }
+.doc-medias {
+  margin-bottom: $margin;
 }
 
 .doc-legend {
+  margin: 0;
   font-size: $fs-small;
   color: $grey-dark;
 }
 
-// Black / White
-
-.doc-black {
-  background-color: $black;
-  color: $white;
-
-  .doc-title {
-    color: $white;
-  }
-}
-
 @media (min-width: $mq-680) {
+  .doc {
+    padding-left: $margin * 2;
+    padding-right: $margin * 2;
+  }
+
+  // Multiple
+
+  .doc-multiple.doc-top {
+    .doc-medias {
+      position: relative;
+
+      &::after {
+        content: '';
+        position: absolute;
+        top: 0;
+        right: 0;
+        display: block;
+        width: 15rem;
+        height: 100%;
+        background: linear-gradient(to right, transparent, $white);
+      }
+    }
+
+    .doc-medias-inner {
+      display: flex;
+      flex-wrap: nowrap;
+      overflow-x: auto;
+    }
+
+    .media {
+      flex: 0 0 auto;
+      padding-right: $margin;
+
+      &:last-of-type {
+        padding-right: 15rem;
+      }
+    }
+  }
+
   // Left / Right
 
   .doc-right,
@@ -98,7 +130,7 @@ export default {
     }
   }
 
-  .doc-left {
+  .doc-left .wrapper {
     flex-direction: row;
 
     .doc-content {
@@ -106,7 +138,7 @@ export default {
     }
   }
 
-  .doc-right {
+  .doc-right .wrapper {
     flex-direction: row-reverse;
 
     .doc-content {
@@ -125,45 +157,6 @@ export default {
 
     .doc-medias {
       width: 100%;
-      padding-bottom: $margin * 2;
-    }
-  }
-}
-
-// Multiple
-
-.doc-multiple.doc-top {
-  .doc-medias {
-    position: relative;
-
-    &::after {
-      content: '';
-      position: absolute;
-      top: 0;
-      right: 0;
-      display: block;
-      width: 15rem;
-      height: 100%;
-      background: linear-gradient(to right, transparent, $white);
-    }
-  }
-
-  .doc-medias-inner {
-    display: flex;
-    flex-wrap: nowrap;
-    overflow-x: auto;
-  }
-
-  &.doc-black .doc-medias::after {
-    background: linear-gradient(to right, transparent, $black);
-  }
-
-  .media {
-    flex: 0 0 auto;
-    padding-right: $margin;
-
-    &:last-of-type {
-      padding-right: 15rem;
     }
   }
 }
