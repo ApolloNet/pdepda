@@ -68,7 +68,7 @@ chapters:
       - document: Accord entre la société Blin et Blin et la Française Bedeaux, 14 mai 1940
         component: doc-top doc-multiple
         legend: RMM. Fabrique des savoirs, Archives patrimoniales (Fonds Albert Blin, 275Z56)
-        text: <p>Afin de garantir la pérennité de leur entreprise, les frères André, Ernest et Maurice Blin concluent dès le 16 mai 1940 un accord qui remet la direction de leur entreprise entre les mains de la <em>Française Bedeaux</em> dirigée par Charles Bedeaux, ami d’Ernest. En vertu d’un premier contrat, la société Bedeaux prend en charge la gestion commerciale et technique mais aussi l’intégralité des pouvoirs du conseil d’administration pour une durée de 3 à 5 ans. Cet accord conduit à une « aryanisation » fictive de l’entreprise qui prend le nom d’<em>Anciens établissements Blin et Blin</em>, à partir du 21 juin 1940.</p>
+        text: "<p>De gauche à droite : Maurice Blin (1879-1967), Ernest Blin (1880-1949), André Blin (1887-1958)</p><p>Afin de garantir la pérennité de leur entreprise, les frères André, Ernest et Maurice Blin concluent dès le 16 mai 1940 un accord qui remet la direction de leur entreprise entre les mains de la <em>Française Bedeaux</em> dirigée par Charles Bedeaux, ami d’Ernest. En vertu d’un premier contrat, la société Bedeaux prend en charge la gestion commerciale et technique mais aussi l’intégralité des pouvoirs du conseil d’administration pour une durée de 3 à 5 ans. Cet accord conduit à une « aryanisation » fictive de l’entreprise qui prend le nom d’<em>Anciens établissements Blin et Blin</em>, à partir du 21 juin 1940.</p>"
         medias:
           - /files/Doc8_1
           - /files/Doc8-a_9Fi602.jpg
@@ -109,7 +109,7 @@ chapters:
         text: <p>Grâce à l’appui de leurs ouvriers, les frères Blin sont maintenus dans l’entreprise comme conseillers techniques. Mais la pression se fait plus forte après la publication du « Second Statut des juifs » en juin 1941. Ils quittent Elbeuf avec leurs familles. Ernest Blin est le dernier à quitter la ville le 10 décembre, informé de la menace d’une rafle qui a lieu à Paris le 12 décembre. Isolés et séparés les uns des autres, ils trouvent refuge dans divers lieux d’accueil au sud et au sud-ouest de la France jusqu’à la Libération.</p>
         medias:
           - /files/Doc13_9Fi2724.jpg
-      - document: (4 clichés) Sarah Rotmentz et son amie Germaine Guillotin vers 1940 à Elbeuf.
+      - document: Sarah Rotmentz et son amie Germaine Guillotin vers 1940 à Elbeuf.
         component: doc-top doc-multiple
         legend: RMM. Fabrique des savoirs, Archives patrimoniales (don Germaine Thiry-Guillotin)
         text: <p>Sarah a vingt ans en 1943 et elle est employée dans l’entreprise Blin et Blin. Le 15 janvier, elle est arrêtée par la police française à son domicile 12 rue du Pré Bazile, avec sa mère Dinah Vicquelin et en même temps que 16 autres membres de la communauté juive d’Elbeuf.</p>
@@ -118,10 +118,14 @@ chapters:
           - /files/Doc14-2_9Fi1882.jpg
           - /files/Doc14-3_9Fi1877.jpg
           - /files/Doc14-4_9Fi0127.jpg
+      - document: Correspondance de Sarah durant sa détention en camps de transit, janvier-mars 1943
+        component: doc-right
+        legend: RMM. Fabrique des savoirs, Archives patrimoniales (don Germaine Thiry-Guillotin)
+        text: <p>Entre le 15 janvier et le 24 mars, Sarah Rotmentz correspond avec des voisins, la famille Gillot, et son amie Germaine Guillotin. Après leur arrestation, Sarah et sa mère sont détenues dans le camp de Drancy en région parisienne puis transférées vers la mi-mars dans celui de Beaune-la-Rolande (Loiret).</p><p>Dans cette correspondance, la jeune femme confie son quotidien, les conditions et les règles de vie à l’intérieur des camps mais aussi son incertitude quant à l’avenir.</p>
       - document: Correspondance de Sarah à la famille Gillot, adressée du camp de Drancy le 14 février 1943.
         component: doc-top doc-multiple
         legend: RMM. Fabrique des savoirs, Archives patrimoniales (don Germaine Thiry-Guillotin)
-        text: <p>Entre le 15 janvier et le 24 mars, Sarah Rotmentz correspond avec des voisins, la famille Gillot, et son amie Germaine Guillotin. Après leur arrestation, Sarah et sa mère sont détenues dans le camp de Drancy en région parisienne puis transférées vers la mi-mars dans celui de Beaune-la-Rolande (Loiret).</p><br><p>Dans cette correspondance, la jeune femme confie son quotidien, les conditions et les règles de vie à l’intérieur des camps mais aussi son incertitude quant à l’avenir.</p>
+        text: 
         medias:
           - /files/Doc15_9Fi1884.jpg
           - /files/Doc16_9Fi1885.jpg
@@ -129,7 +133,7 @@ chapters:
       - document: Correspondance de Sarah à son amie Germaine, adressée du camp de Drancy le 28 février 1943.
         component: doc-top doc-multiple
         legend: RMM. Fabrique des savoirs, Archives patrimoniales (don Germaine Thiry-Guillotin)
-        text: <p>Entre le 15 janvier et le 24 mars, Sarah Rotmentz correspond avec des voisins, la famille Gillot, et son amie Germaine Guillotin. Après leur arrestation, Sarah et sa mère sont détenues dans le camp de Drancy en région parisienne puis transférées vers la mi-mars dans celui de Beaune-la-Rolande (Loiret).</p><br><p>Dans cette correspondance, la jeune femme confie son quotidien, les conditions et les règles de vie à l’intérieur des camps mais aussi son incertitude quant à l’avenir.</p>
+        text: 
         medias:
           - /files/Doc18_9Fi0128.jpg
           - /files/Doc19_9Fi0129.jpg
@@ -138,28 +142,28 @@ chapters:
       - document: Correspondance de Sarah à son amie Germaine, adressée du camp de Beaune La Rolande le 15 mars 1943.
         component: doc-top doc-multiple
         legend: RMM. Fabrique des savoirs, Archives patrimoniales (don Germaine Thiry-Guillotin)
-        text: <p>Entre le 15 janvier et le 24 mars, Sarah Rotmentz correspond avec des voisins, la famille Gillot, et son amie Germaine Guillotin. Après leur arrestation, Sarah et sa mère sont détenues dans le camp de Drancy en région parisienne puis transférées vers la mi-mars dans celui de Beaune-la-Rolande (Loiret).</p><br><p>Dans cette correspondance, la jeune femme confie son quotidien, les conditions et les règles de vie à l’intérieur des camps mais aussi son incertitude quant à l’avenir.</p>
+        text: 
         medias:
           - /files/Doc21_9Fi1891.jpg
           - /files/Doc22_9Fi1892.jpg
       - document: Enveloppe d’une correspondance de Germaine à Sarah, adressée au camp de Beaune La Rolande et datée du 22 mars 1943.
         component: doc-top doc-multiple
         legend: RMM. Fabrique des savoirs, Archives patrimoniales (don Germaine Thiry-Guillotin)
-        text: <p>Entre le 15 janvier et le 24 mars, Sarah Rotmentz correspond avec des voisins, la famille Gillot, et son amie Germaine Guillotin. Après leur arrestation, Sarah et sa mère sont détenues dans le camp de Drancy en région parisienne puis transférées vers la mi-mars dans celui de Beaune-la-Rolande (Loiret).</p><br><p>Dans cette correspondance, la jeune femme confie son quotidien, les conditions et les règles de vie à l’intérieur des camps mais aussi son incertitude quant à l’avenir.</p>
+        text: 
         medias:
           - /files/Doc23_9Fi1893.jpg
           - /files/Doc24_9Fi1894.jpg
       - document: Correspondance de Sarah à son amie Germaine adressée du camp de Beaune La Rolande le 24 mars 1943.
         component: doc-top doc-multiple
         legend: RMM. Fabrique des savoirs, Archives patrimoniales (don Germaine Thiry-Guillotin)
-        text: <p>Entre le 15 janvier et le 24 mars, Sarah Rotmentz correspond avec des voisins, la famille Gillot, et son amie Germaine Guillotin. Après leur arrestation, Sarah et sa mère sont détenues dans le camp de Drancy en région parisienne puis transférées vers la mi-mars dans celui de Beaune-la-Rolande (Loiret).</p><br><p>Dans cette correspondance, la jeune femme confie son quotidien, les conditions et les règles de vie à l’intérieur des camps mais aussi son incertitude quant à l’avenir.</p>
+        text: 
         medias:
           - /files/Doc25_9Fi1889.jpg
           - /files/Doc26_9Fi1890.jpg
       - document: Correspondance de Sarah à son amie Germaine, adressée du camp de Drancy le 24 mars 1943.
         component: doc-top doc-multiple
         legend: RMM. Fabrique des savoirs, Archives patrimoniales (don Germaine Thiry-Guillotin)
-        text: <p>Entre le 15 janvier et le 24 mars, Sarah Rotmentz correspond avec des voisins, la famille Gillot, et son amie Germaine Guillotin. Après leur arrestation, Sarah et sa mère sont détenues dans le camp de Drancy en région parisienne puis transférées vers la mi-mars dans celui de Beaune-la-Rolande (Loiret).</p><br><p>Dans cette correspondance, la jeune femme confie son quotidien, les conditions et les règles de vie à l’intérieur des camps mais aussi son incertitude quant à l’avenir.</p>
+        text: <p>Dans ce dernier message du 24 mars 1943 (non 1942 comme indiqué), Sarah qui a été transférée à nouveau à Drancy, annonce un départ imminent. Sa mère Dinah l’accompagne alors qu’elle bénéficie d’un statut privilégié en tant que femme d’«aryen» et de prisonnier. Les deux femmes sont déportées par le convoi 53 au camp de concentration de Sobibor où Sarah est déclarée comme étant décédée le 28 mars 1943. Le décès de sa mère Dinah est déclaré à la date du 30 mars.</p>
         medias:
           - /files/Doc27_9Fi1888.jpg
           - /files/Doc28_9Fi1887.jpg

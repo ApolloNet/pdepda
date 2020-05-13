@@ -244,6 +244,7 @@ video {
 // Links
 
 a {
+  color: $black;
   text-decoration: underline;
   transition: color $transition-duration;
 
@@ -255,7 +256,10 @@ a {
 
 // Button
 
-button {}
+button,
+.button {
+  background: $primary;
+}
 
 // Table
 

@@ -2,7 +2,7 @@
   <article class="doc" :class="document.component">
     <div class="wrapper">
       <div class="doc-medias">
-        <div class="doc-medias-inner">
+        <div class="doc-medias-inner sticky">
           <Media
             v-for="media in document.medias"
             :key="media"
