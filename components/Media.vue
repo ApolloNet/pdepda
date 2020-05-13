@@ -1,6 +1,13 @@
 <template>
   <div class="media">
-    <img v-if="isImage" :id="id" class="media-image" :src="src" :alt="alt" />
+    <img
+      v-if="isImage"
+      :id="id"
+      loading="lazy"
+      class="media-image"
+      :src="src"
+      :alt="alt"
+    />
     <audio v-if="isAudio" class="media-audio" controls :src="src" />
   </div>
 </template>
@@ -41,6 +48,7 @@ export default {
 
 <style lang="scss" scoped>
 .media {
+  margin-bottom: $margin;
   text-align: center;
 }
 

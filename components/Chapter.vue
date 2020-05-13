@@ -37,7 +37,7 @@ export default {
 
 <style lang="scss" scoped>
 .chapter-header {
-  padding: $margin * 2 $margin;
+  padding: $margin * 6 $margin $margin * 2 $margin;
   background: $black;
   color: $white;
 }

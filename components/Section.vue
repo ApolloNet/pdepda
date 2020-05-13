@@ -67,8 +67,8 @@ export default {
 .section-header {
   min-height: 100vh;
   background-repeat: no-repeat;
-  background-position: 100% 0;
-  background-size: 33.33% 100%;
+  background-position: 50% 33%;
+  background-size: cover;
   color: $black;
 
   a {
@@ -76,29 +76,32 @@ export default {
 
     &:focus,
     &:hover {
-      color: lighten($black, 10%);
+      color: $primary;
     }
   }
 }
 
 .section-header-content {
-  width: 66.66%;
   padding: $margin * 2 $margin;
 }
 
 .section-elbeuf {
-  background-image: linear-gradient(to right, $white, transparent),
+  background-image: linear-gradient(
+      112deg,
+      $white 0%,
+      $white 25%,
+      rgba(255, 255, 255, 0.9) 75%
+    ),
     url('/img/header-elbeuf.png');
 }
 
 .section-surtitre {
   margin: 0;
-  font-family: $ff-title;
   font-size: $fs-big;
 }
 
 .section-title {
-  margin: 0;
+  margin-bottom: $margin/2;
 }
 
 .section-title-link {
@@ -106,7 +109,17 @@ export default {
 }
 
 .section-museum {
+  margin-bottom: $margin * 2;
   font-size: $fs-big;
+
+  &::after {
+    content: '';
+    display: block;
+    width: 10rem;
+    height: 0.25rem;
+    margin-top: $margin;
+    background-color: $primary;
+  }
 }
 
 .section-cta {
@@ -126,12 +139,29 @@ export default {
 }
 
 .section-summary {
+  margin: 0;
   list-style: none;
   font-family: $ff-alt;
 }
 
+.section-summary-item {
+  margin-bottom: $margin;
+}
+
 .section-summary-link {
+  display: flex;
+  align-items: center;
   text-decoration: none;
+
+  &::before {
+    content: '';
+    display: inline-block;
+    width: 1.6rem;
+    height: 1.5rem;
+    margin-right: $margin;
+    background: url('/img/arrow.svg') no-repeat;
+    background-size: contain;
+  }
 
   &:focus,
   &:hover {
@@ -143,6 +173,10 @@ export default {
   .section-header {
     padding-left: $margin * 2;
     padding-right: $margin * 2;
+  }
+
+  .section-header-content {
+    width: 66.66%;
   }
 }
 </style>
