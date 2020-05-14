@@ -111,5 +111,8 @@ chapters:
         medias:
           - /files/marseille-14.1.jpg
           - /files/marseille-14.2.jpg
+      - document: Ours
+        component: doc-top
+        text: <h4>Commissariat</h4><p>Laurence Garson et Ann Blanchet (musée d'Histoire de Marseille)</p><h4>Textes et recherches iconographiques</h4><p>Laurence Garson</p><h4>Relectures</h4><p>Laurence Amsalem</p><h4>Coordination</h4><p>Fabrice Denise (musée d'Histoire de Marseille)</p><h4>Remerciements</h4><p>Robert Mencherini (professeur honoraire d’histoire contemporaine à l’Université d’Aix Marseille)</p><p>Jean Paul Camargo (Agence Saluces)</p>
 ---
 
