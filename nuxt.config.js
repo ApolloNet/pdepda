@@ -1,13 +1,47 @@
 import contents from './contents/contents.json'
 const routes = ['/', '/fr', '/en', ...Object.keys(contents)]
 
+const env = {
+  url:
+    process.env.NODE_ENV === 'development'
+      ? 'http://localhost:3000'
+      : 'destinees-juives.expositionsvirtuelles.fr',
+  mainTitle: "Ports d'Exil, Ports d'Attache",
+  mainDesc:
+    'Exposition virtuelle : destinées juives à Elbeuf, Marseille et Montréal'
+}
+
 export default {
   mode: 'universal',
   head: {
-    title: "Ports d'Exil, Ports d'Attache",
+    title: env.mainTitle,
+    htmlAttrs: {
+      lang: 'fr',
+      dir: 'ltr'
+    },
     meta: [
       { charset: 'utf-8' },
-      { name: 'viewport', content: 'width=device-width, initial-scale=1' }
+      { name: 'viewport', content: 'width=device-width, initial-scale=1' },
+      { hid: 'description', name: 'description', content: env.mainTitle },
+      { hid: 'og:site_name', property: 'og:site_name', content: env.mainDesc },
+      { hid: 'og:type', property: 'og:type', content: 'website' },
+      { hid: 'og.description', name: 'og.description', content: env.mainDesc },
+      {
+        hid: 'og:image',
+        property: 'og:image',
+        content: env.url + '/apple-icon.png'
+      },
+      {
+        hid: 'og:image:width',
+        property: 'og:image:width',
+        content: '192'
+      },
+      {
+        hid: 'og:image:height',
+        property: 'og:image:height',
+        content: '192'
+      },
+      { hid: 'twitter:card', name: 'twitter:card', content: 'summary' }
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
@@ -38,7 +72,7 @@ export default {
     routes
   },
   sitemap: {
-    hostname: 'https://pdepda.expositionsvirtuelles.fr',
+    hostname: env.url + '/',
     gzip: true,
     routes
   }

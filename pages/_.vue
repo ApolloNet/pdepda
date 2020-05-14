@@ -53,13 +53,23 @@ export default {
     ...mapState(['contents'])
   },
   head() {
+    const url = process.env.url + this.path
+    const title = this.content
+      ? this.content.title + ' | ' + process.env.mainTitle
+      : process.env.mainTitle
+    const description = this.content ? this.content.title : process.env.mainDesc
     return {
       title: this.title,
       meta: [
+        { hid: 'description', name: 'description', content: description },
+        { hid: 'og:url', property: 'og:url', content: url },
+        { hid: 'og:title', property: 'og:title', content: title },
+        { hid: 'twitter:url', name: 'twitter:url', content: url },
+        { hid: 'twitter.title', name: 'twitter:title', content: title },
         {
-          hid: 'description',
-          name: 'description',
-          content: this.content ? this.content.description : ''
+          hid: 'twitter.description',
+          name: 'twitter:description',
+          content: description
         }
       ],
       script: [
