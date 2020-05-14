@@ -1,8 +1,9 @@
 <template>
   <div>
     <script
-      async
+      defer
       src="https://www.googletagmanager.com/gtag/js?id=UA-40471491-18"
+      crossorigin="use-credentials"
     ></script>
     <script>
       window.dataLayer = window.dataLayer || []
