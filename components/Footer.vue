@@ -6,6 +6,7 @@
           <a
             class="footer-logos-link"
             href="https://framemuseums.org/"
+            title="FRAME - French AMercian Museum Exchange"
             target="_blank"
             rel="noopener"
           >
@@ -14,8 +15,8 @@
               class="footer-logos-logo"
               src="/img/logo-frame.jpg"
               alt="FRAME - French AMercian Museum Exchange"
-              width="292"
-              height="120"
+              width="195"
+              height="80"
             />
           </a>
         </li>
@@ -23,6 +24,7 @@
           <a
             class="footer-logos-link"
             href="https://musees-rouen-normandie.fr/"
+            title="Réunion des Musées Métropolitains Rouen Normandie"
             target="_blank"
             rel="noopener"
           >
@@ -31,8 +33,8 @@
               class="footer-logos-logo"
               src="/img/logo-rmm.png"
               alt="Réunion des Musées Métropolitains Rouen Normandie"
-              width="120"
-              height="120"
+              width="80"
+              height="80"
             />
           </a>
         </li>
@@ -40,6 +42,7 @@
           <a
             class="footer-logos-link"
             href="https://musee-histoire-marseille-voie-historique.fr/"
+            title="Musée d'Histoire de Marseille"
             target="_blank"
             rel="noopener"
           >
@@ -48,8 +51,8 @@
               class="footer-logos-logo"
               src="/img/logo-mhmarseille.png"
               alt="Musée d'Histoire de Marseille"
-              width="317"
-              height="120"
+              width="211"
+              height="80"
             />
           </a>
         </li>
@@ -57,6 +60,7 @@
           <a
             class="footer-logos-link"
             href="https://www.mbam.qc.ca/"
+            title="Musée des Beaux-Arts de Montréal"
             target="_blank"
             rel="noopener"
           >
@@ -65,8 +69,8 @@
               class="footer-logos-logo"
               src="/img/logo-mbam.png"
               alt="Musée des Beaux-Arts de Montréal"
-              width="222"
-              height="120"
+              width="148"
+              height="80"
             />
           </a>
         </li>
@@ -74,6 +78,7 @@
           <a
             class="footer-logos-link"
             href="https://museeholocauste.ca/"
+            title="Musée de l'Holocauste de Montréal"
             target="_blank"
             rel="noopener"
           >
@@ -82,8 +87,8 @@
               class="footer-logos-logo"
               src="/img/logo-mhmontreal.png"
               alt="Musée de l'Holocauste de Montréal"
-              width="120"
-              height="120"
+              width="80"
+              height="80"
             />
           </a>
         </li>
@@ -111,7 +116,8 @@ export default {
 <style lang="scss" scoped>
 .main-footer {
   padding: $margin * 4 $margin $margin $margin;
-  background-color: $primary;
+  background-color: $white;
+  border-top: 1em solid $primary;
   color: $black;
 
   ul,
@@ -140,15 +146,12 @@ export default {
   display: block;
   max-width: 100%;
   height: auto;
-  margin: 0 $margin $margin 0;
+  margin: 0 $margin * 4 $margin * 2 0;
   background-color: $white;
 }
 
 .footer-links {
   list-style: none;
-}
-
-.footer-links-item {
 }
 
 @media (min-width: $mq-680) {
