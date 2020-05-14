@@ -103,6 +103,9 @@
   # Disable content sniffing, since it's an attack vector.
   Header set X-Content-Type-Options "nosniff"
 
+  # CSP
+  Header set Content-Security-Policy "default-src 'self' *.gstatic.com *.google.com; img-src 'self' *.openstreetmap.org *.gstatic.com *.google.com; script-src 'self' 'unsafe-inline' *.gstatic.com *.google.com 'nonce-TTRRBhvRgF'; style-src 'self' 'unsafe-inline' *.gstatic.com *.google.com;"
+
   #HSTS
   Header set Strict-Transport-Security  "max-age=16000000; includeSubDomains; preload"
 
