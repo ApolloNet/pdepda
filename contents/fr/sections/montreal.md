@@ -41,7 +41,7 @@ chapters:
       - document: Photographie de Mathilde Jorisch et Amalie Redlich
         component: doc-right
         legend: 
-        text:
+        text: Fille et soeur de Viktor Zuckerkandl, propriétaire du tableau
         medias:
           - /files/Jorisch.jpg
       - document: Photographie de Amalie Redlich
@@ -56,7 +56,7 @@ chapters:
         text: <p>Le tableau de Waldmuller, spolié lors de l’Anschluss puis restitué à ses descendants, est offert au Musée en l’honneur de Montréal, terre d’accueil de tant de réfugiés, grâce à la générosité de la famille Jorisch.</p>
         medias:
           - /files/2013_791_a.jpg
-      - document: Livret souvenir d'un l'orphelinat de l'OSE
+      - document: Livret souvenir d'un orphelinat de l'OSE
         component: doc-top doc-multiple
         legend: Collection du Musée de l'Holocauste Montréal, don de Puck Kasma, 2014.24.13
         text: <p>1953, Le Vésinet, France</p><p>Jacques Kasma est né sous le nom de Kaszemacher à Paris en 1935. Ses parents étaient des Juifs polonais, établis en France avant sa naissance. Pendant la guerre, ses parents sont tour à tour pris par les nazis, d'abord son père en 1940, puis sa mère en 1943. Jacques est caché en Normandie avant d'être recueilli par l'Œuvre de secours aux enfants (OSE), un organisme qui a sauvé plus de 5000 enfants juifs en France pendant la Shoah. Après la guerre, Jacques demeure quelques années dans l'orphelinat de l'OSE du Vésinet. En 1953, les enfants qui y sont hébergés réalisent ce livret. Ils y rassemblent notamment des souvenirs de leurs expériences pendant la guerre ainsi que des œuvres et des souvenirs de leurs moments à l'orphelinat.</p>
@@ -79,7 +79,7 @@ chapters:
       - document: Étude pour le Portrait d'Adele Bloch‑Bauer I
         component: doc-top
         legend: MBAM, don de Francis Gutmann et de sa famille, 2012.414, Photo MBAM, Denis Farley
-        text: <p><strong>Gustav Klimt</strong><br>Vienne 1862 – Vienne 1918</p><p>1903<br>Crayon Conté<br>31,6 x 45,4 cm</p><p>Klimt est l'un des artistes viennois les plus influents d'Europe. Sa peinture Art Nouveau, controversée, admirée, richement ornementale, se distinguait par son utilisation de l'or. Ses portraits concernaient principalement les femmes de l’avant-garde intellectuelle et sociale. Adèle Bloch-Bauer, la seule peinte deux fois par Klimt, est une figure de proue de la vie intellectuelle avant et après la Première Guerre mondiale. Elle épouse le magnat du sucre international, Ferdinand Bloch qui adopte le nom Bloch-Bauer... tandis que le frère de ce dernier, Gustav, épouse sa soeur!</p><p>Après le décès d'Adèle en 1925, cette famille juive est expropriée par les Nazis en 1938. Ferdinand s'enfuit en Suisse, laissant sa succession aux enfants de Gustav installés au Canada à Vancouver. Sa nièce conservant une centaine de dessins de Klimt, son fils hérite de cinq dessins dont quatre portraits d'Adèle, qu'il offrira au Musée des beaux-arts de Montréal. Maria Altmann, autre fille de Gustav, déménage en Californie où elle gagne en 2006 un litige historique contre le gouvernement autrichien devant les tribunaux américains. La famille obtient la restitution des portraits d'Adèle par Klimt. Vendues, elles sont admirées au Los Angeles County Museum of Art et à la Neue Galerie de New York.</p>
+        text: <p><strong>Gustav Klimt</strong><br>Vienne 1862 – Vienne 1918</p><p>1903<br>Crayon Conté<br>31,6 x 45,4 cm</p><p>Klimt est l'un des artistes viennois les plus influents d'Europe. Sa peinture Art Nouveau, controversée, admirée, richement ornementale, se distinguait par son utilisation de l'or. Ses portraits concernaient principalement les femmes de l’avant-garde intellectuelle et sociale. Adèle Bloch-Bauer, la seule peinte deux fois par Klimt, est une figure de proue de la vie intellectuelle avant et après la Première Guerre mondiale. Elle épouse le magnat du sucre international, Ferdinand Bloch qui adopte le nom Bloch-Bauer... tandis que le frère de ce dernier, Gustav, épouse sa soeur!</p><p>Après le décès d'Adèle en 1925, cette famille juive est expropriée par les Nazis en 1938. Ferdinand s'enfuit en Suisse, laissant sa succession aux enfants de Gustav installés au Canada à Vancouver. Sa nièce conservant une centaine de dessins de Klimt, son fils hérite de cinq dessins dont quatre portraits d'Adèle, qu'il offrira au Musée des beaux-arts de Montréal. Maria Altmann, autre fille de Gustav, déménage en Californie où elle gagne en 2006 un litige historique contre le gouvernement autrichien devant les tribunaux américains. La famille obtient la restitution des portraits d'Adèle par Klimt. Vendus, ils sont admirés au Los Angeles County Museum of Art et à la Neue Galerie de New York.</p>
         medias:
           - /files/2012_414.jpg
       - document: Violon
@@ -118,13 +118,13 @@ chapters:
         text: <p><strong>Gerrit van Honthorst</strong><br>Utrecht 1590 – Utrecht 1656</p><p>1624<br>Huile sur toile<br>81,5 x 64,5 cm</p><p>Honthorst demeure le plus connu des caravagistes d’Utrecht. Il retient du Caravage les spectaculaires effets de lumière qu’il tempère d’un naturalisme ludique dans le choix de ses sujets et de leur présentation. Il reste célèbre pour ses scènes éclairées à la torche ou la chandelle. Sa renommée internationale lui assure la clientèle des maisons royales et des grands collectionneurs.</p><p>En 2013, le Musée des beaux-arts de Montréal rend <em>Le duo</em> (1623-1624) par Honthorst, à la famille Spiro dont les aïeux, Ellen et Bruno, un marchand berlinois qui meurt en 1936 dans le camp de concentration Fuhlsbüttel à Hambourg, furent privés lors d’une vente forcée en Allemagne. Suivant la recommandation du groupe de travail dirigé par Michal Hornstein, président du comité d’acquisition d’art ancien, lui-même grand donateur et rescapé de l'Holocauste, le Musée retourne Le Duo acheté de bonne foi après-guerre. Avec ce dédommagement, le Musée réussit à acheter, <em>Femme accordant un luth</em> également de Honthorst, daté de la même année. Il est dédicacé en hommage à la famille Spiro.</p><p>Le Musée dédie cette œuvre à la mémoire d'Ellen Clara et Bruno Richard Spiro, victimes de l'Holocauste.</p>
         medias:
           - /files/2013_68.jpg
-      - document: Photographie de Bruno Richard Spiro
+      - document: Photographie de Bruno Richard Spiro, à qui appartenait Le Duo par Gerrit van Honthorst
         component: doc-right
         legend: 
-        text: 
+        text:
         medias:
           - /files/Bruno_Spiro.jpg
-      - document: Photographie de Ellen Clara Spiro
+      - document: Photographie de Ellen Clara Spiro, épouse de Bruno Richard Spiro
         component: doc-left
         legend: 
         text: 
