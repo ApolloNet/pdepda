@@ -3,7 +3,7 @@
     <div class="wrapper main-nav">
       <nuxt-link to="/" class="header-logo">
         <img
-          src="/img/logo-inline--v2.svg"
+          src="/img/logo-header.svg"
           alt="Ports d'Exil, Ports d'Attache"
           width="466"
           height="32"

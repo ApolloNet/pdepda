@@ -4,7 +4,7 @@
       <div class="wrapper">
         <img
           class="home-header-img"
-          src="/img/logo-cover--baseline.svg"
+          src="/img/logo-home.svg"
           alt="Ports d'Exil, Ports d'Attache"
           width="391"
           height="300"
