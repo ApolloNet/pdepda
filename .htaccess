@@ -114,9 +114,9 @@
 </FilesMatch>
 
 # CORS
-#<IfModule mod_headers.c>
-#  Header set Access-Control-Allow-Origin "*"
-#</IfModule>
+<IfModule mod_headers.c>
+  Header set Access-Control-Allow-Origin "*"
+</IfModule>
 
 # CACHE + ETags
 <FilesMatch "\.(flv|gif|jpg|jpeg|png|ico|swf|ogv|mp4|webm|svg|ttf|woff|woff2|eot|js|css|pdf|txt|webp|webmanifest)$">
