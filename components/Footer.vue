@@ -9,6 +9,7 @@
             target="_blank"
           >
             <img
+              loading="lazy"
               class="footer-logos-logo"
               src="/img/logo-rmm.png"
               alt="Réunion des Musées Métropolitains Rouen Normandie"
@@ -24,6 +25,7 @@
             target="_blank"
           >
             <img
+              loading="lazy"
               class="footer-logos-logo"
               src="/img/logo-mhmarseille.png"
               alt="Musée d'Histoire de Marseille"
@@ -39,6 +41,7 @@
             target="_blank"
           >
             <img
+              loading="lazy"
               class="footer-logos-logo"
               src="/img/logo-mbam.png"
               alt="Musée des Beaux-Arts de Montréal"
@@ -54,6 +57,7 @@
             target="_blank"
           >
             <img
+              loading="lazy"
               class="footer-logos-logo"
               src="/img/logo-mhmontreal.png"
               alt="Musée de l'Holocauste de Montréal"

@@ -9,12 +9,14 @@
         <div class="section-header-content">
           <p class="section-surtitre">{{ section.place }}</p>
           <h1 class="section-title">
-            <nuxt-link class="section-title-link" :to="section.slug">{{
-              section.title
-            }}</nuxt-link>
+            {{ section.title }}
           </h1>
           <p class="section-museum">{{ section.museum }}</p>
-          <nuxt-link v-if="!fullContent" class="section-cta" :to="section.slug">
+          <nuxt-link
+            v-if="!fullContent"
+            class="button section-cta"
+            :to="section.slug"
+          >
             Visiter l'exposition
           </nuxt-link>
           <ul v-if="fullContent" class="section-summary">
@@ -64,35 +66,38 @@ export default {
 </script>
 
 <style lang="scss" scoped>
+$section-header-gradient: linear-gradient(
+  112deg,
+  $white 0%,
+  $white 25%,
+  rgba(255, 255, 255, 0.4) 75%
+);
+
 .section-header {
   min-height: 100vh;
   background-repeat: no-repeat;
   background-position: 50% 33%;
   background-size: cover;
+  border-bottom: $onepix solid $grey;
   color: $black;
+}
 
-  a {
-    color: $black;
+.section-elbeuf {
+  background-image: $section-header-gradient, url('/img/header-680-elbeuf.jpg');
+}
 
-    &:focus,
-    &:hover {
-      color: $primary;
-    }
-  }
+.section-marseille {
+  background-image: $section-header-gradient,
+    url('/img/header-680-marseille.jpg');
+}
+
+.section-montreal {
+  background-image: $section-header-gradient,
+    url('/img/header-680-montreal.jpg');
 }
 
 .section-header-content {
   padding: $margin * 2 $margin;
-}
-
-.section-elbeuf {
-  background-image: linear-gradient(
-      112deg,
-      $white 0%,
-      $white 25%,
-      rgba(255, 255, 255, 0.9) 75%
-    ),
-    url('/img/header-elbeuf.png');
 }
 
 .section-surtitre {
@@ -102,10 +107,6 @@ export default {
 
 .section-title {
   margin-bottom: $margin/2;
-}
-
-.section-title-link {
-  text-decoration: none;
 }
 
 .section-museum {
@@ -123,19 +124,7 @@ export default {
 }
 
 .section-cta {
-  display: inline-block;
-  margin-left: 1rem;
-  font-family: $ff-title;
-  text-decoration: none;
-
-  &::after {
-    content: '';
-    display: block;
-    width: 110%;
-    height: 0.5rem;
-    margin: -0.5rem 0 0 -5%;
-    background-color: $primary;
-  }
+  margin-top: $margin * 2;
 }
 
 .section-summary {
@@ -151,6 +140,7 @@ export default {
 .section-summary-link {
   display: flex;
   align-items: center;
+  color: $black;
   text-decoration: none;
 
   &::before {
@@ -175,8 +165,19 @@ export default {
     padding-right: $margin * 2;
   }
 
-  .section-header-content {
-    width: 66.66%;
+  .section-elbeuf {
+    background-image: $section-header-gradient,
+      url('/img/header-1920-elbeuf.jpg');
+  }
+
+  .section-marseille {
+    background-image: $section-header-gradient,
+      url('/img/header-1920-marseille.jpg');
+  }
+
+  .section-montreal {
+    background-image: $section-header-gradient,
+      url('/img/header-1920-montreal.jpg');
   }
 }
 </style>
