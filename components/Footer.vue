@@ -11,6 +11,22 @@
             <img
               loading="lazy"
               class="footer-logos-logo"
+              src="/img/logo-frame.jpg"
+              alt="FRAME - French AMercian Museum Exchange"
+              width="292"
+              height="120"
+            />
+          </a>
+        </li>
+        <li class="footer-logos-item">
+          <a
+            class="footer-logos-link"
+            href="https://musees-rouen-normandie.fr/"
+            target="_blank"
+          >
+            <img
+              loading="lazy"
+              class="footer-logos-logo"
               src="/img/logo-rmm.png"
               alt="Réunion des Musées Métropolitains Rouen Normandie"
               width="120"
