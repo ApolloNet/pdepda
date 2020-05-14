@@ -35,17 +35,17 @@ export default {
 </script>
 
 <style lang="scss" scoped>
+$home-header-gradient: linear-gradient(
+  112deg,
+  transparent 0%,
+  fade-out($black, 0.1) 66%
+);
+
 .home-header {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 40% 50%;
-  background-image: linear-gradient(
-      67deg,
-      transparent 0%,
-      $black 75%,
-      $black 100%
-    ),
-    url('/img/header-home.png');
+  background-image: $home-header-gradient, url('/img/header-680-home.jpg');
 }
 
 .home-header .wrapper {
@@ -64,6 +64,9 @@ export default {
 }
 
 @media (min-width: $mq-680) {
+  .home-header {
+    background-image: $home-header-gradient, url('/img/header-1920-home.jpg');
+  }
   .home-header-img {
     margin-left: auto;
     margin-right: 8rem;
