@@ -143,7 +143,15 @@
     ExpiresByType image/svg+xml "access plus 1 month"
     ExpiresByType application/x-javascript "access plus 1 month"
     ExpiresByType application/javascript "access plus 1 month"
-    ExpiresByType application/x-icon "access plus 1 year"
+    <Files "favicon.ico">
+        ExpiresByType image/x-icon               "access plus 1 hour"
+    </Files>
+    <IfModule mod_headers.c>
+        Header merge Cache-Control immutable
+        <FilesMatch "\.(appcache|cur|geojson|ico|json(ld)?|x?html?|topojson|xml)$">
+            Header edit Cache-Control immutable ""
+        </FilesMatch>
+    </IfModule>
 </IfModule>
 
 # 10 minutes = HTML, XML (RSS)
