@@ -99,9 +99,20 @@
     
 </IfModule>
 
-# Stops a browser from trying to MIME-sniff
 <IfModule mod_headers.c>
-  Header always set X-Content-Type-Options "nosniff"
+  # Disable content sniffing, since it's an attack vector.
+  Header set X-Content-Type-Options "nosniff"
+
+  #HSTS
+  Header set Strict-Transport-Security  "max-age=16000000; includeSubDomains; preload"
+
+  # HTTPOnly and Secure flags on cookies
+  Header always edit Set-Cookie (.*) "$1; HTTPOnly; Secure"
+
+  # Avoid Clickjacking and enable XSS-protection for browsers
+  <FilesMatch "\.(pl|php|cgi|spl)$">
+    Header set X-XSS-Protection "1; mode=block"
+  </FilesMatch>
 </IfModule>
 
 # Avoid Clickjacking and enable XSS-protection for browsers
