@@ -132,6 +132,20 @@
   </IfModule>
 </FilesMatch>
 
+<IfModule mod_expires.c>
+    ExpiresActive On
+    ExpiresDefault "access plus 10 days"
+    ExpiresByType text/css "access plus 1 month"
+    ExpiresByType text/plain "access plus 1 month"
+    ExpiresByType image/gif "access plus 1 month"
+    ExpiresByType image/png "access plus 1 month"
+    ExpiresByType image/jpeg "access plus 1 month"
+    ExpiresByType image/svg+xml "access plus 1 month"
+    ExpiresByType application/x-javascript "access plus 1 month"
+    ExpiresByType application/javascript "access plus 1 month"
+    ExpiresByType application/x-icon "access plus 1 year"
+</IfModule>
+
 # 10 minutes = HTML, XML (RSS)
 <FilesMatch "\.(html|htm|xml)$">
   <IfModule mod_headers.c>
