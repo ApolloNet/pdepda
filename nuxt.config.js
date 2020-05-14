@@ -1,8 +1,6 @@
 import contents from './contents/contents.json'
 const routes = ['/', '/fr', '/en', ...Object.keys(contents)]
 
-process.env.dick = 'teub'
-
 const env = {
   url:
     process.env.NODE_ENV === 'development'
