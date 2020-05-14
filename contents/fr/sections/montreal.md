@@ -26,7 +26,7 @@ chapters:
       - document: Photographie de Tola et Avrum Feigenbaum
         component: doc-right
         legend: Collection du Musée de l'Holocauste Montréal, don d'Avrum Feigenbaum, 2011X.126.34
-        text: <p>Montréal, Canada, 1951</p><p>Tola et Avrum Feigenbaum partagent un moment au belvédère du Mont-Royal, à Montréal, en 1951. Ils sont tous deux des survivants de la Shoah. Avrum se trouve dans le ghetto de Lodz, en Pologne, avant d'être déporté au camp de concentration d'Auschwitz. Tola et Avrum se sont mariés à Lodz en 1946. Ils ont ensuite obtenu le statut de réfugiés et ont immigré au Canada en 1950. Avrum a été grandement impliqué dans des initiatives de commémoration de la Shoah à Montréal. Il est notamment l'un des membres fondateurs du Musée de l'Holocauste Montréal.</p>
+        text: <p>Montréal, Canada, 1951</p><p>Tola et Avrum Feigenbaum partagent un moment au belvédère du Mont-Royal, à Montréal, en 1951. Ils sont tous deux des survivants de la Shoah. Avrum se trouve dans le ghetto de Lodz, en Pologne, avant d'être déporté au camp de concentration d'Auschwitz. Tola et Avrum se sont mariés à Lodz en 1946. Ils ont ensuite obtenu le statut de réfugié et ont immigré au Canada en 1950. Avrum a été grandement impliqué dans des initiatives de commémoration de la Shoah à Montréal. Il est notamment l'un des membres fondateurs du Musée de l'Holocauste Montréal.</p>
         medias:
           - /files/2011X_126_34_Tola_Avrum_Feigenbaum.jpg
   - chapter: La quête de mémoire
@@ -103,7 +103,7 @@ chapters:
         text: <p>1925<br>Détrempe et huile sur contreplaqué<br>100,3 x 70,3 cm</p><p><strong>Otto Dix</strong><br>Untermhaus (Allemagne) 1891 – Singen (Allemagne) 1969</p><p>Quand un client refuse de payer le portrait de sa fille qu’il juge peu ressemblant, Dix fait appel à un avocat juif, Hugo Simons. Il gagnera sa cause au nom de la liberté d’expression artistique. Pour le remercier, il lui offre cet extraordinaire portrait. Artiste fondateur du mouvement allemand de la Nouvelle Objectivité, Dix dénonce le malaise social et le pessimisme décadent de la République de Weimar. Dans ce portrait chaleureux, exempt de caricature, sa mémoire retrace l’essentiel du modèle. Qualifié d’artiste dégénéré par les nazis, Dix abandonne l’enseignement mais demeure dans son pays où commence son « émigration intérieure », alors que Simons et sa famille, déchus de leur nationalité, s’exilent à Montréal avec leur tableau.</p><p>La chaleur qui émane de ce portrait d’Hugo Simons témoigne de l'amitié du peintre envers l'avocat. Sa générosité, sa prévoyance et son courage lui ont permis d’aider des juifs et non-juifs contre le IIIe Reich. En 1933, alerté par un cousin dont les passeports et objets de valeur avaient été saisis par la Gestapo, Simons rassemble ses biens, y compris son portrait pour fuir l’Allemagne. Avec sa famille, ils se rendent aussitôt à la gare la plus proche en direction de La Haye. Simons soudoie des agriculteurs allemands établis le long de la frontière pour traverser leurs champs sans risque. Plus tard en 1939, leur destination sera Montréal...</p>
         medias:
           - /files/1993_12.jpg
-      - document: Badge d'identification appelé « étoile jaune »
+      - document: Badge d'identification appelé « étoile jaune »
         component: doc-right
         legend: Collection du Musée de l'Holocauste Montréal, don d'André Link, 2011X.221.02
         text: <p>Vers 1942, France</p><p>Cette étoile jaune, identifiant les Juifs en France, appartenait à Pal Link qui était originaire de Budapest en Hongrie. En 1940, il est à Paris pour affaires et se trouve immobilisé par l'occupation nazie de la France. Ne parvenant pas à quitter la France, il se rend en zone libre et se cache dans les Alpes. En 1943, il est toutefois dénoncé, arrêté puis déporté au camp de transit de Drancy. Afin de survivre, il ment alors sur sa profession, affirmant être un chargeur. Il travaille alors à la fournaise du camp jusqu'à sa libération en 1944.</p>
@@ -157,7 +157,7 @@ chapters:
         text: <p>20 août 1942, Camp de transit de Drancy, France</p><p>Cette lettre est la dernière que Jacques Krosberg écrit à sa femme et son fils avant d'être déporté du camp de transit de Drancy. Pendant la guerre, Jacques est déporté vers plusieurs camps de concentration, dont celui-ci d'Auschwitz, en Pologne. Il n'en reviendra jamais. En collaborant avec le Musée de l'Holocauste Montréal afin d'obtenir des réponses sur l'histoire de son père, Gérard apprend que celui-ci a officiellement été libéré d'un sous-camp de Dachau le 29 avril 1945. Il fait partie du nombre de prisonniers décédés après la Libération, des suites des conditions terribles de leur emprisonnement. Cette restitution d'information a permis de conclure un questionnement qui aura duré presque 70 ans.</p>
         medias:
           - /files/2015_19_04_Lettre_Krosberg-1.jpg
-          - /files/2015_19_04_Lettre_Krosberg-.jpg
+          - /files/2015_19_04_Lettre_krosberg-2.jpg
       - document: Photographie de Jacques et Émilie Krosberg en vacances
         component: doc-right
         legend: Musée de l'Holocauste Montréal, gracieuseté de Gérard Krosberg
