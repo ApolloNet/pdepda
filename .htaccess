@@ -118,12 +118,6 @@
 #  Header set Access-Control-Allow-Origin "*"
 #</IfModule>
 
-
-
-# ------------------------------------------------------------------------------
-# | Cache + |
-# ------------------------------------------------------------------------------
-
 # CACHE + ETags
 <FilesMatch "\.(flv|gif|jpg|jpeg|png|ico|swf|ogv|mp4|webm|svg|ttf|woff|woff2|eot|js|css|pdf|txt|webp|webmanifest)$">
   <IfModule mod_headers.c>
@@ -148,3 +142,14 @@
     FileETag None
   </IfModule>
 </FilesMatch>
+
+# Disallow headers
+<IfModule mod_headers.c>
+    Header unset Public-Key-Pins
+    Header unset Public-Key-Pins-Report-Only
+    Header unset X-AspNet-Version
+    Header unset X-AspNetMvc-version
+    Header unset X-Powered-By`
+    Header unset X-Runtime
+    Header unset X-Version
+</IfModule>
