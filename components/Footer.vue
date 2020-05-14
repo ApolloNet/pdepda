@@ -5,8 +5,9 @@
         <li class="footer-logos-item">
           <a
             class="footer-logos-link"
-            href="https://musees-rouen-normandie.fr/"
+            href="https://framemuseums.org/"
             target="_blank"
+            rel="noopener"
           >
             <img
               loading="lazy"
@@ -23,6 +24,7 @@
             class="footer-logos-link"
             href="https://musees-rouen-normandie.fr/"
             target="_blank"
+            rel="noopener"
           >
             <img
               loading="lazy"
@@ -39,6 +41,7 @@
             class="footer-logos-link"
             href="https://musee-histoire-marseille-voie-historique.fr/"
             target="_blank"
+            rel="noopener"
           >
             <img
               loading="lazy"
@@ -55,6 +58,7 @@
             class="footer-logos-link"
             href="https://www.mbam.qc.ca/"
             target="_blank"
+            rel="noopener"
           >
             <img
               loading="lazy"
@@ -71,6 +75,7 @@
             class="footer-logos-link"
             href="https://museeholocauste.ca/"
             target="_blank"
+            rel="noopener"
           >
             <img
               loading="lazy"
