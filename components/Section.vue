@@ -147,6 +147,7 @@ $section-header-gradient: linear-gradient(
 
   &::before {
     content: '';
+    flex-shrink: 0;
     display: inline-block;
     width: 1.6rem;
     height: 1.5rem;
