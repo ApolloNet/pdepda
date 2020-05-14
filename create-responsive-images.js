@@ -44,6 +44,10 @@ function formatImage(input, output, format) {
   format.width &&
     sharp(input)
       .resize(format.width)
+      .jpeg({
+        quality: 70,
+        chromaSubsampling: '4:4:4'
+      })
       .toFile(output)
 }
 
