@@ -6,11 +6,13 @@
     <Section v-if="isSection" :section="content" :full-content="true" />
     <Page v-if="isPage" :page="content" />
     <Footer />
+    <Analytics />
   </div>
 </template>
 
 <script>
 import { mapState } from 'vuex'
+import Analytics from '@/components/Analytics.vue'
 import Error from '@/components/Error.vue'
 import Footer from '@/components/Footer.vue'
 import Home from '@/components/Home.vue'
@@ -20,6 +22,7 @@ import Section from '@/components/Section.vue'
 
 export default {
   components: {
+    Analytics,
     Error,
     Footer,
     Home,
