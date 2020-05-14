@@ -104,7 +104,7 @@
   Header set X-Content-Type-Options "nosniff"
 
   # CSP
-  Header set Content-Security-Policy "default-src 'self' *.gstatic.com *.google.com *.googletagmanager.com *.jsdelivr.net; img-src 'self' *.gstatic.com *.google.com *.googletagmanager.com; script-src 'self' 'unsafe-inline' *.gstatic.com *.google.com *.googletagmanager.com *.jsdelivr.net 'nonce-TTRRBhvRgF'; style-src 'self' 'unsafe-inline' *.gstatic.com *.google.com;"
+  Header set Content-Security-Policy "default-src 'self' *.googletagmanager.com *.jsdelivr.net; img-src 'self' *.googletagmanager.com; script-src 'self' 'unsafe-inline' *.googletagmanager.com *.jsdelivr.net; style-src 'self' 'unsafe-inline';"
 
   #HSTS
   Header set Strict-Transport-Security  "max-age=16000000; includeSubDomains; preload"
@@ -112,12 +112,8 @@
   # HTTPOnly and Secure flags on cookies
   Header always edit Set-Cookie (.*) "$1; HTTPOnly; Secure"
 
-  X-Frame-Options: DENY
-
   # Avoid Clickjacking and enable XSS-protection for browsers
-  <FilesMatch "\.(pl|php|cgi|spl)$">
-    Header set X-XSS-Protection "1; mode=block"
-  </FilesMatch>
+  Header set X-XSS-Protection "1; mode=block"
 </IfModule>
 
 # Avoid Clickjacking and enable XSS-protection for browsers
