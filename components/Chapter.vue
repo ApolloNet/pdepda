@@ -50,7 +50,12 @@ export default {
 }
 
 @media (min-width: $mq-680) {
-  .chapter-header {
+  .chapter-title {
+    padding-right: $margin * 4;
+    padding-left: $margin * 16;
+  }
+
+  .chapter-intro {
     padding-right: $margin * 6;
     padding-left: $margin * 20;
   }

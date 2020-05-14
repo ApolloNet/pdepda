@@ -9,8 +9,10 @@ const test = /\.(jpe?g|png)$/i
 function loadFormats() {
   return [
     { name: 'small', width: 480 },
-    // { name: 'large', width: 1920 },
-    { name: 'tiles', tile: true }
+    { name: 'medium', width: 800 },
+    { name: 'large', width: 1280 },
+    { name: 'giant', width: 1920 }
+    // { name: 'tiles', tile: true }
   ]
 }
 

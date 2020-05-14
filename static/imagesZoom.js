@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function() {
-  imagesZoom()
+  // imagesZoom()
 })
 
 function imagesZoom() {
