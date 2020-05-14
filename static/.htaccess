@@ -112,6 +112,8 @@
   # HTTPOnly and Secure flags on cookies
   Header always edit Set-Cookie (.*) "$1; HTTPOnly; Secure"
 
+  X-Frame-Options: DENY
+
   # Avoid Clickjacking and enable XSS-protection for browsers
   <FilesMatch "\.(pl|php|cgi|spl)$">
     Header set X-XSS-Protection "1; mode=block"
