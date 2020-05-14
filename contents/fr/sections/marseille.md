@@ -62,7 +62,7 @@ chapters:
       - document: Parcours de déportés, Donna, Victor, David Hasson
         component: doc-left
         legend: MHM, Mémorial des déportations Ville de Marseille, 2019
-        text: "<p>Dès vendredi 22 janvier 1943 au matin, de grandes opérations policières se prolongent durant une semaine. Des forces considérables venues de Paris, Lyon, Vichy et Toulouse ont été concentrées par les autorités françaises : 200 inspecteurs venus de la zone sud mais aussi de Paris, environ 8 000 hommes en tenue (gendarmes, gardes mobiles, GMR) et 2000 agents de sûreté. La police de Vichy peut alors procéder à des arrestations de masse à domicile, dans la rue, les cafés, les cinémas, les trains... Des serruriers ont été réquisitionnés pour ouvrir les maisons. Durant la nuit du 22 au 23 janvier de 23h à 5h du matin peuvent démarrer les rafles dites « de l’Opéra ».</p>"
+        text: "<p>Dès vendredi 22 janvier 1943 au matin, de grandes opérations policières se prolongent durant une semaine. Des forces considérables venues de Paris, Lyon, Vichy et Toulouse ont été concentrées par les autorités françaises : 200 inspecteurs venus de la zone sud mais aussi de Paris, environ 8 000 hommes en tenue (gendarmes, gardes mobiles, GMR) et 2000 agents de sûreté. La police de Vichy peut alors procéder à des arrestations de masse à domicile, dans la rue, les cafés, les cinémas, les trains... Des serruriers ont été réquisitionnés pour ouvrir les maisons. Durant la nuit du 22 au 23 janvier de 23h à 5h du matin peuvent démarrer les rafles dites « de l’Opéra ». La famille Hasson est arrêtée dans la nuit du 23 janvier.</p>"
         medias:
           - /files/marseille-08.jpg
       - document: Évacuation des quartiers nord du Vieux Port
