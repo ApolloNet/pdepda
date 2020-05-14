@@ -79,7 +79,7 @@ export default {
           src:
             'https://cdn.jsdelivr.net/npm/openseadragon@2.4/build/openseadragon/openseadragon.min.js',
           defer: true,
-          crossorigin: 'use-credentials'
+          crossorigin: 'anonymous'
         },
         {
           hid: 'imagesZoom',

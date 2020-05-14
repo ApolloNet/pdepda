@@ -3,7 +3,7 @@
     <script
       defer
       src="https://www.googletagmanager.com/gtag/js?id=UA-40471491-18"
-      crossorigin="use-credentials"
+      crossorigin="anonymous"
     ></script>
     <script>
       window.dataLayer = window.dataLayer || []
