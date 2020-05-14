@@ -2,7 +2,7 @@
   <main class="page">
     <div class="wrapper">
       <h1>{{ page.title }}</h1>
-      <div v-html="page.text"></div>
+      <div v-html="page.html"></div>
     </div>
   </main>
 </template>
@@ -21,6 +21,13 @@ export default {
 
 <style lang="scss" scoped>
 .page {
-  padding: $margin;
+  padding: $margin * 2 $margin;
+}
+
+@media (min-width: $mq-680) {
+  .page {
+    padding-left: $margin * 2;
+    padding-right: $margin * 2;
+  }
 }
 </style>
