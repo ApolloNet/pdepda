@@ -53,13 +53,14 @@ export default {
     ...mapState(['contents'])
   },
   head() {
-    const url = process.env.url + this.path
+    const url = 'https://destinees-juives.expositionsvirtuelles.fr' + this.path
     const title = this.content
-      ? this.content.title + ' | ' + process.env.mainTitle
-      : process.env.mainTitle
-    const description = this.content ? this.content.title : process.env.mainDesc
+      ? this.content.title + " | Ports d'Exil, Ports d'Attache"
+      : "Ports d'Exil, Ports d'Attache"
+    const description =
+      'Exposition virtuelle : destinées juives à Elbeuf, Marseille et Montréal'
     return {
-      title: this.title,
+      title,
       meta: [
         { hid: 'description', name: 'description', content: description },
         { hid: 'og:url', property: 'og:url', content: url },
