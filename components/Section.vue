@@ -103,6 +103,8 @@ $section-header-gradient: linear-gradient(
 .section-surtitre {
   margin: 0;
   font-size: $fs-big;
+  font-family: $ff-title;
+  text-transform: uppercase;
 }
 
 .section-title {
