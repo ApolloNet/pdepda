@@ -105,7 +105,7 @@ chapters:
           - /files/marseille-13.1.jpg
           - /files/marseille-13.2.jpg
       - document: Des destructions à la reconstruction
-        component: 
+        component: doc-top doc-multiple
         legend: MHM ; CP Richard Belleudy
         text: "<p>Dans les quartiers détruits, le Ministère de la Reconstruction et de l’Urbanisme (MRU) préfinance et dirige les travaux. Eugène Claudius-Petit, à sa tête de 1948 à 1953, décide d’importants remaniements des projets et nomme de nouveaux architectes en chef, dans un souci de nouveauté et d’économie. La pierre et le béton font bon ménage : Pouillon et Devin privilégient la pierre, Castel et Rozan-Chirié l’associent au béton, Dunoyer de Segonzac choisit le béton brut, Crozet utilise des panneaux de dalles roses de gravillon lavé. La construction vedette de cet ensemble harmonieux est sans conteste la magistrale séquence urbaine de près de 600 m encadrant l’Hôtel de Ville, faite d’un alignement de blocs réguliers en pierre massive et représentant l'une des images les plus emblématiques de la Ville de Marseille.</p>"
         medias:

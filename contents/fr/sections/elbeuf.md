@@ -141,7 +141,6 @@ chapters:
         medias:
           - /files/Doc18_9Fi0128.jpg
           - /files/Doc19_9Fi0129.jpg
-          - /files/Doc1_9Fi0767.jpg
           - /files/Doc20_9Fi0130.jpg
       - document: Correspondance de Sarah à son amie Germaine, adressée du camp de Beaune La Rolande le 15 mars 1943.
         component: doc-top doc-multiple
