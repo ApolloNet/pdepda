@@ -4,8 +4,9 @@
       <div class="doc-medias">
         <div class="doc-medias-inner sticky">
           <Media
-            v-for="media in document.medias"
+            v-for="(media, index) in document.medias"
             :key="media"
+            :index="index"
             :src="media"
             :alt="document.legend"
           />

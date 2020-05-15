@@ -2,7 +2,7 @@
   <div class="media">
     <img
       v-if="isImage"
-      :id="filename"
+      :id="filename + '-' + index"
       loading="lazy"
       class="media-image"
       :src="`/files/derivatives/small/${file}`"
@@ -22,13 +22,17 @@
 export default {
   name: 'Media',
   props: {
-    src: {
-      type: String,
-      required: true
-    },
     alt: {
       type: String,
       default: ''
+    },
+    index: {
+      type: Number,
+      required: true
+    },
+    src: {
+      type: String,
+      required: true
     }
   },
   computed: {
