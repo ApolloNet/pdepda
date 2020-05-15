@@ -98,9 +98,12 @@
           <nuxt-link to="/fr">Accueil</nuxt-link>
         </li>
         <li class="footer-links-item">
-          <nuxt-link to="/fr/pages/mentions-legales"
-            >Mentions légales</nuxt-link
-          >
+          <nuxt-link to="/fr/pages/presentation">Présentation</nuxt-link>
+        </li>
+        <li class="footer-links-item">
+          <nuxt-link to="/fr/pages/mentions-legales">
+            Mentions légales
+          </nuxt-link>
         </li>
       </ul>
     </div>
@@ -145,7 +148,14 @@ export default {
 }
 
 .footer-links {
+  display: flex;
+  flex-wrap: wrap;
   list-style: none;
+  text-align: center;
+}
+
+.footer-links-item {
+  padding: 0 $margin/2;
 }
 
 @media (min-width: $mq-680) {

@@ -13,7 +13,7 @@ En mettant en commun les collections de ces trois villes, la Fabrique des Savoir
 
 # Crédits & remerciements
 
-Le projet de cette exposition est né dans le contexte particulier du grand confinement du printemps 2020, dû à la pandémie mondiale du Covid-19. Répondant à l’appel à projet lancé par le réseau FRAME (FRench American Museum Exchange, fédérant 32 musées français et nord-américains), les musées de Rouen, Montréal et Marseille se sont fédérés pour prolonger leur mission en ligne. Sur une proposition de la Fabrique des Savoirs, à Elbeuf, le thème des destinées juives pendant la seconde guerre mondiale est apparu comme le plus pertinent. Au terme d’une intense mobilisation de part et d’autre de l’Atlantique, grâce au généreux soutien du réseau FRAME, cette exposition inédite a vu le jour en l’espace de deux semaines.
+Le projet de cette exposition est né dans le contexte particulier du grand confinement du printemps 2020, dû à la pandémie mondiale du Covid-19. Répondant à l’appel à projet lancé par le réseau FRAME (FRench American Museum Exchange, fédérant 32 musées français et nord-américains), les musées de Rouen, Montréal et Marseille se sont fédérés pour prolonger leur mission en ligne. Sur une proposition de la Fabrique des Savoirs, à Elbeuf, le thème des destinées juives pendant la seconde guerre mondiale est apparu comme le plus pertinent. Au terme d’une intense mobilisation de part et d’autre de l’Atlantique, grâce au généreux soutien du réseau FRAME, cette exposition inédite a vu le jour en l’espace de quelques semaines.
 
 Que soient ici particulièrement remerciés pour leur engagement et leur contribution :
 
@@ -21,11 +21,15 @@ Que soient ici particulièrement remerciés pour leur engagement et leur contrib
 
 Sylvain Amic, Directeur des musées de la Métropole Rouen Normandie, conservateur en chef du patrimoine
 
+Xavier Rey, Directeur des musées de Marseille, conservateur en chef du patrimoine
+
+Nathalie Bondil, Directrice générale et conservatrice en chef du Musée des beaux-arts de Montréal
+
 ## Métropole Rouen Normandie
 
 **Elbeuf, Fabrique des savoirs**
 
-Marie Sanchez, Directrice de la Fabrique des savoirs, conservateur en chef du patrimoine
+Commissariat : Marie Sanchez, Directrice de la Fabrique des savoirs d'Elbeuf, conservateur en chef du patrimoine
 
 Bénédicte Sanctot, Directrice de la communication et Alexis Le Pesteur, Chargé de la communication numérique pour les musées
 
@@ -51,11 +55,7 @@ Robert Mencherini (professeur honoraire d’histoire contemporaine à l’Univer
 
 Jean Paul Camargo (Agence Saluces)
 
-Xavier Rey, directeur des musées de Marseille
-
 ## Musée des beaux-arts de Montréal
-
-Direction :  Nathalie Bondil, directrice générale et conservatrice en chef
 
 Commissariat : Iris Amizlev, conservatrice en arts interculturels
 
