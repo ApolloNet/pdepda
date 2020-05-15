@@ -67,6 +67,13 @@ Droits : Marie-Claude Saia et Linda-Anne d’Anjou
 
 Remerciements : Julie Grahame, Senior Representative, Estate of Yousuf Karsh
 
+## Musée de l'holocauste de Montréal
+
+Marie-Blanche Fourcade, Conservatrice
+
+Andréa Shaulis, Conservatrice, Curator
+
+
 ## FRAME
 
 Anne-Solène Rolland et William Beekman, Coprésidents de FRAME
