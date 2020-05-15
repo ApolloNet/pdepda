@@ -35,7 +35,7 @@ Bénédicte Sanctot, Directrice de la communication et Alexis Le Pesteur, Charg�
 
 Cette exposition est un hommage à toutes celles et ceux qui ne sont pas revenus des camps d'extermination comme notre jeune concitoyenne Sarah Rotmentz.
 
-Nos remerciements vont à ceux, aujourd'hui disparus, qui ont permis de conserver la mémoire de cette période tragique de l'histoire, Germaine Guillotin-Thiry et  Albert Blin, à titre personnel et au titre de dirigeant de l'entreprise Blin et Blin ainsi que Denise Chauvel et Michel Zimmern.
+Nos remerciements vont à ceux, certains aujourd'hui disparus, qui ont permis de conserver la mémoire de cette période tragique de l'histoire, Germaine Guillotin-Thiry et  Albert Blin à titre personnel et au titre de dirigeant de l'entreprise Blin et Blin ainsi qu'à Denise Chauvel et Michel Zimmern.
 
 Merci à la Société de l'histoire d'Elbeuf pour sa contribution à la transcription des correspondances de Sarah Rotmentz.
 
@@ -72,7 +72,6 @@ Remerciements : Julie Grahame, Senior Representative, Estate of Yousuf Karsh
 Marie-Blanche Fourcade, Conservatrice
 
 Andréa Shaulis, Conservatrice, Curator
-
 
 ## FRAME
 
