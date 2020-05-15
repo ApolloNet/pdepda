@@ -11,8 +11,6 @@ Cette exposition virtuelle prend pour cadre la Seconde guerre mondiale. Elle fai
 
 En mettant en commun les collections de ces trois villes, la Fabrique des Savoirs à Elbeuf près de Rouen, et le Musée d’Histoire de Marseille, enfin outre Atlantique, le Musée des Beaux-Arts de Montréal et le Musée de l’Holocauste, il est possible de jeter une lumière crue sur la réalité concrète des loi anti-juives,  leur mécanique bureaucratique barbare. Ce sont aussi des témoignages de résilience et d'espoir dans ce long voyage vers l'exil, la reconstruction et la réparation.  Ces objets nous parlent d'Alexander, Amalie, Avrum, Max, David, Donna, Edwig, Emilie, Georges, Hugo, Illana, Jacques, Jeannine Louis Pal Sarah, Tola, Victor Wilhem et de tant d’autres. Écoutons leur voix.
 
-_Sylvain Amic_
-
 # Crédits & remerciements
 
 Le projet de cette exposition est né dans le contexte particulier du grand confinement du printemps 2020, dû à la pandémie mondiale du Covid-19. Répondant à l’appel à projet lancé par le réseau FRAME (FRench American Museum Exchange, fédérant 32 musées français et nord-américains), les musées de Rouen, Montréal et Marseille se sont fédérés pour prolonger leur mission en ligne. Sur une proposition de la Fabrique des Savoirs, à Elbeuf, le thème des destinées juives pendant la seconde guerre mondiale est apparu comme le plus pertinent. Au terme d’une intense mobilisation de part et d’autre de l’Atlantique, grâce au généreux soutien du réseau FRAME, cette exposition inédite a vu le jour en l’espace de deux semaines.
