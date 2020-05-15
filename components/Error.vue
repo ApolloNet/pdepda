@@ -1,5 +1,5 @@
 <template>
-  <main class="error">
+  <div class="error">
     <div class="wrapper">
       <h1>Page non trouvée</h1>
       <p>
@@ -8,7 +8,7 @@
         </nuxt-link>
       </p>
     </div>
-  </main>
+  </div>
 </template>
 
 <script>

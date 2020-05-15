@@ -1,10 +1,12 @@
 <template>
   <div class="hrapper">
     <Header v-if="!isHome" />
-    <Error v-if="isError" />
-    <Home v-if="isHome" />
-    <Section v-if="isSection" :section="content" :full-content="true" />
-    <Page v-if="isPage" :page="content" />
+    <main>
+      <Error v-if="isError" />
+      <Home v-if="isHome" />
+      <Section v-if="isSection" :section="content" :full-content="true" />
+      <Page v-if="isPage" :page="content" />
+    </main>
     <Footer />
     <Analytics />
   </div>

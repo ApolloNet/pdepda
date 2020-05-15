@@ -1,10 +1,10 @@
 <template>
-  <main class="page">
+  <div class="page">
     <div class="wrapper">
       <h1>{{ page.title }}</h1>
       <div v-html="page.html"></div>
     </div>
-  </main>
+  </div>
 </template>
 
 <script>

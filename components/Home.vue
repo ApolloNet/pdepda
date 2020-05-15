@@ -1,5 +1,5 @@
 <template>
-  <main>
+  <div>
     <div class="home-header">
       <div class="wrapper">
         <img
@@ -11,13 +11,21 @@
         />
       </div>
     </div>
+    <div class="home-intro">
+      <div class="wrapper">
+        <h2>Destinées juives pendant la Seconde guerre mondiale</h2>
+        <nuxt-link to="/fr/pages/presentation">
+          Présentation de l'exposition
+        </nuxt-link>
+      </div>
+    </div>
     <Section
       v-for="section in sections"
       :key="section.slug"
       :section="section"
       :full-content="false"
     />
-  </main>
+  </div>
 </template>
 
 <script>
@@ -63,10 +71,26 @@ $home-header-gradient: linear-gradient(
   max-width: 90vw;
 }
 
+.home-intro {
+  padding: $margin * 2;
+  background: $black;
+  color: $white;
+  text-align: center;
+
+  h2 {
+    text-transform: uppercase;
+  }
+
+  a {
+    color: $white;
+  }
+}
+
 @media (min-width: $mq-680) {
   .home-header {
     background-image: $home-header-gradient, url('/img/header-1920-home.jpg');
   }
+
   .home-header-img {
     margin-left: auto;
     margin-right: 8rem;

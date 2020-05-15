@@ -1,5 +1,5 @@
 <template>
-  <main>
+  <div>
     <div
       class="section-header"
       :class="'section-' + section.id"
@@ -41,7 +41,7 @@
         :index="index"
       />
     </template>
-  </main>
+  </div>
 </template>
 
 <script>
