@@ -72,10 +72,9 @@ $home-header-gradient: linear-gradient(
 }
 
 .home-intro {
-  padding: $margin * 2;
+  padding: $margin * 4 $margin * 3 $margin * 2 $margin * 3;
   background: $black;
   color: $white;
-  text-align: center;
 
   h2 {
     text-transform: uppercase;
