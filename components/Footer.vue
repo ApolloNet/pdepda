@@ -13,7 +13,7 @@
             <img
               loading="lazy"
               class="footer-logos-logo"
-              src="/img/logo-frame.jpg"
+              src="/img/logo-frame.svg"
               alt="FRAME - French AMercian Museum Exchange"
               width="195"
               height="80"
@@ -31,9 +31,9 @@
             <img
               loading="lazy"
               class="footer-logos-logo"
-              src="/img/logo-rmm.png"
+              src="/img/logo-rmm.svg"
               alt="Réunion des Musées Métropolitains Rouen Normandie"
-              width="80"
+              width="114"
               height="80"
             />
           </a>
@@ -49,7 +49,7 @@
             <img
               loading="lazy"
               class="footer-logos-logo"
-              src="/img/logo-mhmarseille.png"
+              src="/img/logo-mhmarseille.svg"
               alt="Musée d'Histoire de Marseille"
               width="211"
               height="80"
@@ -67,7 +67,7 @@
             <img
               loading="lazy"
               class="footer-logos-logo"
-              src="/img/logo-mbam.png"
+              src="/img/logo-mbam.svg"
               alt="Musée des Beaux-Arts de Montréal"
               width="148"
               height="80"
@@ -85,7 +85,7 @@
             <img
               loading="lazy"
               class="footer-logos-logo"
-              src="/img/logo-mhmontreal.png"
+              src="/img/logo-mhmontreal.svg"
               alt="Musée de l'Holocauste de Montréal"
               width="80"
               height="80"
@@ -116,17 +116,12 @@ export default {
 <style lang="scss" scoped>
 .main-footer {
   padding: $margin * 4 $margin $margin $margin;
-  background-color: $white;
+  background-color: $grey;
   border-top: 1em solid $primary;
-  color: $black;
 
   ul,
   li {
     margin: 0;
-  }
-
-  a {
-    color: $black;
   }
 }
 
@@ -147,7 +142,6 @@ export default {
   max-width: 100%;
   height: auto;
   margin: 0 $margin * 4 $margin * 2 0;
-  background-color: $white;
 }
 
 .footer-links {
