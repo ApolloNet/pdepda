@@ -164,9 +164,8 @@ chapters:
         text: <p>Avant la Seconde Guerre mondiale, probablement en France</p><p>Jacques et Émilie Krosberg ont été séparés par la Shoah. Jacques est arrêté à Paris le 13 mars 1942. Détenu à Drancy, il est ensuite déporté vers le camp de concentration d’Auschwitz, en Pologne, puis vers d'autres camps. Émilie se cache avec leur fils Gérard à Nice et à Annecy jusqu’à la Libération.</p>
         medias:
           - /files/Jacques_Emilie_Krosberg_vacances.jpg
-      - document: Ours
+      - document: Crédits
         component: doc-top
-        legend:
         text: "<p><strong>Musée des beaux-arts de Montréal</strong></p><p>Direction :  Nathalie Bondil, directrice générale et conservatrice en chef</p><p>Commissariat : Iris Amizlev, conservatrice en arts interculturels</p><p>Archives : Natalie Vanier</p><p>Photographie: Claudine Nicol</p><p>Droits : Marie-Claude Saia et Linda-Anne d’Anjou.</p><p>Remerciement : Julie Grahame, Senior Representative, Estate of Yousuf Karsh.</p>"
 ---
 

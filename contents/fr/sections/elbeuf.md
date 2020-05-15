@@ -183,5 +183,8 @@ chapters:
         medias:
           - /files/Doc30_p1.jpg
           - /files/Doc30_p2.jpg
+      - document: Crédits
+        component: doc-top
+        text: "<p>Commissariat général :  Sylvain Amic, Directeur des musées de la Métropole Rouen Normandie, conservateur en chef du patrimoine</p><p><strong>Elbeuf, Fabrique des savoirs</strong></p><p>Marie Sanchez, Directrice de la Fabrique des savoirs, conservateur en chef du patrimoine</p><p>Bénédicte Sanctot, Directrice de la communication et Alexis Le Pesteur, Chargé de la communication numérique pour les musées</p><p>Cette exposition est un hommage à toutes celles et ceux qui ne sont pas revenus des camps d'extermination comme notre jeune concitoyenne Sarah Rotmentz.</p><p>Nos remerciements vont à ceux, aujourd'hui disparus, qui ont permis de conserver la mémoire de cette période tragique de l'histoire, Germaine Guillotin-Thiry et  Albert Blin, à titre personnel et au titre de dirigeant de l'entreprise Blin et Blin ainsi que Denise Chauvel et Michel Zimmern.</p><p>Merci à la Société de l'histoire d'Elbeuf pour sa contribution à la transcription des correspondances de Sarah Rotmentz.</p>"
 ---
 
