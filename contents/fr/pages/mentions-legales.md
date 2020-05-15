@@ -4,8 +4,8 @@ title: Mentions Légales
 
 Le site destinees-juives.expositionsvirtuelles.fr est édité par la Réunion des Musées Métropolitains :
 
-- Directeur de la publication : Sylvain Amic
-- Directeur de la rédaction : Marie Sanchez
+- Directeur de la publication : Dominique Randon
+- Directeur de la rédaction : Sylvain Amic
 - Rédacteur en chef : Marie Sanchez
 - Webmaster technique : [Alexandre Ronsaut](https://apollonet.fr)
 - Conception graphique du site : [Raphaël Sanchez](https://raphaelsanchez.design/) et [Alexandre Ronsaut](https://apollonet.fr)
