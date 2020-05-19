@@ -167,7 +167,7 @@ $section-header-gradient: linear-gradient(
 }
 
 .section-help {
-  padding: $margin * 2 $margin * 4 $margin $margin * 17;
+  padding: $margin * 2;
   background-color: $primary;
 
   &::before {
@@ -176,7 +176,7 @@ $section-header-gradient: linear-gradient(
     display: block;
     width: 2rem;
     height: 2rem;
-    margin-right: 2rem;
+    margin-right: 1rem;
     background: transparent url('/img/eye.svg') 50% 50% no-repeat;
     background-size: 2rem 2rem;
   }
@@ -209,6 +209,10 @@ $section-header-gradient: linear-gradient(
   .section-montreal {
     background-image: $section-header-gradient,
       url('/img/header-1920-montreal.jpg');
+  }
+
+  .section-help {
+    padding: $margin * 2 $margin * 4 $margin $margin * 17;
   }
 }
 </style>
