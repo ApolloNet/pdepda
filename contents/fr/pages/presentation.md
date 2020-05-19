@@ -9,7 +9,7 @@ Rouen, Marseille, Montréal, trois villes portuaires qui se sont construites sur
 
 Cette exposition virtuelle prend pour cadre la Seconde guerre mondiale. Elle fait ressurgir des archives, photographies, objets, œuvres d’art souvent inédits qui forment, comme les cailloux du Petit Poucet, un chemin. De Normandie en zone occupée, à la Provence en zone libre, nous suivons le sort de citoyens juifs, français ou européens, traqués par l’occupant nazi et ses affidés, ou par le régime de Vichy. Avec au bout du voyage la mort en déportation... ou le salut au Canada, terre d’accueil.
 
-En mettant en commun les collections de ces trois villes, la Fabrique des Savoirs à Elbeuf près de Rouen, et le Musée d’Histoire de Marseille, enfin outre Atlantique, le Musée des Beaux-Arts de Montréal et le Musée de l’Holocauste, il est possible de jeter une lumière crue sur la réalité concrète des loi anti-juives,  leur mécanique bureaucratique barbare. Ce sont aussi des témoignages de résilience et d'espoir dans ce long voyage vers l'exil, la reconstruction et la réparation.  Ces objets nous parlent d'Alexander, Amalie, Avrum, Max, David, Donna, Edwig, Emilie, Georges, Hugo, Illana, Jacques, Jeannine Louis Pal Sarah, Tola, Victor Wilhem et de tant d’autres. Écoutons leur voix.
+En mettant en commun les collections de ces trois villes, la Fabrique des Savoirs à Elbeuf près de Rouen, et le Musée d’Histoire de Marseille, enfin outre Atlantique, le Musée des beaux-Arts de Montréal et le Musée de l’Holocauste, il est possible de jeter une lumière crue sur la réalité concrète des loi anti-juives,  leur mécanique bureaucratique barbare. Ce sont aussi des témoignages de résilience et d'espoir dans ce long voyage vers l'exil, la reconstruction et la réparation.  Ces objets nous parlent d'Alexander, Amalie, Avrum, Max, David, Donna, Edwig, Emilie, Georges, Hugo, Illana, Jacques, Jeannine Louis Pal Sarah, Tola, Victor Wilhem et de tant d’autres. Écoutons leur voix.
 
 # Crédits & remerciements
 
@@ -31,6 +31,8 @@ Nathalie Bondil, Directrice générale et conservatrice en chef du Musée des be
 
 Commissariat : Marie Sanchez, Directrice de la Fabrique des savoirs d'Elbeuf, conservateur en chef du patrimoine
 
+Martine Bekaert, Archiviste en charge des collections iconographiques
+
 Bénédicte Sanctot, Directrice de la communication et Alexis Le Pesteur, Chargé de la communication numérique pour les musées
 
 Cette exposition est un hommage à toutes celles et ceux qui ne sont pas revenus des camps d'extermination comme notre jeune concitoyenne Sarah Rotmentz.
@@ -38,6 +40,8 @@ Cette exposition est un hommage à toutes celles et ceux qui ne sont pas revenus
 Nos remerciements vont à ceux, certains aujourd'hui disparus, qui ont permis de conserver la mémoire de cette période tragique de l'histoire, Germaine Guillotin-Thiry et  Albert Blin à titre personnel et au titre de dirigeant de l'entreprise Blin et Blin ainsi qu'à Denise Chauvel et Michel Zimmern.
 
 Merci à la Société de l'histoire d'Elbeuf pour sa contribution à la transcription des correspondances de Sarah Rotmentz.
+
+[https://lafabriquedessavoirs.fr](lafabriquedessavoirs.fr)
 
 ## Musée d'Histoire de Marseille
 
@@ -55,9 +59,13 @@ Robert Mencherini (professeur honoraire d’histoire contemporaine à l’Univer
 
 Jean Paul Camargo (Agence Saluces)
 
+[https://www.musee-histoire-marseille-voie-historique.fr](musee-histoire-marseille-voie-historique.fr)
+
 ## Musée des beaux-arts de Montréal
 
 Commissariat : Iris Amizlev, conservatrice en arts interculturels
+
+Promotion du projet: Pascale Chassé, Directrice des communications
 
 Archives : Natalie Vanier
 
@@ -67,11 +75,17 @@ Droits : Marie-Claude Saia et Linda-Anne d’Anjou
 
 Remerciements : Julie Grahame, Senior Representative, Estate of Yousuf Karsh
 
+[https://www.mbam.qc.ca](mbam.qc.ca)
+
 ## Musée de l'holocauste de Montréal
 
-Marie-Blanche Fourcade, Conservatrice
+Commissaires de l'exposition : Marie-Blanche Fourcade, Cheffe conservation et expositions et Andréa Shaulis, Conservatrice
 
-Andréa Shaulis, Conservatrice, Curator
+Promotion du projet : Sarah Fogg, Cheffe marketing, communications et relations publiques
+
+Le Musée de l’Holocauste remercie chaleureusement Gérard Krosberg et Illana Izso pour avoir gracieusement permis l’utilisation de photographies de leur collection privée pour cette exposition.
+
+[https://museeholocauste.ca](museeholocauste.ca)
 
 ## FRAME
 

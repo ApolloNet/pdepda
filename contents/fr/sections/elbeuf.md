@@ -66,10 +66,10 @@ chapters:
   - chapter: L’« aryanisation » économique
     text: "<p>Les dirigeants d’entreprise de confession juive sont concernés par les mesures prises par l’occupant et le régime de Vichy et notamment par la loi du 22 juillet 1941 sur l’«aryanisation » économique. L’«aryanisation », véritable système de spoliation des biens juifs, s’opère par un transfert de la gestion des entreprises à des administrateurs provisoires et pour finir par leur vente à des acquéreurs « aryens » ou leur liquidation. A Elbeuf, sont concernées plusieurs entreprises créées au lendemain de l’annexion de l’Alsace : usines de fabrication de drap de laine comme Fraenckel-Herzog et Blin & Blin ou l’usine de confection Weill-Kingsbourg-Bernheim.</p>"
     documents:
-      - document: Accord entre la société Blin et Blin et la Française Bedeaux, 14 mai 1940
+      - document: Accord entre la société Blin et Blin et la Française Bedaux, 14 mai 1940
         component: doc-top doc-multiple
         legend: RMM. Fabrique des savoirs, Archives patrimoniales (Fonds Albert Blin, 275Z56)
-        text: "<p>De gauche à droite : Maurice Blin (1879-1967), Ernest Blin (1880-1949), André Blin (1887-1958)</p><p>Afin de garantir la pérennité de leur entreprise, les frères André, Ernest et Maurice Blin concluent dès le 16 mai 1940 un accord qui remet la direction de leur entreprise entre les mains de la <em>Française Bedeaux</em> dirigée par Charles Bedeaux, ami d’Ernest. En vertu d’un premier contrat, la société Bedeaux prend en charge la gestion commerciale et technique mais aussi l’intégralité des pouvoirs du conseil d’administration pour une durée de 3 à 5 ans. Cet accord conduit à une « aryanisation » fictive de l’entreprise qui prend le nom d’<em>Anciens établissements Blin et Blin</em>, à partir du 21 juin 1940.</p>"
+        text: "<p>De gauche à droite : Maurice Blin (1879-1967), Ernest Blin (1880-1949), André Blin (1887-1958)</p><p>Afin de garantir la pérennité de leur entreprise, les frères André, Ernest et Maurice Blin concluent dès le 16 mai 1940 un accord qui remet la direction de leur entreprise entre les mains de la <em>Française Bedaux</em> dirigée par Charles Bedaux, ami d’Ernest. En vertu d’un premier contrat, la société Bedaux prend en charge la gestion commerciale et technique mais aussi l’intégralité des pouvoirs du conseil d’administration pour une durée de 3 à 5 ans. Cet accord conduit à une « aryanisation » fictive de l’entreprise qui prend le nom d’<em>Anciens établissements Blin et Blin</em>, à partir du 21 juin 1940.</p>"
         medias:
           - /files/Doc8-a_9Fi602.jpg
           - /files/Doc8-b_9Fi601.jpg
@@ -78,16 +78,16 @@ chapters:
           - /files/3Z279p2.jpg
           - /files/3Z279p3.jpg
           - /files/3Z279p4.jpg
-      - document: Procuration d’Ernest Blin pour la remise de ses titres à Charles Bedeaux, 14 mai 1940.
+      - document: Procuration d’Ernest Blin pour la remise de ses titres à Charles Bedaux, 14 mai 1940.
         component: doc-right
         legend: RMM. Fabrique des savoirs, Archives patrimoniales (Fonds Blin, 9Fi2705)
-        text: <p>Dans le cadre de l’accord conclu entre les dirigeants de Blin et la société Française Bedeaux, Charles Bedeaux reçoit la garde des titres et se voit attribuer une fonction d’arbitrage en cas de conflit entre les deux parties.</p>
+        text: <p>Dans le cadre de l’accord conclu entre les dirigeants de Blin et la société Française Bedaux, Charles Bedaux reçoit la garde des titres et se voit attribuer une fonction d’arbitrage en cas de conflit entre les deux parties.</p>
         medias:
           - /files/Doc9_9Fi2705.jpg
       - document: Attestation allemande confirmant l’attribution du statut de « Sperr-Betriebe » 1943
         component: doc-left doc-multiple
         legend: RMM. Fabrique des savoirs, Archives patrimoniales (Fonds Blin, 3Z279)
-        text: "<p>L’entreprise est désormais gérée par un administrateur « aryen » en l’occurrence la Société Bedeaux. Elle obtient successivement le statut de Rüstung Betriebe (entreprise d’armement) qui lui accorde des facilités d’approvisionnement en matières premières. En 1943, elle est désignée <em>Sperr-Betriebe</em> (du nom du ministre de l’armement du IIIe Reich, Albert Sperr) : elle est à ce titre exemptée du prélèvement de main d’œuvre pour le STO (Service du travail obligatoire). Une grande partie de sa production est livrée aux autorités d’occupation sous la forme de drap militaire.</p>"
+        text: "<p>L’entreprise est désormais gérée par un administrateur « aryen » en l’occurrence la Société Bedaux. Elle obtient successivement le statut de Rüstung Betriebe (entreprise d’armement) qui lui accorde des facilités d’approvisionnement en matières premières. En 1943, elle est désignée <em>Sperr-Betriebe</em> (du nom du ministre de l’armement du IIIe Reich, Albert Sperr) : elle est à ce titre exemptée du prélèvement de main d’œuvre pour le STO (Service du travail obligatoire). Une grande partie de sa production est livrée aux autorités d’occupation sous la forme de drap militaire.</p>"
         medias:
           - /files/Doc10-1_9Fi2727.jpg
           - /files/Doc10-2_9Fi2728.jpg
