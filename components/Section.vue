@@ -33,6 +33,13 @@
         </div>
       </div>
     </div>
+    <div class="section-help">
+      <h2>Plonger dans les documents</h2>
+      <p>
+        Chaque document est présenté en haute définition.<br />Cliquer pour
+        zoomer sur les détails.
+      </p>
+    </div>
     <template v-if="fullContent">
       <Chapter
         v-for="(chapter, index) in section.chapters"
@@ -159,6 +166,31 @@ $section-header-gradient: linear-gradient(
   &:focus,
   &:hover {
     text-decoration: underline;
+  }
+}
+
+.section-help {
+  padding: $margin * 2 $margin * 4 $margin * 2 $margin * 17;
+  background-color: $primary;
+
+  h2 {
+    &::before {
+      content: '?';
+      display: inline-block;
+      width: 2rem;
+      height: 2rem;
+      margin-right: 1rem;
+      background-color: $black;
+      color: $primary;
+      font-size: 1.5rem;
+      line-height: 1.2;
+      border-radius: 50%;
+      text-align: center;
+    }
+  }
+
+  p {
+    margin-left: 3rem;
   }
 }
 

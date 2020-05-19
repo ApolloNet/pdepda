@@ -57,13 +57,20 @@ export default {
 
 <style lang="scss" scoped>
 .media {
+  position: relative;
   margin-bottom: $margin;
-  text-align: center;
 }
 
 .media-image {
+  display: block;
   width: 100%;
   height: auto;
+  margin: 0 auto;
+  cursor: pointer;
+}
+
+.openseadragon-canvas {
+  cursor: pointer;
 }
 
 @media (min-width: $mq-680) {
