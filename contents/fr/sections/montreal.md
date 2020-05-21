@@ -39,16 +39,11 @@ chapters:
         medias:
           - /files/2013_791.jpg
       - document: Photographie de Mathilde Jorisch et Amalie Redlich
-        component: doc-right
+        component: doc-top doc-multiple
         legend: 
         text: Fille et soeur de Viktor Zuckerkandl, propriétaire du tableau
         medias:
           - /files/Jorisch.jpg
-      - document: Photographie de Amalie Redlich
-        component: doc-left
-        legend: 
-        text:
-        medias:
           - /files/RET_Redlich_Amalie_GREY_M_s_2013.jpg
       - document: Photographie de la famille de Jorisch lors du don du Waldmüller au MBAM
         component: doc-right
@@ -118,17 +113,12 @@ chapters:
         text: <p><strong>Gerrit van Honthorst</strong><br>Utrecht 1590 – Utrecht 1656</p><p>1624<br>Huile sur toile<br>81,5 x 64,5 cm</p><p>Gerrit van Honthorst demeure le plus connu des caravagistes d’Utrecht. Il retient du Caravage les spectaculaires effets de lumière qu’il tempère d’un naturalisme ludique dans le choix de ses sujets et de leur présentation. Il reste célèbre pour ses scènes éclairées à la torche ou la chandelle. Sa renommée internationale lui assure la clientèle des maisons royales et des grands collectionneurs.</p><p>En 2013, le Musée des beaux-arts de Montréal rend <em>Le duo</em> (1623-1624) par Honthorst, à la famille Spiro dont les aïeux, Ellen et Bruno, un marchand berlinois qui meurt en 1936 dans le camp de concentration Fuhlsbüttel à Hambourg, furent privés lors d’une vente forcée en Allemagne. Suivant la recommandation du groupe de travail dirigé par Michal Hornstein, président du comité d’acquisition d’art ancien, lui-même grand donateur et rescapé de l'Holocauste, le Musée retourne Le Duo acheté de bonne foi après-guerre. Avec ce dédommagement, le Musée réussit à acheter, <em>Femme accordant un luth</em> également de Honthorst, daté de la même année.</p><p>Le Musée dédie cette œuvre à la mémoire d'Ellen Clara et Bruno Richard Spiro, victimes de l'Holocauste.</p>
         medias:
           - /files/2013_68.jpg
-      - document: Photographie de Bruno Richard Spiro, à qui appartenait Le Duo par Gerrit van Honthorst
-        component: doc-right
+      - document: Bruno Richard Spiro et son épouse Ellen Clara Spiro
+        component: doc-top doc-multiple
         legend: 
-        text:
+        text: <p>Bruno Richard Spiro, à qui appartenait <em>Le Duo</em> par Gerrit van Honthorst.</p>
         medias:
           - /files/Bruno_Spiro.jpg
-      - document: Photographie de Ellen Clara Spiro, épouse de Bruno Richard Spiro
-        component: doc-left
-        legend: 
-        text: 
-        medias:
           - /files/SPIRO_Ellen_Clara.jpg
       - document: Au nom de sa famille, Gerald Matthes, petit-fils de Bruno Spiro, reçoit Le Duo de Honthorst avec Nathalie Bondil directrice et Michal Hornstein, vice-président du MBAM.
         component: doc-top

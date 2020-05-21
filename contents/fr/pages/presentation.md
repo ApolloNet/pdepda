@@ -77,7 +77,7 @@ Remerciements : Julie Grahame, Senior Representative, Estate of Yousuf Karsh
 
 [https://www.mbam.qc.ca](mbam.qc.ca)
 
-## Musée de l'holocauste de Montréal
+## Musée de l'Holocauste Montréal
 
 Commissaires de l'exposition : Marie-Blanche Fourcade, Cheffe conservation et expositions et Andréa Shaulis, Conservatrice
 
