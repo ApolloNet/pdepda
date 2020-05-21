@@ -11,8 +11,8 @@ function loadFormats() {
     { name: 'small', width: 480 },
     { name: 'medium', width: 800 },
     { name: 'large', width: 1280 },
-    { name: 'giant', width: 1920 }
-     { name: 'tiles', tile: true }
+    { name: 'giant', width: 1920 },
+    { name: 'tiles', tile: true }
   ]
 }
 

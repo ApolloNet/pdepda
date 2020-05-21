@@ -97,7 +97,7 @@ $section-header-gradient: linear-gradient(
 
 .section-montreal {
   background-image: $section-header-gradient,
-    url('/img/header-680-montreal.jpg');
+    url('/img/header-680-montreal-2.jpg');
 }
 
 .section-header-content {
@@ -208,7 +208,7 @@ $section-header-gradient: linear-gradient(
 
   .section-montreal {
     background-image: $section-header-gradient,
-      url('/img/header-1920-montreal.jpg');
+      url('/img/header-1920-montreal-2.jpg');
   }
 
   .section-help {
