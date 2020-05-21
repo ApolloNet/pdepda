@@ -85,7 +85,7 @@ export default {
         },
         {
           hid: 'imagesZoom',
-          src: '/imagesZoom.js',
+          src: '/imagesZoom-200521.js',
           defer: true
         }
       ]
