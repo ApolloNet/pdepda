@@ -10,7 +10,7 @@
         />
       </nuxt-link>
       <nav>
-        <ul v-if="false" class="switch-lang">
+        <ul class="switch-lang">
           <li class="switch-lang-item">
             <nuxt-link class="switch-lang-link" to="/en" title="English">
               EN

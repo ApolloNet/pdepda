@@ -13,10 +13,8 @@
     </div>
     <div class="home-intro">
       <div class="wrapper">
-        <h2>Destinées juives pendant la Seconde guerre mondiale</h2>
-        <nuxt-link to="/fr/pages/presentation">
-          Présentation de l'exposition
-        </nuxt-link>
+        <h2>{{ introText[lang] }}</h2>
+        <nuxt-link :to="aboutURI[lang]">{{ aboutText[lang] }}</nuxt-link>
       </div>
     </div>
     <Section
@@ -29,14 +27,31 @@
 </template>
 
 <script>
-import { mapGetters } from 'vuex'
+import { mapState, mapGetters } from 'vuex'
 import Section from '@/components/Section.vue'
 
 export default {
   components: {
     Section
   },
+  data() {
+    return {
+      introText: {
+        en: 'Destinées juives pendant la Seconde guerre mondiale',
+        fr: 'Destinées juives pendant la Seconde guerre mondiale'
+      },
+      aboutText: {
+        en: 'About the exhibition',
+        fr: "Présentation de l'exposition"
+      },
+      aboutURI: {
+        en: '/en/pages/presentation',
+        fr: '/fr/pages/presentation'
+      }
+    }
+  },
   computed: {
+    ...mapState(['lang']),
     ...mapGetters(['sections'])
   }
 }

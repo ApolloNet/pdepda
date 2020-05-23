@@ -13,7 +13,7 @@
 </template>
 
 <script>
-import { mapState } from 'vuex'
+import { mapState, mapMutations } from 'vuex'
 import Analytics from '@/components/Analytics.vue'
 import Error from '@/components/Error.vue'
 import Footer from '@/components/Footer.vue'
@@ -53,6 +53,15 @@ export default {
       return !this.isHome && !this.isSection && !this.isPage
     },
     ...mapState(['contents'])
+  },
+  mounted() {
+    const langs = ['fr', 'en']
+    const langFromRoute = this.$route.params.pathMatch.split('/').shift()
+    const lang = langs.includes(langFromRoute) ? langFromRoute : 'fr'
+    this.setLang(lang)
+  },
+  methods: {
+    ...mapMutations(['setLang'])
   },
   head() {
     const url = 'https://destinees-juives.expositionsvirtuelles.fr' + this.path
