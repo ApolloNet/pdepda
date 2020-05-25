@@ -85,9 +85,9 @@
             <img
               loading="lazy"
               class="footer-logos-logo"
-              src="/img/logo-mhmontreal.svg"
+              :src="`/img/logo-mhmontreal-${lang}.svg`"
               alt="Musée de l'Holocauste de Montréal"
-              width="80"
+              width="154"
               height="80"
             />
           </a>
