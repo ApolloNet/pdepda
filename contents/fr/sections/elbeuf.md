@@ -7,20 +7,20 @@ image:
 description: 
 chapters:
   - chapter: Les archives locales et la question juive (1940-1944)
-    text: <p>Les recherches historiques consacrées à la période de l’Occupation ont considérablement progressé ces dernières décennies. En France, en Allemagne ou aux Etats-Unis, l’ouverture de fonds d’archives, jusqu’alors non accessibles, a permis aux chercheurs d’investir de nouveaux champs d’étude. Parmi les sujets traités, figurent la question juive et la détermination de la responsabilité de l’Etat français dans la mise en œuvre de mesures à l’encontre des juifs de France. Si l’Allemagne nazie a été l’instigatrice d’un véritable programme d’extermination des juifs d’Europe, le gouvernement de Vichy a collaboré à sa réalisation sur le territoire français. En exploitant un sentiment général ouvertement antisémite, latent depuis l’affaire Dreyfus parmi l’élite politique, économique, intellectuelle et la population, l’Etat a entrainé l’ensemble du système administratif du pays dans cette collaboration.</p><p>Cette exposition s’appuie sur les archives produites par l’administration elle-même pour évoquer la question juive durant l’Occupation. Elle s’emploie à montrer les modalités d’application au niveau local, des mesures émanant des autorités allemandes et de L’Etat français. Enfin, en touchant au local, elle donne la mesure du drame humain à travers le parcours de femmes et d’hommes connus de leurs concitoyens, amis ou relations professionnelles, avec lesquels ils partageaient le quotidien.</p>
+    text: <p>Les recherches historiques consacrées à la période de l’Occupation ont considérablement progressé ces dernières décennies. En France, en Allemagne ou aux Etats-Unis, l’ouverture de fonds d’archives, jusqu’alors non accessibles, a permis aux chercheurs d’investir de nouveaux champs d’étude. Parmi les sujets traités, figurent la question juive et la détermination de la responsabilité de l’Etat français dans la mise en œuvre de mesures à l’encontre des Juifs de France. Si l’Allemagne nazie a été l’instigatrice d’un véritable programme d’extermination des Juifs d’Europe, le gouvernement de Vichy a collaboré à sa réalisation sur le territoire français. En exploitant un sentiment général ouvertement antisémite, latent depuis l’affaire Dreyfus parmi l’élite politique, économique, intellectuelle et la population, l’Etat a entrainé l’ensemble du système administratif du pays dans cette collaboration.</p><p>Cette exposition s’appuie sur les archives produites par l’administration elle-même pour évoquer la question juive durant l’Occupation. Elle s’emploie à montrer les modalités d’application au niveau communal, des mesures émanant des autorités allemandes et de L’Etat français. Enfin, en touchant au local, elle donne la mesure du drame humain à travers le parcours de femmes et d’hommes connus de leurs concitoyens, amis ou relations professionnelles, avec lesquels ils partageaient le quotidien.</p>
   - chapter: L’administration des communes durant l’Occupation
-    text: <p>L’armistice signé le 22 juin 1940 entérine la division de la France en deux zones séparées par une ligne de démarcation. Au nord, dans la zone dite occupée, l’Etat français doit trouver une conciliation avec l’administration allemande, essentiellement militaire et qui siège à Paris. Le gouvernement installé à Vichy administre librement les seuls départements de la zone libre, partie sud du pays et les colonies. Les préfets deviennent un rouage essentiel de l’administration, du sommet de l’Etat vers les communes.</p><p>Le 10 juillet, les députés votent les pleins pouvoirs au maréchal Pétain. Par une loi en date du 16 novembre 1940, le gouvernement de Vichy abolit le principe de l’élection des conseillers municipaux et rétablit le principe de leur nomination par le ministre de l’Intérieur dans les villes de plus de 10 000 habitants et, par le préfet pour les autres. Entre 1940 et 1941, près de 500 municipalités sont dissoutes. Communistes, juifs, francs-maçons sont exclus des nouvelles assemblées.</p>
+    text: <p>L’armistice signé le 22 juin 1940 entérine la division de la France en deux zones séparées par une ligne de démarcation. Au nord, dans la zone dite occupée, l’Etat français doit trouver une conciliation avec l’administration allemande, encore essentiellement militaire et qui siège à Paris. Le gouvernement installé à Vichy administre librement les seuls départements de la zone libre, partie sud du pays et les colonies. Les préfets deviennent un rouage essentiel de l’administration, du sommet de l’Etat vers les communes.</p><p>Le 10 juillet, les députés votent les pleins pouvoirs au maréchal Pétain. Par une loi en date du 16 novembre 1940, le gouvernement de Vichy abolit le principe de l’élection des conseillers municipaux et rétablit le principe de leur nomination par le ministre de l’Intérieur dans les villes de plus de 10 000 habitants et, par le préfet pour les autres. Entre 1940 et 1941, près de 500 municipalités sont dissoutes. Communistes, Juifs, Francs-maçons sont exclus des nouvelles assemblées.</p>
     documents: 
       - document: Fiche de renseignements d’un conseiller municipal en date du 7 mai 1941
         component: doc-right
         legend: RMM. Fabrique des savoirs, Archives patrimoniales (9Fi767)
-        text: <p>Conformément aux principes établis par la loi du 16 novembre 1940, René Lebret, maire élu en 1928, présente une liste de 40 noms parmi lesquels le préfet choisit 19 conseillers. Chaque conseiller est tenu de produire une fiche de renseignements mentionnant des informations sur sa situation au regard du statut des étrangers (loi du 17 juillet 1940), du statut des juifs (3 octobre et 16 novembre 1940) et des mesures prises à l’encontre des sociétés secrètes dont la Franc-maçonnerie (13 août 1940).</p>
+        text: <p>Conformément aux principes établis par la loi du 16 novembre 1940, René Lebret, maire élu en 1928, présente une liste de 40 noms parmi lesquels le préfet choisit 19 conseillers. Chaque conseiller est tenu de produire une fiche de renseignements mentionnant des informations sur sa situation au regard du statut des étrangers (loi du 17 juillet 1940), du statut des Juifs (3 octobre et 16 novembre 1940) et des mesures prises à l’encontre des sociétés secrètes dont la Franc-maçonnerie (13 août 1940).</p>
         medias:
           - /files/Doc1_9Fi0767.jpg
       - document: Affiche relative à la nouvelle dénomination de la rue de la Barrière en hommage au maréchal Pétain, mars 1941.
         component: doc-top
         legend: RMM. Fabrique des savoirs, Archives patrimoniales (8Fi1526)
-        text: <p>A Elbeuf, les autorités allemandes se sont installées à l’hôtel de ville où elles cohabitent avec la municipalité conduite par René Lebret, maintenu dans ses fonctions.<br>René Lebret est élu député du canton d’Elbeuf et de Grand-Couronne dans les rangs de la SFIO (Section Française de l’Internationale Ouvrière) en 1928. Pourtant, il vote les pleins pouvoirs à Pétain en 1940. Anti communiste convaincu, il évolue politiquement vers le parti socialiste français puis l’Union socialiste républicaine.  A la Libération, il est condamné à la Dégradation nationale par la Cour de justice de Rouen pour avoir notamment assuré les fonctions de responsable de la propagande du régime de Vichy pour la Normandie.</p>
+        text: <p>À Elbeuf, les autorités allemandes se sont installées à l’hôtel de ville où elles cohabitent avec la municipalité conduite par René Lebret, maintenu dans ses fonctions.<br>René Lebret est élu député du canton d’Elbeuf et de Grand-Couronne dans les rangs de la SFIO (Section Française de l’Internationale Ouvrière) en 1928. Pourtant, il vote les pleins pouvoirs à Pétain en 1940. Anti communiste convaincu, il évolue politiquement vers le parti socialiste français puis l’Union socialiste républicaine.  À la Libération, il est condamné à la Dégradation nationale par la Cour de justice de Rouen pour avoir notamment assuré les fonctions de responsable de la propagande du régime de Vichy pour la Normandie.</p>
         medias: 
           - /files/Doc2_8FI1526.jpg
       - document: Visite des maires de Normandie au chef de l’Etat Philippe Pétain à Vichy vers 1942. (Premier à gauche, René Lebret maire d’Elbeuf)
@@ -29,18 +29,18 @@ chapters:
         medias:
           - /files/Doc3_3Fi0826.jpg
   - chapter: Les lois anti juives de Vichy
-    text: <p>Désormais en possession des pleins pouvoirs, Pétain avec la collaboration du gouvernement de Vichy met progressivement en place une véritable politique de discrimination raciale à l’encontre des juifs étrangers puis français. A partir de juillet 1940, plusieurs lois sont promulguées qui visent à les exclure de la société. Le 3 octobre 1940, le « Premier Statut » des juifs leur interdit l’accès à un grand nombre de professions dont celles de la Fonction publique. Le « Second Statut » parait le 2 juin 1941. Les citoyens de confession juive sont contraints de faire une déclaration écrite auprès de la préfecture. En juillet 1942, Vichy franchit l’étape ultime en acceptant que l’Etat français collabore aux premières déportations.</p>
+    text: <p>Désormais en possession des pleins pouvoirs, Pétain avec la collaboration du gouvernement de Vichy met progressivement en place une véritable politique de discrimination raciale à l’encontre des juifs étrangers puis français. À partir de juillet 1940, plusieurs lois sont promulguées qui visent à les exclure de la société. Le 3 octobre 1940, le « Premier Statut des Juifs » leur interdit l’accès à un grand nombre de professions dont celles de la Fonction publique. Le « Second Statut » parait le 2 juin 1941. Les citoyens de confession juive sont contraints de faire une déclaration écrite auprès de la préfecture. En juillet 1942, Vichy franchit l’étape ultime en acceptant que l’Etat français collabore aux premières déportations.</p>
     documents:
-      - document: Affiche relative aux mesures d’inscription des juifs et des entreprises juives, 15 octobre 1940.
+      - document: Affiche relative aux mesures d’inscription des Juifs et des entreprises juives, 15 octobre 1940.
         component: doc-left
         legend: RMM. Fabrique des savoirs, Archives patrimoniales (8Fi1421)
         text: <p>L’exclusion s’accompagne dorénavant du contrôle et de la répression. Les préfets se voient chargés du recensement des juifs vivant en France. Localement, ce sont les maires qui procèdent au recensement proprement dit.</p>
         medias:
           - /files/Doc4_8FI1421.jpg
-      - document: Recensement des juifs du canton d’Elbeuf, [1940].
+      - document: Recensement des juifs du canton d’Elbeuf, [sans date].
         component: doc-top doc-multiple
         legend: RMM. Fabrique des savoirs, Archives patrimoniales (4H-ELB136)
-        text: <p>Depuis 1848, il existe à Elbeuf une petite communauté juive qui s’est développée avec l’arrivée d’industriels alsaciens en 1871. Cette liste manuscrite, sans doute la première établie vraisemblablement dès la parution du « Premier Statut des juifs » recense 92 personnes. La plupart de ces listes et fichiers établis avec minutie par l’administration française servira pour procéder aux arrestations à partir de 1942.</p>
+        text: <p>Depuis 1848, il existe à Elbeuf une petite communauté juive qui s’est développée avec l’arrivée d’industriels alsaciens en 1871. Cette première liste manuscrite recense 92 personnes. La plupart de ces listes et fichiers établis avec minutie par l’administration française servira pour procéder aux arrestations à partir de 1942.</p>
         medias:
           - /files/Doc5_p01.jpg
           - /files/Doc5_p05.jpg
@@ -64,7 +64,7 @@ chapters:
         medias:
           - /files/Doc7.jpg
   - chapter: L’« aryanisation » économique
-    text: "<p>Les dirigeants d’entreprise de confession juive sont concernés par les mesures prises par l’occupant et le régime de Vichy et notamment par la loi du 22 juillet 1941 sur l’«aryanisation » économique. L’«aryanisation », véritable système de spoliation des biens juifs, s’opère par un transfert de la gestion des entreprises à des administrateurs provisoires et pour finir par leur vente à des acquéreurs « aryens » ou leur liquidation. A Elbeuf, sont concernées plusieurs entreprises créées au lendemain de l’annexion de l’Alsace : usines de fabrication de drap de laine comme Fraenckel-Herzog et Blin & Blin ou l’usine de confection Weill-Kingsbourg-Bernheim.</p>"
+    text: "<p>Les dirigeants d’entreprise de confession juive sont concernés par les mesures prises par l’occupant et le régime de Vichy et notamment par la loi du 22 juillet 1941 sur l’«aryanisation » économique. L’«aryanisation », véritable système de spoliation des biens juifs, s’opère par un transfert de la gestion des entreprises à des administrateurs provisoires et pour finir par leur vente à des acquéreurs « aryens » ou leur liquidation. À Elbeuf, sont concernées plusieurs entreprises créées au lendemain de l’annexion de l’Alsace par des industriels de confession juive : usines de fabrication de drap de laine comme Fraenckel-Herzog et Blin & Blin ou l’usine de confection Weill-Kingsbourg-Bernheim.</p>"
     documents:
       - document: Accord entre la société Blin et Blin et la Française Bedaux, 14 mai 1940
         component: doc-top doc-multiple
@@ -84,15 +84,15 @@ chapters:
         text: <p>Dans le cadre de l’accord conclu entre les dirigeants de Blin et la société Française Bedaux, Charles Bedaux reçoit la garde des titres et se voit attribuer une fonction d’arbitrage en cas de conflit entre les deux parties.</p>
         medias:
           - /files/Doc9_9Fi2705.jpg
-      - document: Attestation allemande confirmant l’attribution du statut de « Sperr-Betriebe » 1943
+      - document: Attestation allemande confirmant l’attribution du statut de « Sperr-Betrieb » 1943
         component: doc-left doc-multiple
         legend: RMM. Fabrique des savoirs, Archives patrimoniales (Fonds Blin, 3Z279)
-        text: "<p>L’entreprise est désormais gérée par un administrateur « aryen » en l’occurrence la Société Bedaux. Elle obtient successivement le statut de Rüstung Betriebe (entreprise d’armement) qui lui accorde des facilités d’approvisionnement en matières premières. En 1943, elle est désignée <em>Sperr-Betriebe</em> (du nom du ministre de l’armement du IIIe Reich, Albert Sperr) : elle est à ce titre exemptée du prélèvement de main d’œuvre pour le STO (Service du travail obligatoire). Une grande partie de sa production est livrée aux autorités d’occupation sous la forme de drap militaire.</p>"
+        text: "<p>L’entreprise est désormais gérée par un administrateur « aryen » en l’occurrence la Société Bedaux. Elle obtient successivement le statut de <em>Rüstung Betrieb</em> (entreprise d’armement) qui lui accorde des facilités d’approvisionnement en matières premières. En 1943, elle est désignée <em>Sperr-Betrieb</em> (à l’initiative du ministre de l’armement du IIIe Reich, Albert Sperr) : elle est à ce titre exemptée du prélèvement de main d’œuvre pour le STO (Service du travail obligatoire). Une grande partie de sa production est livrée aux autorités d’occupation sous la forme de drap militaire.</p>"
         medias:
           - /files/Doc10-1_9Fi2727.jpg
           - /files/Doc10-2_9Fi2728.jpg
   - chapter: Destins individuels
-    text: <p>La répression à l’encontre des juifs s’intensifie, résultat d’une collaboration active entre le gouvernement de Vichy et le régime nazi. La Solution finale qui vise à l’extermination totale des juifs d’Europe vient d’être décidée et planifiée au cours de la conférence de Wannsee le 20 janvier 1942.</p><p>Selon le recensement de 1940, la communauté juive d’Elbeuf concernée par les mesures anti juives se compose de 92 personnes. Parmi elles, 34 personnes sont arrêtées et déportées entre 1942 et 1944. D’autres comme les membres de la famille Blin ont fui et sont contraints à la clandestinité jusqu’à la Libération.</p>
+    text: <p>La répression à l’encontre des juifs s’intensifie, résultat d’une collaboration active entre le gouvernement de Vichy et le régime nazi. La Solution finale qui vise à l’extermination totale des Juifs d’Europe vient d’être décidée et planifiée au cours de la conférence de Wannsee le 20 janvier 1942.</p><p>Selon le recensement de 1940, la communauté juive d’Elbeuf concernée par les mesures anti juives se compose de 92 personnes. Parmi elles, 34 personnes sont arrêtées et déportées entre 1942 et 1944. D’autres comme les membres de la famille Blin ont fui et sont contraints à la clandestinité jusqu’à la Libération.</p>
     documents:
       - document: Ordonnance allemande du 1er juin 1942 rendant obligatoire le port de l’étoile jaune.
         component: doc-top doc-multiple
@@ -101,7 +101,7 @@ chapters:
         medias:
           - /files/Doc11_p1.jpg
           - /files/Doc11_p2.jpg
-      - document: Rapport de police en date du 17 juillet 1942 relatif à la pose d’étoiles juives sur la façade de la synagogue rue Grémont à Elbeuf.
+      - document: Rapport de police en date du 17 juillet 1942 relatif à la pose d’étoiles jaunes sur la façade de la synagogue rue Grémont à Elbeuf.
         component: doc-left
         legend: RMM. Fabrique des savoirs, Archives patrimoniales (Fonds Ville d’Elbeuf, 9Fi3878)
         text: <p>Ce rapport indique que l’évènement s’est déroulé dans la nuit du 16 au 17 juillet 1942. Or, le 16 juillet à 4 heures du matin a commencé la rafle du Vélodrome d’hiver au cours de laquelle 13 152 personnes dont 4000 enfants sont arrêtés à Paris par la police française pour être déportés.</p>
@@ -110,7 +110,7 @@ chapters:
       - document: Pétition des ouvriers en faveur des dirigeants de l’entreprise Blin et Blin, 10 juin 1941.
         component: doc-right
         legend: RMM. Fabrique des savoirs, Archives patrimoniales (Fonds Blin, 9Fi2724)
-        text: <p>Grâce à l’appui de leurs ouvriers, les frères Blin sont maintenus dans l’entreprise comme conseillers techniques. Mais la pression se fait plus forte après la publication du « Second Statut des juifs » en juin 1941. Ils quittent Elbeuf avec leurs familles. Ernest Blin est le dernier à quitter la ville le 10 décembre, informé de la menace d’une rafle qui a lieu à Paris le 12 décembre. Isolés et séparés les uns des autres, ils trouvent refuge dans divers lieux d’accueil au sud et au sud-ouest de la France jusqu’à la Libération.</p>
+        text: <p>Grâce à l’appui de leurs ouvriers, les frères Blin sont maintenus dans l’entreprise comme conseillers techniques. Mais la pression se fait plus forte après la publication du « Second Statut des Juifs » en juin 1941. Ils quittent Elbeuf avec leurs familles. Ernest Blin est le dernier à quitter la ville le 10 décembre, informé de la menace d’une rafle qui a lieu à Paris le 12 décembre. Isolés et séparés les uns des autres, ils trouvent refuge dans divers lieux d’accueil au sud et au sud-ouest de la France jusqu’à la Libération.</p>
         medias:
           - /files/Doc13_9Fi2724.jpg
       - document: Sarah Rotmentz et son amie Germaine Guillotin vers 1940 à Elbeuf.
@@ -142,21 +142,21 @@ chapters:
           - /files/Doc18_9Fi0128.jpg
           - /files/Doc19_9Fi0129.jpg
           - /files/Doc20_9Fi0130.jpg
-      - document: Correspondance de Sarah à son amie Germaine, adressée du camp de Beaune La Rolande le 15 mars 1943.
+      - document: Correspondance de Sarah à son amie Germaine, adressée du camp de Beaune-la-Rolande le 15 mars 1943.
         component: doc-top doc-multiple
         legend: RMM. Fabrique des savoirs, Archives patrimoniales (don Germaine Thiry-Guillotin)
         text: 
         medias:
           - /files/Doc21_9Fi1891.jpg
           - /files/Doc22_9Fi1892.jpg
-      - document: Enveloppe d’une correspondance de Germaine à Sarah, adressée au camp de Beaune La Rolande et datée du 22 mars 1943.
+      - document: Enveloppe d’une correspondance de Germaine à Sarah, adressée au camp de Beaune-la-Rolande et datée du 22 mars 1943.
         component: doc-top doc-multiple
         legend: RMM. Fabrique des savoirs, Archives patrimoniales (don Germaine Thiry-Guillotin)
         text: 
         medias:
           - /files/Doc23_9Fi1893.jpg
           - /files/Doc24_9Fi1894.jpg
-      - document: Correspondance de Sarah à son amie Germaine adressée du camp de Beaune La Rolande le 24 mars 1943.
+      - document: Correspondance de Sarah à son amie Germaine adressée du camp de Beaune-la-Rolande le 24 mars 1943.
         component: doc-top doc-multiple
         legend: RMM. Fabrique des savoirs, Archives patrimoniales (don Germaine Thiry-Guillotin)
         text: 
