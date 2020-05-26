@@ -51,7 +51,7 @@
               class="footer-logos-logo"
               src="/img/logo-mhmarseille.svg"
               alt="Musée d'Histoire de Marseille"
-              width="211"
+              width="299"
               height="80"
             />
           </a>
@@ -144,7 +144,7 @@ export default {
   display: block;
   max-width: 100%;
   height: auto;
-  margin: 0 $margin * 4 $margin * 2 0;
+  margin: 0 $margin * 3 $margin * 2 0;
 }
 
 .footer-links {
