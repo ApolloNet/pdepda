@@ -181,7 +181,8 @@ export default {
   display: block;
   max-width: 100%;
   height: auto;
-  margin: 0 $margin * 4 $margin * 2 0;
+  max-height: 80px;
+  margin: 0 $margin * 3 $margin * 2 0;
 }
 
 .footer-links {
