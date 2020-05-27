@@ -49,14 +49,10 @@ chapters:
         legend: RMM. Fabrique des savoirs, Heritage Archives (Blin Holdings, 3Z279)
         text: <p>After the enactment of the “Second Statute”, people of Jewish faith had to submit a written declaration of their civil status, family status, profession, and property. Ernest Blin, who ran the company Blin & Blin with his brothers André and Maurice, submitted this declaration on July 1 on behalf of his children, Albert, 20 years old, and Dominique, 17 years old.</p>
         medias:
-          - /files/Doc6_p1
-          - /files/Doc6_p2
-          - /files/Doc6_p3
-          - /files/Doc6_p4
-          - /files/Doc6_p5
-          - /files/Doc6_p6
-          - /files/Doc6_p7
-          - /files/275Z56.jpg
+          - /files/3Z279p1.jpg
+          - /files/3Z279p2.jpg
+          - /files/3Z279p3.jpg
+          - /files/3Z279p4.jpg
       - document: Letter dated July 17, 1941 from Simon Sender to the mayor asking for authorization to continue working as a pastry chef in Elbeuf.
         component: doc-right
         legend: RMM. Fabrique des savoirs, Heritage Archives (4H-ELB136)
@@ -74,10 +70,7 @@ chapters:
           - /files/Doc8-a_9Fi602.jpg
           - /files/Doc8-b_9Fi601.jpg
           - /files/Doc8-c_9Fi603.jpg
-          - /files/3Z279p1.jpg
-          - /files/3Z279p2.jpg
-          - /files/3Z279p3.jpg
-          - /files/3Z279p4.jpg
+          - /files/275Z56.jpg
       - document: Assignment letter from Ernest Blin transferring his shares to Charles Bedaux, May 14, 1940.
         component: doc-right
         legend: RMM. Fabrique des savoirs, Heritage Archives (Blin Holdings, 9Fi2705)

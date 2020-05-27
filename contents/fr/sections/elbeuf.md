@@ -46,17 +46,13 @@ chapters:
           - /files/Doc5_p05.jpg
       - document: Déclaration d’Ernest Blin, 1941.
         component: doc-top doc-multiple
-        legend: Déclaration d’Ernest Blin, 1941.
+        legend: RMM. Fabrique des savoirs, Archives patrimoniales (Fonds Blin, 3Z279)
         text: <p>Suite à la parution du « Second Statut », les citoyens de confession juive sont contraints de faire une déclaration écrite mentionnant leur état civil, leur situation de famille, leur profession et l’état de leurs biens. Ernest Blin, qui dirige l’entreprise Blin et Blin avec ses frères André et Maurice procède à cette déclaration le 1er juillet également au titre de ses enfants, Albert, 20 ans et Dominique, 17 ans.</p>
         medias:
-          - /files/Doc6_p1
-          - /files/Doc6_p2
-          - /files/Doc6_p3
-          - /files/Doc6_p4
-          - /files/Doc6_p5
-          - /files/Doc6_p6
-          - /files/Doc6_p7
-          - /files/275Z56.jpg
+          - /files/3Z279p1.jpg
+          - /files/3Z279p2.jpg
+          - /files/3Z279p3.jpg
+          - /files/3Z279p4.jpg
       - document: Supplique adressée le 17 juillet 1941 par Simon Sender au maire afin d’obtenir l’autorisation de poursuivre son activité de pâtissier à Elbeuf.
         component: doc-right
         legend: RMM. Fabrique des savoirs, Archives patrimoniales (4H-ELB136)
@@ -74,10 +70,7 @@ chapters:
           - /files/Doc8-a_9Fi602.jpg
           - /files/Doc8-b_9Fi601.jpg
           - /files/Doc8-c_9Fi603.jpg
-          - /files/3Z279p1.jpg
-          - /files/3Z279p2.jpg
-          - /files/3Z279p3.jpg
-          - /files/3Z279p4.jpg
+          - /files/275Z56.jpg
       - document: Procuration d’Ernest Blin pour la remise de ses titres à Charles Bedaux, 14 mai 1940.
         component: doc-right
         legend: RMM. Fabrique des savoirs, Archives patrimoniales (Fonds Blin, 9Fi2705)
