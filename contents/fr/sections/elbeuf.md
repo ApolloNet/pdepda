@@ -80,15 +80,15 @@ chapters:
         text: <p>Dans le cadre de l’accord conclu entre les dirigeants de Blin et la société Française Bedaux, Charles Bedaux reçoit la garde des titres et se voit attribuer une fonction d’arbitrage en cas de conflit entre les deux parties.</p>
         medias:
           - /files/Doc9_9Fi2705.jpg
-      - document: Attestation allemande confirmant l’attribution du statut de « Sperr-Betrieb » 1943
+      - document: Attestation allemande confirmant l’attribution du statut de « Speer-Betrieb » 1943
         component: doc-left doc-multiple
         legend: RMM. Fabrique des savoirs, Archives patrimoniales (Fonds Blin, 3Z279)
-        text: "<p>L’entreprise est désormais gérée par un administrateur « aryen » en l’occurrence la Société Bedaux. Elle obtient successivement le statut de <em>Rüstung Betrieb</em> (entreprise d’armement) qui lui accorde des facilités d’approvisionnement en matières premières. En 1943, elle est désignée <em>Sperr-Betrieb</em> (à l’initiative du ministre de l’armement du IIIe Reich, Albert Sperr) : elle est à ce titre exemptée du prélèvement de main d’œuvre pour le STO (Service du travail obligatoire). Une grande partie de sa production est livrée aux autorités d’occupation sous la forme de drap militaire.</p>"
+        text: "<p>L’entreprise est désormais gérée par un administrateur « aryen » en l’occurrence la Société Bedaux. Elle obtient successivement le statut de <em>Rüstung Betrieb</em> (entreprise d’armement) qui lui accorde des facilités d’approvisionnement en matières premières. En 1943, elle est désignée <em>Speer-Betrieb</em> (à l’initiative du ministre de l’armement du IIIe Reich, Albert Speer) : elle est à ce titre exemptée du prélèvement de main d’œuvre pour le STO (Service du travail obligatoire). Une grande partie de sa production est livrée aux autorités d’occupation sous la forme de drap militaire.</p>"
         medias:
           - /files/Doc10-1_9Fi2727.jpg
           - /files/Doc10-2_9Fi2728.jpg
   - chapter: Destins individuels
-    text: <p>La répression à l’encontre des juifs s’intensifie, résultat d’une collaboration active entre le gouvernement de Vichy et le régime nazi. La Solution finale qui vise à l’extermination totale des Juifs d’Europe vient d’être décidée et planifiée au cours de la conférence de Wannsee le 20 janvier 1942.</p><p>Selon le recensement de 1940, la communauté juive d’Elbeuf concernée par les mesures anti juives se compose de 92 personnes. Parmi elles, 34 personnes sont arrêtées et déportées entre 1942 et 1944. D’autres comme les membres de la famille Blin ont fui et sont contraints à la clandestinité jusqu’à la Libération.</p>
+    text: <p>La répression à l’encontre des Juifs s’intensifie, résultat d’une collaboration active entre le gouvernement de Vichy et le régime nazi. La Solution finale qui vise à l’extermination totale des Juifs d’Europe vient d’être décidée et planifiée au cours de la conférence de Wannsee le 20 janvier 1942.</p><p>Selon le recensement de 1940, la communauté juive d’Elbeuf concernée par les mesures anti juives se compose de 92 personnes. Parmi elles, 34 personnes sont arrêtées et déportées entre 1942 et 1944. D’autres comme les membres de la famille Blin ont fui et sont contraints à la clandestinité jusqu’à la Libération.</p>
     documents:
       - document: Ordonnance allemande du 1er juin 1942 rendant obligatoire le port de l’étoile jaune.
         component: doc-top doc-multiple
