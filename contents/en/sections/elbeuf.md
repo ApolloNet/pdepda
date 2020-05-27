@@ -1,53 +1,53 @@
 ---
 id: elbeuf
 place: Elbeuf
-title: Destinées juives en terre normande
+title: Jewish fates on norman soil
 museum: Réunion des Musées Métropolitains Rouen Normandie
 image: 
 description: 
 chapters:
-  - chapter: Les archives locales et la question juive (1940-1944)
-    text: <p>Les recherches historiques consacrées à la période de l’Occupation ont considérablement progressé ces dernières décennies. En France, en Allemagne ou aux Etats-Unis, l’ouverture de fonds d’archives, jusqu’alors non accessibles, a permis aux chercheurs d’investir de nouveaux champs d’étude. Parmi les sujets traités, figurent la question juive et la détermination de la responsabilité de l’Etat français dans la mise en œuvre de mesures à l’encontre des juifs de France. Si l’Allemagne nazie a été l’instigatrice d’un véritable programme d’extermination des juifs d’Europe, le gouvernement de Vichy a collaboré à sa réalisation sur le territoire français. En exploitant un sentiment général ouvertement antisémite, latent depuis l’affaire Dreyfus parmi l’élite politique, économique, intellectuelle et la population, l’Etat a entrainé l’ensemble du système administratif du pays dans cette collaboration.</p><p>Cette exposition s’appuie sur les archives produites par l’administration elle-même pour évoquer la question juive durant l’Occupation. Elle s’emploie à montrer les modalités d’application au niveau local, des mesures émanant des autorités allemandes et de L’Etat français. Enfin, en touchant au local, elle donne la mesure du drame humain à travers le parcours de femmes et d’hommes connus de leurs concitoyens, amis ou relations professionnelles, avec lesquels ils partageaient le quotidien.</p>
-  - chapter: L’administration des communes durant l’Occupation
-    text: <p>L’armistice signé le 22 juin 1940 entérine la division de la France en deux zones séparées par une ligne de démarcation. Au nord, dans la zone dite occupée, l’Etat français doit trouver une conciliation avec l’administration allemande, essentiellement militaire et qui siège à Paris. Le gouvernement installé à Vichy administre librement les seuls départements de la zone libre, partie sud du pays et les colonies. Les préfets deviennent un rouage essentiel de l’administration, du sommet de l’Etat vers les communes.</p><p>Le 10 juillet, les députés votent les pleins pouvoirs au maréchal Pétain. Par une loi en date du 16 novembre 1940, le gouvernement de Vichy abolit le principe de l’élection des conseillers municipaux et rétablit le principe de leur nomination par le ministre de l’Intérieur dans les villes de plus de 10 000 habitants et, par le préfet pour les autres. Entre 1940 et 1941, près de 500 municipalités sont dissoutes. Communistes, juifs, francs-maçons sont exclus des nouvelles assemblées.</p>
+  - chapter: Local archives and the Jewish question (1940-1944)
+    text: <p>Recent decades have seen considerable progress in historical research about the Occupation. In France, Germany and the United States, access to previously closed archive holdings has let researchers delve into new areas of study, such as the Jewish Question and the French State’s responsibility in implementing measures against French Jews. While Nazi Germany was the instigator of an outright program to exterminate Jews in Europe, the Vichy government also collaborated in this plan in the French territory. By exploiting a generalized open anti-Semitism that had lain dormant among the political, economic, and intellectual elite and the public since the Dreyfus affair, the State pulled the country’s entire administrative system into collaboration with the Nazi plan.</p><p>This exhibition draws on the archives produced by the administration itself to deal with the Jewish Question during the Occupation. It shows how the measures of German authorities and the French State were applied at a communal level. The local impact, revealed through the fates of men and women who were a part of the daily lives of their fellow citizens, friends and colleagues, demonstrates the full human consequences of this repression.</p>
+  - chapter: Administration of the Communes During the Occupation
+    text: <p>The armistice signed on June 22, 1940 ratified the division of France into two zones separated by a demarcation line. In the north, or the “occupied zone,” the French State had to accommodate the German administration, which was essentially a military presence and was based in Paris. The government in Vichy freely administered the only departments in the free zone, or the southern part of the country and the colonies. Prefects became an essential part of the administration, from the top of the State authority down to the municipalities.</p><p>On July 10, legislators voted to give full powers to Marshal Pétain. Through a law enacted on November 16, 1940, the Vichy government abolished the election of municipal councillors and re-established their appointment by the Minister of the Interior in towns of over 10,000 people and by the Prefect for all others. Between 1940 and 1941, nearly 500 municipalities were dissolved. Communists, Jews, and Freemasons were excluded from the new legislative assemblies.</p>
     documents: 
-      - document: Fiche de renseignements d’un conseiller municipal en date du 7 mai 1941
+      - document: Municipal councillor disclosure form, dated May 7, 1941
         component: doc-right
-        legend: RMM. Fabrique des savoirs, Archives patrimoniales (9Fi767)
-        text: <p>Conformément aux principes établis par la loi du 16 novembre 1940, René Lebret, maire élu en 1928, présente une liste de 40 noms parmi lesquels le préfet choisit 19 conseillers. Chaque conseiller est tenu de produire une fiche de renseignements mentionnant des informations sur sa situation au regard du statut des étrangers (loi du 17 juillet 1940), du statut des juifs (3 octobre et 16 novembre 1940) et des mesures prises à l’encontre des sociétés secrètes dont la Franc-maçonnerie (13 août 1940).</p>
+        legend: RMM. Fabrique des savoirs, Heritage Archives (9Fi767)
+        text: <p>As per the law enacted on November 16, 1940, René Lebret, who was elected mayor of Elbeuf in 1928, submitted a list of 40 names from which the Prefect chose 19 councillors. Each councillor had to submit a disclosure form with details about his situation regarding the Statute of Foreigners (July 17, 1940), the Statute on the Jews (October 3 and November 16, 1940), and measures taken against secret societies, such as Freemasonry (August 13, 1940).</p>
         medias:
           - /files/Doc1_9Fi0767.jpg
-      - document: Affiche relative à la nouvelle dénomination de la rue de la Barrière en hommage au maréchal Pétain, mars 1941.
+      - document: Poster describing the renaming of Rue de la Barrière in honour of Marshal Pétain, March 1941
         component: doc-top
-        legend: RMM. Fabrique des savoirs, Archives patrimoniales (8Fi1526)
-        text: <p>A Elbeuf, les autorités allemandes se sont installées à l’hôtel de ville où elles cohabitent avec la municipalité conduite par René Lebret, maintenu dans ses fonctions.<br>René Lebret est élu député du canton d’Elbeuf et de Grand-Couronne dans les rangs de la SFIO (Section Française de l’Internationale Ouvrière) en 1928. Pourtant, il vote les pleins pouvoirs à Pétain en 1940. Anti communiste convaincu, il évolue politiquement vers le parti socialiste français puis l’Union socialiste républicaine.  A la Libération, il est condamné à la Dégradation nationale par la Cour de justice de Rouen pour avoir notamment assuré les fonctions de responsable de la propagande du régime de Vichy pour la Normandie.</p>
+        legend: RMM. Fabrique des savoirs, Heritage Archives (8Fi1526)
+        text: <p>In Elbeuf, the German authorities took up residence in the town hall alongside municipal officials led by René Lebret, who retained his position.<br>Lebret was elected to the assembly for the Canton of Elbeuf and Grand-Couronne in 1928 and represented the SFIO (French Section of the Workers’ International). However, he voted to give full powers to Pétain in 1940. A staunch anti-communist, he became politically aligned with the French Socialist Party and then the Republican Socialist Union. After the Liberation, he was sentenced to forfeiture of his civic rights by the Rouen Court for overseeing the Vichy regime's propaganda efforts in Normandy.</p>
         medias: 
           - /files/Doc2_8FI1526.jpg
-      - document: Visite des maires de Normandie au chef de l’Etat Philippe Pétain à Vichy vers 1942. (Premier à gauche, René Lebret maire d’Elbeuf)
+      - document: "Normandy mayors visit Chief of State Philippe Pétain in Vichy, circa 1942. (First at left: René Lebret, Mayor of Elbeuf)"
         component: doc-top
-        legend: RMM. Fabrique des savoirs, Archives patrimoniales (3Fi826)
+        legend: RMM. Fabrique des savoirs, Heritage Archives (3Fi826)
         medias:
           - /files/Doc3_3Fi0826.jpg
-  - chapter: Les lois anti juives de Vichy
-    text: <p>Désormais en possession des pleins pouvoirs, Pétain avec la collaboration du gouvernement de Vichy met progressivement en place une véritable politique de discrimination raciale à l’encontre des juifs étrangers puis français. A partir de juillet 1940, plusieurs lois sont promulguées qui visent à les exclure de la société. Le 3 octobre 1940, le « Premier Statut » des juifs leur interdit l’accès à un grand nombre de professions dont celles de la Fonction publique. Le « Second Statut » parait le 2 juin 1941. Les citoyens de confession juive sont contraints de faire une déclaration écrite auprès de la préfecture. En juillet 1942, Vichy franchit l’étape ultime en acceptant que l’Etat français collabore aux premières déportations.</p>
+  - chapter: Vichy's Anti-Jewish Laws
+    text: <p>After being invested with full authority, Pétain and the Vichy government gradually enacted a full-fledged policy of racial discrimination against foreign and French-born Jews. In July 1940, several laws were passed to exclude them from society. On October 3, 1940, the “First Statute on the Jews” barred them from many vocations, including positions in the civil service. The “Second Statute” was enacted on June 2, 1941. People of Jewish faith had to submit a written declaration to the prefecture. In July 1942, the Vichy government took the ultimate step by taking part in the first deportations.</p>
     documents:
-      - document: Affiche relative aux mesures d’inscription des juifs et des entreprises juives, 15 octobre 1940.
+      - document: Poster describing the requirement of Jews and Jewish businesses to register, October 15, 1940.
         component: doc-left
-        legend: RMM. Fabrique des savoirs, Archives patrimoniales (8Fi1421)
-        text: <p>L’exclusion s’accompagne dorénavant du contrôle et de la répression. Les préfets se voient chargés du recensement des juifs vivant en France. Localement, ce sont les maires qui procèdent au recensement proprement dit.</p>
+        legend: RMM. Fabrique des savoirs, Heritage Archives (8Fi1421)
+        text: <p>Exclusion was then accompanied by control and repression. The prefects became responsible for taking the census of Jews living in France. Locally, the mayors were the ones who kept track of the actual numbers.</p>
         medias:
           - /files/Doc4_8FI1421.jpg
-      - document: Recensement des juifs du canton d’Elbeuf, [1940].
+      - document: Census of Jews in the Canton of Elbeuf, [undated].
         component: doc-top doc-multiple
-        legend: RMM. Fabrique des savoirs, Archives patrimoniales (4H-ELB136)
-        text: <p>Depuis 1848, il existe à Elbeuf une petite communauté juive qui s’est développée avec l’arrivée d’industriels alsaciens en 1871. Cette liste manuscrite, sans doute la première établie vraisemblablement dès la parution du « Premier Statut des juifs » recense 92 personnes. La plupart de ces listes et fichiers établis avec minutie par l’administration française servira pour procéder aux arrestations à partir de 1942.</p>
+        legend: RMM. Fabrique des savoirs, Heritage Archives (4H-ELB136)
+        text: <p>A small Jewish community had lived in Elbeuf since 1848 and then developed further with the arrival of Alsatian industrialists in 1871. This handwritten list, probably the first, names 92 people. Most of these lists and files meticulously drawn up by the French administration were used to make arrests starting in 1942.</p>
         medias:
           - /files/Doc5_p01.jpg
           - /files/Doc5_p05.jpg
-      - document: Déclaration d’Ernest Blin, 1941.
+      - document: Declaration of Ernest Blin, 1941.
         component: doc-top doc-multiple
-        legend: Déclaration d’Ernest Blin, 1941.
-        text: <p>Suite à la parution du « Second Statut », les citoyens de confession juive sont contraints de faire une déclaration écrite mentionnant leur état civil, leur situation de famille, leur profession et l’état de leurs biens. Ernest Blin, qui dirige l’entreprise Blin et Blin avec ses frères André et Maurice procède à cette déclaration le 1er juillet également au titre de ses enfants, Albert, 20 ans et Dominique, 17 ans.</p>
+        legend: RMM. Fabrique des savoirs, Heritage Archives (Blin Holdings, 3Z279)
+        text: <p>After the enactment of the “Second Statute”, people of Jewish faith had to submit a written declaration of their civil status, family status, profession, and property. Ernest Blin, who ran the company Blin & Blin with his brothers André and Maurice, submitted this declaration on July 1 on behalf of his children, Albert, 20 years old, and Dominique, 17 years old.</p>
         medias:
           - /files/Doc6_p1
           - /files/Doc6_p2
@@ -57,19 +57,19 @@ chapters:
           - /files/Doc6_p6
           - /files/Doc6_p7
           - /files/275Z56.jpg
-      - document: Supplique adressée le 17 juillet 1941 par Simon Sender au maire afin d’obtenir l’autorisation de poursuivre son activité de pâtissier à Elbeuf.
+      - document: Letter dated July 17, 1941 from Simon Sender to the mayor asking for authorization to continue working as a pastry chef in Elbeuf.
         component: doc-right
-        legend: RMM. Fabrique des savoirs, Archives patrimoniales (4H-ELB136)
-        text: <p>Simon Sender ne reprendra pas son activité. Il est arrêté le 6 mai 1942 puis déporté à Auschwitz où il décède le 13 juillet 1943.</p>
+        legend: RMM. Fabrique des savoirs, Heritage Archives (4H-ELB136)
+        text: <p>Simon Sender would not return to his pastry kitchen. He was arrested on May 6, 1942 and deported to Auschwitz, where he died on July 13, 1943.</p>
         medias:
           - /files/Doc7.jpg
-  - chapter: L’« aryanisation » économique
-    text: "<p>Les dirigeants d’entreprise de confession juive sont concernés par les mesures prises par l’occupant et le régime de Vichy et notamment par la loi du 22 juillet 1941 sur l’«aryanisation » économique. L’«aryanisation », véritable système de spoliation des biens juifs, s’opère par un transfert de la gestion des entreprises à des administrateurs provisoires et pour finir par leur vente à des acquéreurs « aryens » ou leur liquidation. A Elbeuf, sont concernées plusieurs entreprises créées au lendemain de l’annexion de l’Alsace : usines de fabrication de drap de laine comme Fraenckel-Herzog et Blin & Blin ou l’usine de confection Weill-Kingsbourg-Bernheim.</p>"
+  - chapter: Economic “Aryanization”
+    text: "<p>Jewish business owners suffered great hardship from the measures of the occupiers and the Vichy regime, particularly from the law of economic “Aryanization” enacted on July 22, 1941. This system was in fact a way to steal Jewish property through the transfer of companies to provisional administrators to be sold to “Aryan” buyers or liquidated. In Elbeuf, this practice affected many companies created after the annexation of Alsace, such as wool fabric factories like Fraenckel-Herzog and Blin & Blin or the Weill-Kingsbourg-Bernheim clothing factory.</p>"
     documents:
-      - document: Accord entre la société Blin et Blin et la Française Bedaux, 14 mai 1940
+      - document: Agreement between the Blin & Blin company and Française Bedaux, May 14, 1940
         component: doc-top doc-multiple
-        legend: RMM. Fabrique des savoirs, Archives patrimoniales (Fonds Albert Blin, 275Z56)
-        text: "<p>De gauche à droite : Maurice Blin (1879-1967), Ernest Blin (1880-1949), André Blin (1887-1958)</p><p>Afin de garantir la pérennité de leur entreprise, les frères André, Ernest et Maurice Blin concluent dès le 16 mai 1940 un accord qui remet la direction de leur entreprise entre les mains de la <em>Française Bedaux</em> dirigée par Charles Bedaux, ami d’Ernest. En vertu d’un premier contrat, la société Bedaux prend en charge la gestion commerciale et technique mais aussi l’intégralité des pouvoirs du conseil d’administration pour une durée de 3 à 5 ans. Cet accord conduit à une « aryanisation » fictive de l’entreprise qui prend le nom d’<em>Anciens établissements Blin et Blin</em>, à partir du 21 juin 1940.</p>"
+        legend: RMM. Fabrique des savoirs, Heritage Archives (Albert Blin Holdings, 275Z56)
+        text: "<p>From left to right: Maurice Blin (1879-1967), Ernest Blin (1880-1949), André Blin (1887-1958)</p><p>To ensure the future of their company, the brothers André, Ernest and Maurice Blin entered into an agreement on May 16, 1940 that put the management of their company in the hands of Française Bedaux, a company headed by Ernest’s friend Charles Bedaux. Under the terms of an initial contract, the Bedaux company took over Blin & Blin’s commercial and technical management as well as all powers of its board of directors for 3 to 5 years. This agreement led to a fictitious “Aryanization” of the company, which took the name Anciens établissements Blin et Blin (Former Blin & Blin Establishments), as of June 21, 1940.</p>"
         medias:
           - /files/Doc8-a_9Fi602.jpg
           - /files/Doc8-b_9Fi601.jpg
@@ -78,108 +78,108 @@ chapters:
           - /files/3Z279p2.jpg
           - /files/3Z279p3.jpg
           - /files/3Z279p4.jpg
-      - document: Procuration d’Ernest Blin pour la remise de ses titres à Charles Bedaux, 14 mai 1940.
+      - document: Assignment letter from Ernest Blin transferring his shares to Charles Bedaux, May 14, 1940.
         component: doc-right
-        legend: RMM. Fabrique des savoirs, Archives patrimoniales (Fonds Blin, 9Fi2705)
-        text: <p>Dans le cadre de l’accord conclu entre les dirigeants de Blin et la société Française Bedaux, Charles Bedaux reçoit la garde des titres et se voit attribuer une fonction d’arbitrage en cas de conflit entre les deux parties.</p>
+        legend: RMM. Fabrique des savoirs, Heritage Archives (Blin Holdings, 9Fi2705)
+        text: <p>As per the agreement between Blin’s owners and Française Bedaux, Charles Bedaux took custody of their shares and was named arbiter in the event of a dispute between the two parties.</p>
         medias:
           - /files/Doc9_9Fi2705.jpg
-      - document: Attestation allemande confirmant l’attribution du statut de « Sperr-Betriebe » 1943
+      - document: German certificate confirming Sperr-Betrieb status, 1943
         component: doc-left doc-multiple
-        legend: RMM. Fabrique des savoirs, Archives patrimoniales (Fonds Blin, 3Z279)
-        text: "<p>L’entreprise est désormais gérée par un administrateur « aryen » en l’occurrence la Société Bedaux. Elle obtient successivement le statut de Rüstung Betriebe (entreprise d’armement) qui lui accorde des facilités d’approvisionnement en matières premières. En 1943, elle est désignée <em>Sperr-Betriebe</em> (du nom du ministre de l’armement du IIIe Reich, Albert Sperr) : elle est à ce titre exemptée du prélèvement de main d’œuvre pour le STO (Service du travail obligatoire). Une grande partie de sa production est livrée aux autorités d’occupation sous la forme de drap militaire.</p>"
+        legend: RMM. Fabrique des savoirs, Heritage Archives (Blin Holdings, 3Z279)
+        text: "<p>The company was now managed by an “Aryan” director, in this case the Bedaux company. It then obtained status as a <em>Rüstungsbetrieb</em> (munitions factory), which granted it facilities for the supply of raw materials. In 1943, it was designated as a <em>Sperr-Betrieb</em> (on initiative of the Third Reich Armaments Minister Albert Speer) and was therefore exempt from having labour taken away for the Service du travail obligatoire (Compulsory Labour Service, STO). Much of its production of military cloth went to the occupation authorities.</p>"
         medias:
           - /files/Doc10-1_9Fi2727.jpg
           - /files/Doc10-2_9Fi2728.jpg
-  - chapter: Destins individuels
-    text: <p>La répression à l’encontre des juifs s’intensifie, résultat d’une collaboration active entre le gouvernement de Vichy et le régime nazi. La Solution finale qui vise à l’extermination totale des juifs d’Europe vient d’être décidée et planifiée au cours de la conférence de Wannsee le 20 janvier 1942.</p><p>Selon le recensement de 1940, la communauté juive d’Elbeuf concernée par les mesures anti juives se compose de 92 personnes. Parmi elles, 34 personnes sont arrêtées et déportées entre 1942 et 1944. D’autres comme les membres de la famille Blin ont fui et sont contraints à la clandestinité jusqu’à la Libération.</p>
+  - chapter: Individual Fates
+    text: <p>Repression of the Jews intensified through the Vichy government’s active collaboration with the Nazi regime. The Final Solution, whose goal was the total extermination of the Jews in Europe, was decided and planned at the Wannsee Conference on January 20, 1942.</p><p>According to the 1940 census, the Jewish community in Elbeuf targeted by the anti-Jewish measures consisted of 92 people. Between 1942 and 1944, 34 of them were arrested and deported. Others, such as the members of the Blin family, fled and were forced into hiding until the Liberation.</p>
     documents:
-      - document: Ordonnance allemande du 1er juin 1942 rendant obligatoire le port de l’étoile jaune.
+      - document: German ordinance dated June 1, 1942 making it compulsory for Jews to wear the yellow star.
         component: doc-top doc-multiple
-        legend: RMM. Fabrique des savoirs, Archives patrimoniales (Fonds ville d’Elbeuf, 4H-ELB 136)
-        text: <p>Le port de l’étoile jaune est imposé aux citoyens français et aux étrangers de confession juive. Elle ne fut pas portée dans la zone libre même après son envahissement le 11 novembre 1942 mais un tampon avec la mention « Juif » est apposé sur les papiers d’identité.</p>
+        legend: RMM. Fabrique des savoirs, Heritage Archives (Elbeuf Holdings, 4H-ELB 136)
+        text: <p>French citizens and foreigners of Jewish faith were forced to wear the yellow star. The star was not worn in the free zone even after this area was invaded on November 11, 1942; however, the word “Jew” was stamped on identity papers.</p>
         medias:
           - /files/Doc11_p1.jpg
           - /files/Doc11_p2.jpg
-      - document: Rapport de police en date du 17 juillet 1942 relatif à la pose d’étoiles juives sur la façade de la synagogue rue Grémont à Elbeuf.
+      - document: Police report dated July 17, 1942 about yellow stars being painted on the synagogue on Rue Grémont in Elbeuf.
         component: doc-left
-        legend: RMM. Fabrique des savoirs, Archives patrimoniales (Fonds Ville d’Elbeuf, 9Fi3878)
-        text: <p>Ce rapport indique que l’évènement s’est déroulé dans la nuit du 16 au 17 juillet 1942. Or, le 16 juillet à 4 heures du matin a commencé la rafle du Vélodrome d’hiver au cours de laquelle 13 152 personnes dont 4000 enfants sont arrêtés à Paris par la police française pour être déportés.</p>
+        legend: RMM. Fabrique des savoirs, Heritage Archives (Elbeuf Holdings, 9Fi3878)
+        text: <p>The police report indicates that this act took place the night of July 16 to 17, 1942. This coincided with the Vélodrome d'hiver, an operation that started at 4:00 a.m. on July 16 in Paris during which the French police rounded up and arrested 13,152 people, including 4,000 children, for deportation.</p>
         medias:
           - /files/Doc12_9Fi3878.jpg
-      - document: Pétition des ouvriers en faveur des dirigeants de l’entreprise Blin et Blin, 10 juin 1941.
+      - document: Workers’ petition on behalf of the owners of the Blin & Blin company, June 10, 1941.
         component: doc-right
-        legend: RMM. Fabrique des savoirs, Archives patrimoniales (Fonds Blin, 9Fi2724)
-        text: <p>Grâce à l’appui de leurs ouvriers, les frères Blin sont maintenus dans l’entreprise comme conseillers techniques. Mais la pression se fait plus forte après la publication du « Second Statut des juifs » en juin 1941. Ils quittent Elbeuf avec leurs familles. Ernest Blin est le dernier à quitter la ville le 10 décembre, informé de la menace d’une rafle qui a lieu à Paris le 12 décembre. Isolés et séparés les uns des autres, ils trouvent refuge dans divers lieux d’accueil au sud et au sud-ouest de la France jusqu’à la Libération.</p>
+        legend: RMM. Fabrique des savoirs, Heritage Archives (Blin Holdings, 9Fi2724)
+        text: <p>With the support of their workers, the Blin brothers were kept on at the company as technical advisers. But pressure increased after the publication of the “Second Statute on the Jews” in June 1941. They left Elbeuf with their families. Ernest Blin was the last to leave the city on December 10 after learning of the threat of a roundup in Paris on December 12. Isolated and separated from each other, they found refuge in different places in the south and south-west of France until the Liberation.</p>
         medias:
           - /files/Doc13_9Fi2724.jpg
-      - document: Sarah Rotmentz et son amie Germaine Guillotin vers 1940 à Elbeuf.
+      - document: Sarah Rotmentz and her friend Germaine Guillotin in Elbeuf, circa 1940.
         component: doc-top doc-multiple
-        legend: RMM. Fabrique des savoirs, Archives patrimoniales (don Germaine Thiry-Guillotin)
-        text: <p>Sarah a vingt ans en 1943 et elle est employée dans l’entreprise Blin et Blin. Le 15 janvier, elle est arrêtée par la police française à son domicile 12 rue du Pré Bazile, avec sa mère Dinah Vicquelin et en même temps que 16 autres membres de la communauté juive d’Elbeuf.</p>
+        legend: RMM. Fabrique des savoirs, Heritage Archives (Gift from Germaine Thiry-Guillotin)
+        text: <p>Sarah was 20 years old in 1943 and worked at Blin & Blin. On January 15, she was arrested by the French police at her home at 12 Rue du Pré Bazile, with her mother Dinah Vicquelin, at the same time as 16 other members of Elbeuf’s Jewish community.</p>
         medias:
           - /files/Doc14-1_9Fi1881.jpg
           - /files/Doc14-2_9Fi1882.jpg
           - /files/Doc14-3_9Fi1877.jpg
           - /files/Doc14-4_9Fi0127.jpg
-      - document: Correspondance de Sarah durant sa détention en camps de transit, janvier-mars 1943
+      - document: Letters from Sarah during her detention in transit camps, January to March 1943
         component: doc-right
-        legend: RMM. Fabrique des savoirs, Archives patrimoniales (don Germaine Thiry-Guillotin)
-        text: <p>Entre le 15 janvier et le 24 mars, Sarah Rotmentz correspond avec des voisins, la famille Gillot, et son amie Germaine Guillotin. Après leur arrestation, Sarah et sa mère sont détenues dans le camp de Drancy en région parisienne puis transférées vers la mi-mars dans celui de Beaune-la-Rolande (Loiret).</p><p>Dans cette correspondance, la jeune femme confie son quotidien, les conditions et les règles de vie à l’intérieur des camps mais aussi son incertitude quant à l’avenir.</p>
-      - document: Correspondance de Sarah à la famille Gillot, adressée du camp de Drancy le 14 février 1943.
+        legend: RMM. Fabrique des savoirs, Heritage Archives (Gift from Germaine Thiry-Guillotin)
+        text: <p>Between January 15 and March 24, Sarah Rotmentz wrote to her neighbours, the Gillot family, and to her friend Germaine Guillotin. After their arrest, Sarah and her mother were detained at the Drancy camp in the Paris region and then transferred to the Beaune-la-Rolande camp (Loiret) in mid-March. In her letters, the young woman tells of not only her daily life and the conditions and rules inside the camps but also her uncertainty about the future.</p>
+      - document: Letter from Sarah to the Gillot family from the Drancy camp, dated February 14, 1943.
         component: doc-top doc-multiple
-        legend: RMM. Fabrique des savoirs, Archives patrimoniales (don Germaine Thiry-Guillotin)
+        legend: RMM. Fabrique des savoirs, Heritage Archives (Gift from Germaine Thiry-Guillotin)
         text: 
         medias:
           - /files/Doc15_9Fi1884.jpg
           - /files/Doc16_9Fi1885.jpg
           - /files/Doc17_9Fi1886.jpg
-      - document: Correspondance de Sarah à son amie Germaine, adressée du camp de Drancy le 28 février 1943.
+      - document: Letter from Sarah to her friend Germaine from the Drancy camp, dated February 28, 1943.
         component: doc-top doc-multiple
-        legend: RMM. Fabrique des savoirs, Archives patrimoniales (don Germaine Thiry-Guillotin)
+        legend: RMM. Fabrique des savoirs, Heritage Archives (Gift from Germaine Thiry-Guillotin)
         text: 
         medias:
           - /files/Doc18_9Fi0128.jpg
           - /files/Doc19_9Fi0129.jpg
           - /files/Doc20_9Fi0130.jpg
-      - document: Correspondance de Sarah à son amie Germaine, adressée du camp de Beaune La Rolande le 15 mars 1943.
+      - document: Letter from Sarah to her friend Germaine from the Beaune-la-Rolande camp, dated March 15, 1943.
         component: doc-top doc-multiple
-        legend: RMM. Fabrique des savoirs, Archives patrimoniales (don Germaine Thiry-Guillotin)
+        legend: RMM. Fabrique des savoirs, Heritage Archives (Gift from Germaine Thiry-Guillotin)
         text: 
         medias:
           - /files/Doc21_9Fi1891.jpg
           - /files/Doc22_9Fi1892.jpg
-      - document: Enveloppe d’une correspondance de Germaine à Sarah, adressée au camp de Beaune La Rolande et datée du 22 mars 1943.
+      - document: Envelope for a letter from Germaine to Sarah sent to the Beaune-la-Rolande camp, dated March 22, 1943.
         component: doc-top doc-multiple
-        legend: RMM. Fabrique des savoirs, Archives patrimoniales (don Germaine Thiry-Guillotin)
+        legend: RMM. Fabrique des savoirs, Heritage Archives (Gift from Germaine Thiry-Guillotin)
         text: 
         medias:
           - /files/Doc23_9Fi1893.jpg
           - /files/Doc24_9Fi1894.jpg
-      - document: Correspondance de Sarah à son amie Germaine adressée du camp de Beaune La Rolande le 24 mars 1943.
+      - document: Post card from Sarah to her friend Germaine from the Beaune-la-Rolande camp, dated March 24, 1943.
         component: doc-top doc-multiple
-        legend: RMM. Fabrique des savoirs, Archives patrimoniales (don Germaine Thiry-Guillotin)
+        legend: RMM. Fabrique des savoirs, Heritage Archives (Gift from Germaine Thiry-Guillotin)
         text: 
         medias:
           - /files/Doc25_9Fi1889.jpg
           - /files/Doc26_9Fi1890.jpg
-      - document: Correspondance de Sarah à son amie Germaine, adressée du camp de Drancy le 24 mars 1943.
+      - document: Post card from Sarah to her friend Germaine from the Drancy camp, dated March 24, 1943.
         component: doc-top doc-multiple
-        legend: RMM. Fabrique des savoirs, Archives patrimoniales (don Germaine Thiry-Guillotin)
-        text: <p>Dans ce dernier message du 24 mars 1943 (non 1942 comme indiqué), Sarah qui a été transférée à nouveau à Drancy, annonce un départ imminent. Sa mère Dinah l’accompagne alors qu’elle bénéficie d’un statut privilégié en tant que femme d’«aryen» et de prisonnier. Les deux femmes sont déportées par le convoi 53 au camp de concentration de Sobibor où Sarah est déclarée comme étant décédée le 28 mars 1943. Le décès de sa mère Dinah est déclaré à la date du 30 mars.</p>
+        legend: RMM. Fabrique des savoirs, Heritage Archives (Gift from Germaine Thiry-Guillotin)
+        text: <p>In her last message on March 24, 1943 (and not 1942 as indicated), Sarah, who had again been transferred to Drancy, announced her imminent departure. Her mother, Dinah, would accompany her, since she enjoyed privileged status as an “Aryan” woman and prisoner. The two women were deported via Convoy 53 to the Sobibor extermination camp, where Sarah was declared dead on March 28, 1943. Dinah was declared dead on March 30.</p>
         medias:
           - /files/Doc27_9Fi1888.jpg
           - /files/Doc28_9Fi1887.jpg
-      - document: Procès-verbal d’audition de témoins sur les conditions de la disparition de Simon Sender, 14 novembre 1947.
+      - document: Witness statements about the circumstances of Simon Sender's disappearance, November 14, 1947.
         component: doc-right
-        legend: RMM. Fabrique des savoirs, Archives patrimoniales (4H-ELB136)
-        text: <p>Sept membres de la famille Sender, âgés de 7 à 41 ans, sont arrêtés entre le 6 mai 1942 et le 15 janvier 1943. Aucun n’est revenu de déportation.</p>
+        legend: RMM. Fabrique des savoirs, Heritage Archives (4H-ELB136)
+        text: <p>Seven members of the Sender family between the ages of 7 and 41 were arrested between May 6, 1942 and January 15, 1943. None returned from their deportation.</p>
         medias:
           - /files/Doc29.jpg
-      - document: Liste des déportés raciaux non rentrés [1947].
+      - document: List of non-returned deported “racials” [1947].
         component: doc-top doc-multiple
-        legend: RMM. Fabrique des savoirs, Archives patrimoniales (4H-ELB136)
-        text: "<p>Etablie dans l’immédiat après-guerre dans le but de recenser les victimes du conflit, cette liste est incomplète. Sur les 92 personnes recensées en 1940, 34 sont déclarées disparues : pour certaines dans des circonstances encore inconnues de nos jours.</p>"
+        legend: RMM. Fabrique des savoirs, Heritage Archives (4H-ELB136)
+        text: "<p>Created immediately after the war to compile the victims of the conflict, this list is incomplete. Of the 92 people listed in 1940, 34 were declared missing: the fates of many are still unknown today.</p>"
         medias:
           - /files/Doc30_p1.jpg
           - /files/Doc30_p2.jpg

@@ -134,7 +134,7 @@ export default {
         fr: 'Présentation'
       },
       aboutLinkURI: {
-        en: '/en/pages/presentation',
+        en: '/en/pages/about',
         fr: '/fr/pages/presentation'
       },
       legalLinkText: {
