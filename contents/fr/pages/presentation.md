@@ -1,4 +1,4 @@
----
+  ---
 title: Ports d'Exil, Ports d'Attache
 Description: Le projet de cette exposition est né dans le contexte particulier du grand confinement du printemps 2020, dû à la pandémie mondiale du Covid-19. Répondant à l’appel à projet lancé par le réseau FRAME, les musées de Rouen, Montréal et Marseille se sont fédérés pour prolonger leur mission en ligne.
 ---
@@ -41,7 +41,7 @@ Nos remerciements vont à ceux, certains aujourd'hui disparus, qui ont permis de
 
 Merci à la Société de l'histoire d'Elbeuf pour sa contribution à la transcription des correspondances de Sarah Rotmentz.
 
-[https://lafabriquedessavoirs.fr](lafabriquedessavoirs.fr)
+[lafabriquedessavoirs.fr](https://lafabriquedessavoirs.fr)
 
 ## Musée d'Histoire de Marseille
 
@@ -59,7 +59,7 @@ Robert Mencherini (professeur honoraire d’histoire contemporaine à l’Univer
 
 Jean Paul Camargo (Agence Saluces)
 
-[https://www.musee-histoire-marseille-voie-historique.fr](musee-histoire-marseille-voie-historique.fr)
+[musee-histoire-marseille-voie-historique.fr](https://www.musee-histoire-marseille-voie-historique.fr)
 
 ## Musée des beaux-arts de Montréal
 
@@ -75,7 +75,7 @@ Droits : Marie-Claude Saia et Linda-Anne d’Anjou
 
 Remerciements : Julie Grahame, Senior Representative, Estate of Yousuf Karsh
 
-[https://www.mbam.qc.ca](mbam.qc.ca)
+[mbam.qc.ca](https://www.mbam.qc.ca)
 
 ## Musée de l'Holocauste Montréal
 
@@ -85,7 +85,7 @@ Promotion du projet : Sarah Fogg, Cheffe marketing, communications et relations 
 
 Le Musée de l’Holocauste remercie chaleureusement Gérard Krosberg et Illana Izso pour avoir gracieusement permis l’utilisation de photographies de leur collection privée pour cette exposition.
 
-[https://museeholocauste.ca](museeholocauste.ca)
+[museeholocauste.ca](https://museeholocauste.ca)
 
 ## FRAME
 

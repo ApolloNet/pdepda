@@ -85,9 +85,9 @@
             <img
               loading="lazy"
               class="footer-logos-logo"
-              src="/img/logo-mhmontreal.svg"
+              :src="`/img/logo-mhmontreal-${lang}.svg`"
               alt="Musée de l'Holocauste de Montréal"
-              width="80"
+              width="154"
               height="80"
             />
           </a>
@@ -95,15 +95,19 @@
       </ul>
       <ul class="footer-links">
         <li class="footer-links-item">
-          <nuxt-link to="/fr">Accueil</nuxt-link>
+          <nuxt-link :to="homeLinkURI[lang]">{{
+            homeLinkText[lang]
+          }}</nuxt-link>
         </li>
         <li class="footer-links-item">
-          <nuxt-link to="/fr/pages/presentation">Présentation</nuxt-link>
+          <nuxt-link :to="aboutLinkURI[lang]">{{
+            aboutLinkText[lang]
+          }}</nuxt-link>
         </li>
         <li class="footer-links-item">
-          <nuxt-link to="/fr/pages/mentions-legales">
-            Mentions légales
-          </nuxt-link>
+          <nuxt-link :to="legalLinkURI[lang]">{{
+            legalLinkText[lang]
+          }}</nuxt-link>
         </li>
       </ul>
     </div>
@@ -111,8 +115,41 @@
 </template>
 
 <script>
+import { mapState } from 'vuex'
+
 export default {
-  name: 'Footer'
+  name: 'Footer',
+  data() {
+    return {
+      homeLinkText: {
+        en: 'Home',
+        fr: 'Accueil'
+      },
+      homeLinkURI: {
+        en: '/en',
+        fr: '/fr'
+      },
+      aboutLinkText: {
+        en: 'About',
+        fr: 'Présentation'
+      },
+      aboutLinkURI: {
+        en: '/en/pages/about',
+        fr: '/fr/pages/presentation'
+      },
+      legalLinkText: {
+        en: 'Legal Notice',
+        fr: 'Mentions légales'
+      },
+      legalLinkURI: {
+        en: '/en/pages/legal-notice',
+        fr: '/fr/pages/mentions-legales'
+      }
+    }
+  },
+  computed: {
+    ...mapState(['lang'])
+  }
 }
 </script>
 
@@ -144,6 +181,7 @@ export default {
   display: block;
   max-width: 100%;
   height: auto;
+  max-height: 80px;
   margin: 0 $margin * 3 $margin * 2 0;
 }
 

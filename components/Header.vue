@@ -3,6 +3,7 @@
     <div class="wrapper main-nav">
       <nuxt-link to="/" class="header-logo">
         <img
+          v-if="!isHome"
           src="/img/logo-header.svg"
           alt="Ports d'Exil, Ports d'Attache"
           width="466"
@@ -10,7 +11,7 @@
         />
       </nuxt-link>
       <nav>
-        <ul v-if="false" class="switch-lang">
+        <ul class="switch-lang">
           <li class="switch-lang-item">
             <nuxt-link class="switch-lang-link" to="/en" title="English">
               EN
@@ -29,7 +30,13 @@
 
 <script>
 export default {
-  name: 'Header'
+  name: 'Header',
+  props: {
+    isHome: {
+      type: Boolean,
+      default: false
+    }
+  }
 }
 </script>
 

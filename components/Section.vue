@@ -17,7 +17,7 @@
             class="button section-cta"
             :to="section.slug"
           >
-            Visiter l'exposition
+            {{ sectionLinkText[lang] }}
           </nuxt-link>
           <ul v-if="fullContent" class="section-summary">
             <li
@@ -34,8 +34,8 @@
       </div>
     </div>
     <div v-if="fullContent" class="section-help">
-      <h2>Découvrir les documents en détail</h2>
-      <p>Cliquer sur les images pour zoomer</p>
+      <h2>{{ helpTitle[lang] }}</h2>
+      <p>{{ helpText[lang] }}</p>
     </div>
     <template v-if="fullContent">
       <Chapter
@@ -49,6 +49,7 @@
 </template>
 
 <script>
+import { mapState } from 'vuex'
 import Chapter from '@/components/Chapter.vue'
 
 export default {
@@ -65,6 +66,25 @@ export default {
       type: Boolean,
       required: true
     }
+  },
+  data() {
+    return {
+      sectionLinkText: {
+        en: 'Enter the exhibition',
+        fr: "Visiter l'exposition"
+      },
+      helpTitle: {
+        en: 'Discover the documents in detail',
+        fr: 'Découvrir les documents en détail'
+      },
+      helpText: {
+        en: 'Click on images to zoom',
+        fr: 'Cliquer sur les images pour zoomer'
+      }
+    }
+  },
+  computed: {
+    ...mapState(['lang'])
   }
 }
 </script>
