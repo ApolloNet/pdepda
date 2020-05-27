@@ -1,5 +1,0 @@
----
-title: Mentions Légales
----
-
-EN

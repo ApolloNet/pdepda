@@ -138,11 +138,11 @@ export default {
         fr: '/fr/pages/presentation'
       },
       legalLinkText: {
-        en: 'Legal',
+        en: 'Legal Notice',
         fr: 'Mentions légales'
       },
       legalLinkURI: {
-        en: '/en/pages/mentions-legales',
+        en: '/en/pages/legal-notice',
         fr: '/fr/pages/mentions-legales'
       }
     }

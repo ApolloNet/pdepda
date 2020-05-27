@@ -74,11 +74,11 @@ export default {
         fr: "Visiter l'exposition"
       },
       helpTitle: {
-        en: 'Découvrir les documents en détail',
+        en: 'Discover the documents in detail',
         fr: 'Découvrir les documents en détail'
       },
       helpText: {
-        en: 'Cliquer sur les images pour zoomer',
+        en: 'Click on images to zoom',
         fr: 'Cliquer sur les images pour zoomer'
       }
     }
