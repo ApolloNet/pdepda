@@ -37,7 +37,7 @@ export default {
   data() {
     return {
       introText: {
-        en: 'Destinées juives pendant la Seconde guerre mondiale',
+        en: 'Jewish Fates During the Second World War',
         fr: 'Destinées juives pendant la Seconde guerre mondiale'
       },
       aboutText: {
@@ -45,7 +45,7 @@ export default {
         fr: "Présentation de l'exposition"
       },
       aboutURI: {
-        en: '/en/pages/presentation',
+        en: '/en/pages/about',
         fr: '/fr/pages/presentation'
       }
     }

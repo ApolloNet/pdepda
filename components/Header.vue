@@ -3,6 +3,7 @@
     <div class="wrapper main-nav">
       <nuxt-link to="/" class="header-logo">
         <img
+          v-if="!isHome"
           src="/img/logo-header.svg"
           alt="Ports d'Exil, Ports d'Attache"
           width="466"
@@ -29,7 +30,13 @@
 
 <script>
 export default {
-  name: 'Header'
+  name: 'Header',
+  props: {
+    isHome: {
+      type: Boolean,
+      default: false
+    }
+  }
 }
 </script>
 

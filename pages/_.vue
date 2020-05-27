@@ -1,6 +1,6 @@
 <template>
   <div class="hrapper">
-    <Header v-if="!isHome" />
+    <Header :is-home="isHome" />
     <main>
       <Error v-if="isError" />
       <Home v-if="isHome" />
