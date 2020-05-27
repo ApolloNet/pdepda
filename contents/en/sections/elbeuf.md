@@ -62,14 +62,17 @@ chapters:
   - chapter: Economic “Aryanization”
     text: "<p>Jewish business owners suffered great hardship from the measures of the occupiers and the Vichy regime, particularly from the law of economic “Aryanization” enacted on July 22, 1941. This system was in fact a way to steal Jewish property through the transfer of companies to provisional administrators to be sold to “Aryan” buyers or liquidated. In Elbeuf, this practice affected many companies created after the annexation of Alsace, such as wool fabric factories like Fraenckel-Herzog and Blin & Blin or the Weill-Kingsbourg-Bernheim clothing factory.</p>"
     documents:
-      - document: Agreement between the Blin & Blin company and Française Bedaux, May 14, 1940
+      - document: "From left to right: Maurice Blin (1879-1967), Ernest Blin (1880-1949), André Blin (1887-1958)"
         component: doc-top doc-multiple
-        legend: RMM. Fabrique des savoirs, Heritage Archives (Albert Blin Holdings, 275Z56)
-        text: "<p>From left to right: Maurice Blin (1879-1967), Ernest Blin (1880-1949), André Blin (1887-1958)</p><p>To ensure the future of their company, the brothers André, Ernest and Maurice Blin entered into an agreement on May 16, 1940 that put the management of their company in the hands of Française Bedaux, a company headed by Ernest’s friend Charles Bedaux. Under the terms of an initial contract, the Bedaux company took over Blin & Blin’s commercial and technical management as well as all powers of its board of directors for 3 to 5 years. This agreement led to a fictitious “Aryanization” of the company, which took the name Anciens établissements Blin et Blin (Former Blin & Blin Establishments), as of June 21, 1940.</p>"
         medias:
           - /files/Doc8-a_9Fi602.jpg
           - /files/Doc8-b_9Fi601.jpg
           - /files/Doc8-c_9Fi603.jpg
+      - document: Agreement between the Blin & Blin company and Française Bedaux, May 14, 1940
+        component: doc-right
+        legend: RMM. Fabrique des savoirs, Heritage Archives (Albert Blin Holdings, 275Z56)
+        text: "<p>To ensure the future of their company, the brothers André, Ernest and Maurice Blin entered into an agreement on May 16, 1940 that put the management of their company in the hands of Française Bedaux, a company headed by Ernest’s friend Charles Bedaux. Under the terms of an initial contract, the Bedaux company took over Blin & Blin’s commercial and technical management as well as all powers of its board of directors for 3 to 5 years. This agreement led to a fictitious “Aryanization” of the company, which took the name Anciens établissements Blin et Blin (Former Blin & Blin Establishments), as of June 21, 1940.</p>"
+        medias:
           - /files/275Z56.jpg
       - document: Assignment letter from Ernest Blin transferring his shares to Charles Bedaux, May 14, 1940.
         component: doc-right
