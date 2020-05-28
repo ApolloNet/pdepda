@@ -68,7 +68,7 @@ chapters:
           - /files/Doc8-a_9Fi602.jpg
           - /files/Doc8-b_9Fi601.jpg
           - /files/Doc8-c_9Fi603.jpg
-      - document: Accord entre la société Blin et Blin et la Française Bedaux, 14 mai 1940
+      - document: Accord du 126 mai 1940 entre la société Blin et Blin et la Française Bedaux
         component: doc-right
         legend: RMM. Fabrique des savoirs, Archives patrimoniales (Fonds Albert Blin, 275Z56)
         text: "<p>Afin de garantir la pérennité de leur entreprise, les frères André, Ernest et Maurice Blin concluent dès le 16 mai 1940 un accord qui remet la direction de leur entreprise entre les mains de la <em>Française Bedaux</em> dirigée par Charles Bedaux, ami d’Ernest. En vertu d’un premier contrat, la société Bedaux prend en charge la gestion commerciale et technique mais aussi l’intégralité des pouvoirs du conseil d’administration pour une durée de 3 à 5 ans. Cet accord conduit à une « aryanisation » fictive de l’entreprise qui prend le nom d’<em>Anciens établissements Blin et Blin</em>, à partir du 21 juin 1940.</p>"

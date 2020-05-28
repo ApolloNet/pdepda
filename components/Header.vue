@@ -1,7 +1,7 @@
 <template>
   <header class="main-header">
     <div class="wrapper main-nav">
-      <nuxt-link to="/" class="header-logo">
+      <nuxt-link :to="'/' + lang" class="header-logo">
         <img
           v-if="!isHome"
           src="/img/logo-header.svg"
@@ -29,6 +29,8 @@
 </template>
 
 <script>
+import { mapState } from 'vuex'
+
 export default {
   name: 'Header',
   props: {
@@ -36,6 +38,9 @@ export default {
       type: Boolean,
       default: false
     }
+  },
+  computed: {
+    ...mapState(['lang'])
   }
 }
 </script>

@@ -23,7 +23,7 @@ Sylvain Amic, Director of the Réunion des Musées Métropolitains Rouen Normand
 
 Xavier Rey, Director of the Musées de Marseille, Head Heritage Conservation Officer
 
-Nathalie Bondil, Director General and Chief Curator
+Nathalie Bondil, Director General and Chief Curator, Montreal Museum of Fine Arts
 
 ## Rouen Normandy Metroplitan Area
 

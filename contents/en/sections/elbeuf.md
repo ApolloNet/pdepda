@@ -6,7 +6,7 @@ museum: Réunion des Musées Métropolitains Rouen Normandie
 image: 
 description: 
 chapters:
-  - chapter: Local archives and the Jewish question (1940-1944)
+  - chapter: Local Archives and the Jewish Question (1940-1944)
     text: <p>Recent decades have seen considerable progress in historical research about the Occupation. In France, Germany and the United States, access to previously closed archive holdings has let researchers delve into new areas of study, such as the Jewish Question and the French State’s responsibility in implementing measures against French Jews. While Nazi Germany was the instigator of an outright program to exterminate Jews in Europe, the Vichy government also collaborated in this plan in the French territory. By exploiting a generalized open anti-Semitism that had lain dormant among the political, economic, and intellectual elite and the public since the Dreyfus affair, the State pulled the country’s entire administrative system into collaboration with the Nazi plan.</p><p>This exhibition draws on the archives produced by the administration itself to deal with the Jewish Question during the Occupation. It shows how the measures of German authorities and the French State were applied at a communal level. The local impact, revealed through the fates of men and women who were a part of the daily lives of their fellow citizens, friends and colleagues, demonstrates the full human consequences of this repression.</p>
   - chapter: Administration of the Communes During the Occupation
     text: <p>The armistice signed on June 22, 1940 ratified the division of France into two zones separated by a demarcation line. In the north, or the “occupied zone,” the French State had to accommodate the German administration, which was essentially a military presence and was based in Paris. The government in Vichy freely administered the only departments in the free zone, or the southern part of the country and the colonies. Prefects became an essential part of the administration, from the top of the State authority down to the municipalities.</p><p>On July 10, legislators voted to give full powers to Marshal Pétain. Through a law enacted on November 16, 1940, the Vichy government abolished the election of municipal councillors and re-established their appointment by the Minister of the Interior in towns of over 10,000 people and by the Prefect for all others. Between 1940 and 1941, nearly 500 municipalities were dissolved. Communists, Jews, and Freemasons were excluded from the new legislative assemblies.</p>
@@ -37,7 +37,7 @@ chapters:
         text: <p>Exclusion was then accompanied by control and repression. The prefects became responsible for taking the census of Jews living in France. Locally, the mayors were the ones who kept track of the actual numbers.</p>
         medias:
           - /files/Doc4_8FI1421.jpg
-      - document: Census of Jews in the Canton of Elbeuf, [undated].
+      - document: Census of Jews in the Canton of Elbeuf [undated].
         component: doc-top doc-multiple
         legend: RMM. Fabrique des savoirs, Heritage Archives (4H-ELB136)
         text: <p>A small Jewish community had lived in Elbeuf since 1848 and then developed further with the arrival of Alsatian industrialists in 1871. This handwritten list, probably the first, names 92 people. Most of these lists and files meticulously drawn up by the French administration were used to make arrests starting in 1942.</p>
@@ -90,7 +90,7 @@ chapters:
   - chapter: Individual Fates
     text: <p>Repression of the Jews intensified through the Vichy government’s active collaboration with the Nazi regime. The Final Solution, whose goal was the total extermination of the Jews in Europe, was decided and planned at the Wannsee Conference on January 20, 1942.</p><p>According to the 1940 census, the Jewish community in Elbeuf targeted by the anti-Jewish measures consisted of 92 people. Between 1942 and 1944, 34 of them were arrested and deported. Others, such as the members of the Blin family, fled and were forced into hiding until the Liberation.</p>
     documents:
-      - document: German ordinance dated June 1, 1942 making it compulsory for Jews to wear the yellow star.
+      - document: German ordinance dated June 1, 1942, making it compulsory for Jews to wear the yellow star.
         component: doc-top doc-multiple
         legend: RMM. Fabrique des savoirs, Heritage Archives (Elbeuf Holdings, 4H-ELB 136)
         text: <p>French citizens and foreigners of Jewish faith were forced to wear the yellow star. The star was not worn in the free zone even after this area was invaded on November 11, 1942; however, the word “Jew” was stamped on identity papers.</p>
@@ -100,7 +100,7 @@ chapters:
       - document: Police report dated July 17, 1942 about yellow stars being painted on the synagogue on Rue Grémont in Elbeuf.
         component: doc-left
         legend: RMM. Fabrique des savoirs, Heritage Archives (Elbeuf Holdings, 9Fi3878)
-        text: <p>The police report indicates that this act took place the night of July 16 to 17, 1942. This coincided with the Vélodrome d'hiver, an operation that started at 4:00 a.m. on July 16 in Paris during which the French police rounded up and arrested 13,152 people, including 4,000 children, for deportation.</p>
+        text: <p>The police report indicates that this act took place the night of July 16 to 17, 1942. This coincided with the Vélodrome d'hiver roundup, an operation that started at 4:00 a.m. on July 16 in Paris during which the French police rounded up and arrested 13,152 people, including 4,000 children, for deportation.</p>
         medias:
           - /files/Doc12_9Fi3878.jpg
       - document: Workers’ petition on behalf of the owners of the Blin & Blin company, June 10, 1941.
@@ -152,14 +152,14 @@ chapters:
         medias:
           - /files/Doc23_9Fi1893.jpg
           - /files/Doc24_9Fi1894.jpg
-      - document: Post card from Sarah to her friend Germaine from the Beaune-la-Rolande camp, dated March 24, 1943.
+      - document: Postcard from Sarah to her friend Germaine from the Beaune-la-Rolande camp, dated March 24, 1943.
         component: doc-top doc-multiple
         legend: RMM. Fabrique des savoirs, Heritage Archives (Gift from Germaine Thiry-Guillotin)
         text: 
         medias:
           - /files/Doc25_9Fi1889.jpg
           - /files/Doc26_9Fi1890.jpg
-      - document: Post card from Sarah to her friend Germaine from the Drancy camp, dated March 24, 1943.
+      - document: Postcard from Sarah to her friend Germaine from the Drancy camp, dated March 24, 1943.
         component: doc-top doc-multiple
         legend: RMM. Fabrique des savoirs, Heritage Archives (Gift from Germaine Thiry-Guillotin)
         text: <p>In her last message on March 24, 1943 (and not 1942 as indicated), Sarah, who had again been transferred to Drancy, announced her imminent departure. Her mother, Dinah, would accompany her, since she enjoyed privileged status as an “Aryan” woman and prisoner. The two women were deported via Convoy 53 to the Sobibor extermination camp, where Sarah was declared dead on March 28, 1943. Dinah was declared dead on March 30.</p>
