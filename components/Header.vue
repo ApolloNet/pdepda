@@ -4,7 +4,7 @@
       <nuxt-link :to="'/' + lang" class="header-logo">
         <img
           v-if="!isHome"
-          src="/img/logo-header.svg"
+          :src="`/img/logo-header-${lang}.svg`"
           alt="Ports d'Exil, Ports d'Attache"
           width="466"
           height="32"
@@ -79,7 +79,7 @@ export default {
 
 .switch-lang-item {
   display: inline-block;
-  margin: 0;
+  margin: 0 $margin/4;
 }
 
 @media (min-width: $mq-680) {
