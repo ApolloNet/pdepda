@@ -4,7 +4,7 @@
       <nuxt-link :to="'/' + lang" class="header-logo">
         <img
           v-if="!isHome"
-          :src="`/img/logo-header-${lang}.svg`"
+          :src="`/img/logo-header-${lang}2.svg`"
           alt="Ports d'Exil, Ports d'Attache"
           width="466"
           height="32"
