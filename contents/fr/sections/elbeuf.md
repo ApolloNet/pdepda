@@ -125,7 +125,7 @@ chapters:
       - document: Correspondance de Sarah à la famille Gillot, adressée du camp de Drancy le 14 février 1943.
         component: doc-top doc-multiple
         legend: RMM. Fabrique des savoirs, Archives patrimoniales (don Germaine Thiry-Guillotin)
-        text: 
+        text: <p><a href="/files/transcription-sarah-430214.pdf" target="_blank">Consulter la transcription au format PDF</a></p>
         medias:
           - /files/Doc15_9Fi1884.jpg
           - /files/Doc16_9Fi1885.jpg
@@ -133,7 +133,7 @@ chapters:
       - document: Correspondance de Sarah à son amie Germaine, adressée du camp de Drancy le 28 février 1943.
         component: doc-top doc-multiple
         legend: RMM. Fabrique des savoirs, Archives patrimoniales (don Germaine Thiry-Guillotin)
-        text: 
+        text: <p><a href="/files/transcription-sarah-430228.pdf" target="_blank">Consulter la transcription au format PDF</a></p>
         medias:
           - /files/Doc18_9Fi0128.jpg
           - /files/Doc19_9Fi0129.jpg
@@ -141,7 +141,7 @@ chapters:
       - document: Correspondance de Sarah à son amie Germaine, adressée du camp de Beaune-la-Rolande le 15 mars 1943.
         component: doc-top doc-multiple
         legend: RMM. Fabrique des savoirs, Archives patrimoniales (don Germaine Thiry-Guillotin)
-        text: 
+        text: <p><a href="/files/transcription-sarah-430315.pdf" target="_blank">Consulter la transcription au format PDF</a></p>
         medias:
           - /files/Doc21_9Fi1891.jpg
           - /files/Doc22_9Fi1892.jpg
@@ -155,14 +155,14 @@ chapters:
       - document: Correspondance de Sarah à son amie Germaine adressée du camp de Beaune-la-Rolande le 24 mars 1943.
         component: doc-top doc-multiple
         legend: RMM. Fabrique des savoirs, Archives patrimoniales (don Germaine Thiry-Guillotin)
-        text: 
+        text: <p><a href="/files/transcription-sarah-4303241.pdf" target="_blank">Consulter la transcription au format PDF</a></p>
         medias:
           - /files/Doc25_9Fi1889.jpg
           - /files/Doc26_9Fi1890.jpg
       - document: Correspondance de Sarah à son amie Germaine, adressée du camp de Drancy le 24 mars 1943.
         component: doc-top doc-multiple
         legend: RMM. Fabrique des savoirs, Archives patrimoniales (don Germaine Thiry-Guillotin)
-        text: <p>Dans ce dernier message du 24 mars 1943 (non 1942 comme indiqué), Sarah qui a été transférée à nouveau à Drancy, annonce un départ imminent. Sa mère Dinah l’accompagne alors qu’elle bénéficie d’un statut privilégié en tant que femme d’«aryen» et de prisonnier. Les deux femmes sont déportées par le convoi 53 au camp de concentration de Sobibor où Sarah est déclarée comme étant décédée le 28 mars 1943. Le décès de sa mère Dinah est déclaré à la date du 30 mars.</p>
+        text: <p>Dans ce dernier message du 24 mars 1943 (non 1942 comme indiqué), Sarah qui a été transférée à nouveau à Drancy, annonce un départ imminent. Sa mère Dinah l’accompagne alors qu’elle bénéficie d’un statut privilégié en tant que femme d’«aryen» et de prisonnier. Les deux femmes sont déportées par le convoi 53 au camp de concentration de Sobibor où Sarah est déclarée comme étant décédée le 28 mars 1943. Le décès de sa mère Dinah est déclaré à la date du 30 mars.</p><p><a href="/files/transcription-sarah-4303242.pdf" target="_blank">Consulter la transcription au format PDF</a></p>
         medias:
           - /files/Doc27_9Fi1888.jpg
           - /files/Doc28_9Fi1887.jpg
