@@ -68,7 +68,7 @@ chapters:
           - /files/Doc8-a_9Fi602.jpg
           - /files/Doc8-b_9Fi601.jpg
           - /files/Doc8-c_9Fi603.jpg
-      - document: Accord du 126 mai 1940 entre la société Blin et Blin et la Française Bedaux
+      - document: Accord du 16 mai 1940 entre la société Blin et Blin et la Française Bedaux
         component: doc-right
         legend: RMM. Fabrique des savoirs, Archives patrimoniales (Fonds Albert Blin, 275Z56)
         text: "<p>Afin de garantir la pérennité de leur entreprise, les frères André, Ernest et Maurice Blin concluent dès le 16 mai 1940 un accord qui remet la direction de leur entreprise entre les mains de la <em>Française Bedaux</em> dirigée par Charles Bedaux, ami d’Ernest. En vertu d’un premier contrat, la société Bedaux prend en charge la gestion commerciale et technique mais aussi l’intégralité des pouvoirs du conseil d’administration pour une durée de 3 à 5 ans. Cet accord conduit à une « aryanisation » fictive de l’entreprise qui prend le nom d’<em>Anciens établissements Blin et Blin</em>, à partir du 21 juin 1940.</p>"
@@ -121,7 +121,7 @@ chapters:
       - document: Correspondance de Sarah durant sa détention en camps de transit, janvier-mars 1943
         component: doc-right
         legend: RMM. Fabrique des savoirs, Archives patrimoniales (don Germaine Thiry-Guillotin)
-        text: <p>Entre le 15 janvier et le 24 mars, Sarah Rotmentz correspond avec des voisins, la famille Gillot, et son amie Germaine Guillotin. Après leur arrestation, Sarah et sa mère sont détenues dans le camp de Drancy en région parisienne puis transférées vers la mi-mars dans celui de Beaune-la-Rolande (Loiret).</p><p>Dans cette correspondance, la jeune femme confie son quotidien, les conditions et les règles de vie à l’intérieur des camps mais aussi son incertitude quant à l’avenir.</p>
+        text: <p>Entre le 15 janvier et le 24 mars (Sarah est arrêtée en 1943, il s’agit bien de 1943 et non 1942 comme elle l’ indique dans ses différents échanges), Sarah Rotmentz correspond avec des voisins, la famille Gillot, et son amie Germaine Guillotin. Après leur arrestation, Sarah et sa mère sont détenues dans le camp de Drancy en région parisienne puis transférées vers la mi-mars dans celui de Beaune-la-Rolande (Loiret).</p><p>Dans cette correspondance, la jeune femme confie son quotidien, les conditions et les règles de vie à l’intérieur des camps mais aussi son incertitude quant à l’avenir.</p>
       - document: Correspondance de Sarah à la famille Gillot, adressée du camp de Drancy le 14 février 1943.
         component: doc-top doc-multiple
         legend: RMM. Fabrique des savoirs, Archives patrimoniales (don Germaine Thiry-Guillotin)

@@ -1,4 +1,4 @@
-  ---
+---
 title: Ports d'Exil, Ports d'Attache
 Description: Le projet de cette exposition est né dans le contexte particulier du grand confinement du printemps 2020, dû à la pandémie mondiale du Covid-19. Répondant à l’appel à projet lancé par le réseau FRAME, les musées de Rouen, Montréal et Marseille se sont fédérés pour prolonger leur mission en ligne.
 ---
@@ -9,7 +9,7 @@ Rouen, Marseille, Montréal, trois villes portuaires qui se sont construites sur
 
 Cette exposition virtuelle prend pour cadre la Seconde guerre mondiale. Elle fait ressurgir des archives, photographies, objets, œuvres d’art souvent inédits qui forment, comme les cailloux du Petit Poucet, un chemin. De Normandie en zone occupée, à la Provence en zone libre, nous suivons le sort de citoyens juifs, français ou européens, traqués par l’occupant nazi et ses affidés, ou par le régime de Vichy. Avec au bout du voyage la mort en déportation... ou le salut au Canada, terre d’accueil.
 
-En mettant en commun les collections de ces trois villes, la Fabrique des Savoirs à Elbeuf près de Rouen, et le Musée d’Histoire de Marseille, enfin outre Atlantique, le Musée des beaux-Arts de Montréal et le Musée de l’Holocauste, il est possible de jeter une lumière crue sur la réalité concrète des loi anti-juives,  leur mécanique bureaucratique barbare. Ce sont aussi des témoignages de résilience et d'espoir dans ce long voyage vers l'exil, la reconstruction et la réparation.  Ces objets nous parlent d'Alexander, Amalie, Avrum, Max, David, Donna, Edwig, Emilie, Georges, Hugo, Illana, Jacques, Jeannine Louis Pal Sarah, Tola, Victor Wilhem et de tant d’autres. Écoutons leur voix.
+En mettant en commun les collections de ces trois villes, la Fabrique des Savoirs à Elbeuf près de Rouen, et le Musée d’Histoire de Marseille, enfin outre Atlantique, le Musée des beaux-Arts de Montréal et le Musée Holocauste Montréal, il est possible de jeter une lumière crue sur la réalité concrète des loi anti-juives,  leur mécanique bureaucratique barbare. Ce sont aussi des témoignages de résilience et d'espoir dans ce long voyage vers l'exil, la reconstruction et la réparation.  Ces objets nous parlent d'Alexander, Amalie, Avrum, Max, David, Donna, Edwig, Emilie, Georges, Hugo, Illana, Jacques, Jeannine Louis Pal Sarah, Tola, Victor Wilhem et de tant d’autres. Écoutons leur voix.
 
 # Crédits & remerciements
 
@@ -77,13 +77,13 @@ Remerciements : Julie Grahame, Senior Representative, Estate of Yousuf Karsh
 
 [mbam.qc.ca](https://www.mbam.qc.ca)
 
-## Musée de l'Holocauste Montréal
+## Musée Holocauste Montréal
 
 Commissaires de l'exposition : Marie-Blanche Fourcade, Cheffe conservation et expositions et Andréa Shaulis, Conservatrice
 
 Promotion du projet : Sarah Fogg, Cheffe marketing, communications et relations publiques
 
-Le Musée de l’Holocauste remercie chaleureusement Gérard Krosberg et Illana Izso pour avoir gracieusement permis l’utilisation de photographies de leur collection privée pour cette exposition.
+Le Musée Holocauste Montréal remercie chaleureusement Gérard Krosberg et Illana Izso pour avoir gracieusement permis l’utilisation de photographies de leur collection privée pour cette exposition.
 
 [museeholocauste.ca](https://museeholocauste.ca)
 
