@@ -8,9 +8,9 @@
     "kamokamo": "cd contents && kamokamo > contents.json",
     "images": "node create-responsive-images.js",
     "dev": "npm run kamokamo && nuxt",
-    "build": "npm run kamokamo && nuxt build",
+    "build": "npm run images && npm run kamokamo && nuxt build",
     "start": "npm run kamokamo && nuxt start",
-    "generate": "npm run kamokamo && nuxt generate",
+    "generate": "npm run images && npm run kamokamo && nuxt generate",
     "lint": "eslint --ext .js,.vue --ignore-path .gitignore ."
   },
   "dependencies": {
