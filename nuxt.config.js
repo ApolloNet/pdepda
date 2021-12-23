@@ -13,6 +13,7 @@ const env = {
 
 export default {
   target: 'static',
+  ssr: false,
   head: {
     title: env.mainTitle,
     htmlAttrs: {
@@ -69,6 +70,7 @@ export default {
   },
   generate: {
     dir: 'public',
+    fallback: true,
     routes
   },
   sitemap: {
