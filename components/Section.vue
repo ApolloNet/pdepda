@@ -132,7 +132,7 @@ $section-header-gradient: linear-gradient(
 }
 
 .section-title {
-  margin-bottom: $margin/2;
+  margin-bottom: calc($margin/2);
 }
 
 .section-museum {

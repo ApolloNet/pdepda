@@ -12,7 +12,7 @@ const env = {
 }
 
 export default {
-  mode: 'universal',
+  target: 'static',
   head: {
     title: env.mainTitle,
     htmlAttrs: {

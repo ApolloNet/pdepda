@@ -79,7 +79,7 @@ export default {
 
 .switch-lang-item {
   display: inline-block;
-  margin: 0 $margin/4;
+  margin: 0 calc($margin/4);
 }
 
 @media (min-width: $mq-680) {

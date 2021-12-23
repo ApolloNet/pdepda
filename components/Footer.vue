@@ -193,7 +193,7 @@ export default {
 }
 
 .footer-links-item {
-  padding: 0 $margin/2;
+  padding: 0 calc($margin/2);
 }
 
 @media (min-width: $mq-680) {
