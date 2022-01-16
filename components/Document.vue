@@ -1,7 +1,7 @@
 <template>
   <article class="doc" :class="document.component">
     <div class="wrapper">
-      <div class="doc-medias">
+      <div v-if="document.medias" class="doc-medias">
         <div class="doc-medias-inner sticky">
           <Media
             v-for="(media, index) in document.medias"
@@ -15,8 +15,8 @@
       <div class="doc-content">
         <div class="sticky">
           <h3 class="doc-title">{{ document.document }}</h3>
-          <div class="doc-body" v-html="document.text"></div>
-          <p class="doc-legend">{{ document.legend }}</p>
+          <div v-if="document.text" class="doc-body" v-html="document.text"></div>
+          <p v-if="document.legend" class="doc-legend">{{ document.legend }}</p>
         </div>
       </div>
     </div>
@@ -147,11 +147,10 @@ export default {
     }
   }
 
-  // Top
+  // Top & bottom
 
-  .doc-top {
-    flex-direction: column-reverse;
-
+  .doc-top,
+  .doc-bottom {
     .doc-content {
       padding: $margin * 2 $margin * 6 0 $margin * 20;
     }
@@ -159,6 +158,10 @@ export default {
     .doc-medias {
       width: 100%;
     }
+  }
+
+  .doc-top {
+    flex-direction: column-reverse;
   }
 }
 </style>

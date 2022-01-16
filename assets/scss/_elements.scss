@@ -239,9 +239,18 @@ figcaption {
   font-family: $ff-body-italic;
 }
 
-audio,
-video {
-  margin-bottom: $margin;
+audio {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: $black;
+  border-radius: 0.25rem;
+  text-align: center;
+  font-size: 0;
+
+  @media (min-width: $mq-680) {
+    width: 80%;
+  }
 }
 
 // Links

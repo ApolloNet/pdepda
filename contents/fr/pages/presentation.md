@@ -15,7 +15,7 @@ En mettant en commun les collections de ces trois villes, la Fabrique des Savoir
 
 Le projet de cette exposition est né dans le contexte particulier du grand confinement du printemps 2020, dû à la pandémie mondiale du Covid-19. Répondant à l’appel à projet lancé par le réseau FRAME (FRench American Museum Exchange, fédérant 32 musées français et nord-américains), les musées de Rouen, Montréal et Marseille se sont fédérés pour prolonger leur mission en ligne. Sur une proposition de la Fabrique des Savoirs, à Elbeuf, le thème des destinées juives pendant la seconde guerre mondiale est apparu comme le plus pertinent. Au terme d’une intense mobilisation de part et d’autre de l’Atlantique, grâce au généreux soutien du réseau FRAME, cette exposition inédite a vu le jour en l’espace de quelques semaines.
 
-Que soient ici particulièrement remerciés pour leur engagement et leur contribution :
+Que soient ici particulièrement remerciés pour leur engagement et leur contribution :
 
 ## Commissariat général
 
@@ -86,6 +86,28 @@ Promotion du projet : Sarah Fogg, Cheffe marketing, communications et relations 
 Le Musée Holocauste Montréal remercie chaleureusement Gérard Krosberg et Illana Izso pour avoir gracieusement permis l’utilisation de photographies de leur collection privée pour cette exposition.
 
 [museeholocauste.ca](https://museeholocauste.ca)
+
+## Musées de Strasbourg
+
+Commissariat général : Paul Lang, directeur des Musées de Strasbourg
+
+Commissariat : Monique Fuchs, conservatrice en chef du Musée historique de la Ville de Strasbourg, Marie Pottecher, conservatrice en chef du Musée Alsacien
+
+Textes et recherches iconographiques : Monique Fuchs, Marie Pottecher
+
+Entretiens : Lise Faure, ethnologue indépendante, Jeanne Teboul, maîtresse de conférences en ethnologie à l’Université de Strasbourg
+
+Photographies : Mathieu Bertola, Musées de Strasbourg (sauf mentions contraires)
+
+Mixage et montage des contenus audio : Léandre Etienne
+
+Vidéos : Bernard Guillot
+
+Traduction : Simon Welch
+
+Conseil scientifique : Raymond Levy (Musée judéo-alsacien de Bouxwiller), Jean-Pierre Lambert et Malou Schneider, (Société d’histoire des Israélites d’Alsace et de Lorraine).
+
+Les Musées de la Ville de Strasbourg remercient chaleureusement toutes les personnes qui, par leur temps ou leurs conseils ont permis de réaliser cette exposition et tout particulièrement : Mme Claude Bloch, Mme Laurence Jost Lienhart, Mme Caroline Lambert-David, M. Jean-Pierre Lambert, M. Raymond Levy, Mme Simone Polak, M. Olivier Samuel, Mme Malou Schneider, ainsi que la Société d’histoire des Israélites d’Alsace et de Lorraine et le Musée judéo-alsacien de Bouxwiller.
 
 ## FRAME
 
