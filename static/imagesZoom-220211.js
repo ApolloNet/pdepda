@@ -1,6 +1,6 @@
-document.addEventListener('DOMContentLoaded', function() {
+(function () {
   addImageZoom('.media-image')
-})
+})();
 
 function addImageZoom(selector) {
   const images = document.querySelectorAll(selector)

@@ -88,6 +88,28 @@ The Montreal Holocaust Museum warmly thanks Gérard Krosberg and Illana Izso for
 
 [museeholocauste.ca](https://museeholocauste.ca)
 
+## Strasbourg
+
+General curation: Paul Lang, director of Strasbourg Museums
+
+Curators: Monique Fuchs, chief curator of the Historical Museum of the City of Strasbourg, and Marie Pottecher, chief curator of the Alsatian Museum
+
+Texts and iconographic research: Monique Fuchs and Marie Pottecher
+
+Interviews: Lise Faure, independent ethnologist, and Jeanne Teboul, lecturer in ethnology at the University of Strasbourg
+
+Photos: Mathieu Bertola, Strasbourg Museums (unless otherwise indicated)
+
+Mixing and editing of audio content: Léandre Etienne
+
+Videos: Bernard Guillot
+
+Translation: Simon Welch
+
+Advisory committee: Raymond Levy (Bouxwiller Judeo-Alsatian Museum), Jean-Pierre Lambert and Malou Schneider, (Société d’histoire des Israélites d’Alsace et de Lorraine).
+
+City of Strasbourg Museums warmly thanks all those who, through giving their time or their advice, have made it possible to produce this exhibition, particularly: Ms. Claude Bloch, Ms. Laurence Jost-Lienhart, Ms. Caroline Lambert-David, Mr. Jean-Pierre Lambert, Mr. Raymond Levy, Ms. Simone Polak, Mr. Olivier Samuel, Ms. Malou Schneider, as well as the Société d’histoire des Israélites d’Alsace et de Lorraine and the Bouxwiller Judeo-Alsatian Museum.
+
 ## FRAME
 
 Anne-Solène Rolland and William Beekman, Co-Presidents of FRAME
