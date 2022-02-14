@@ -7,14 +7,15 @@
             v-for="(media, index) in document.medias"
             :key="media"
             :index="index"
-            :src="media"
+            :src="media.file ? media.file : media"
             :alt="document.legend"
+            :legend="media.legend ? media.legend : null"
           />
         </div>
       </div>
       <div class="doc-content">
         <div class="sticky">
-          <h3 class="doc-title">{{ document.document }}</h3>
+          <h3 class="doc-title" v-html="document.document"></h3>
           <div v-if="document.text" class="doc-body" v-html="document.text"></div>
           <p v-if="document.legend" class="doc-legend">{{ document.legend }}</p>
         </div>
@@ -76,6 +77,14 @@ export default {
   color: $grey-dark;
 }
 
+// Bottom
+
+.doc-bottom {
+  .wrapper {
+    flex-direction: column-reverse;
+  }
+}
+
 @media (min-width: $mq-680) {
   .doc {
     padding-left: $margin * 2;
@@ -84,7 +93,8 @@ export default {
 
   // Multiple
 
-  .doc-multiple.doc-top {
+  .doc-multiple {
+
     .doc-medias {
       position: relative;
 
@@ -102,17 +112,15 @@ export default {
 
     .doc-medias-inner {
       display: flex;
+      align-items: stretch;
       flex-wrap: nowrap;
       overflow-x: auto;
+      padding-right: 15rem;
     }
 
     .media {
       flex: 0 0 auto;
-      padding-right: $margin;
-
-      &:last-of-type {
-        padding-right: 15rem;
-      }
+      margin-right: $margin;
     }
   }
 
@@ -152,7 +160,8 @@ export default {
   .doc-top,
   .doc-bottom {
     .doc-content {
-      padding: $margin * 2 $margin * 6 0 $margin * 20;
+      padding-right: $margin * 6;
+      padding-left: $margin * 20;
     }
 
     .doc-medias {
@@ -160,8 +169,12 @@ export default {
     }
   }
 
-  .doc-top {
-    flex-direction: column-reverse;
+  .doc-top .doc-content {
+    padding-top: $margin * 2;
+  }
+
+  .doc-bottom .doc-content {
+    padding-bottom: $margin * 2;
   }
 }
 </style>

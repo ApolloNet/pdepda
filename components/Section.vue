@@ -117,7 +117,12 @@ $section-header-gradient: linear-gradient(
 
 .section-montreal {
   background-image: $section-header-gradient,
-    url('/img/header-680-montreal-2.jpg');
+    url('/img/header-680-montreal.jpg');
+}
+
+.section-montreal {
+  background-image: $section-header-gradient,
+    url('/img/header-680-strasbourg.jpg');
 }
 
 .section-header-content {
@@ -228,7 +233,12 @@ $section-header-gradient: linear-gradient(
 
   .section-montreal {
     background-image: $section-header-gradient,
-      url('/img/header-1920-montreal-2.jpg');
+      url('/img/header-1920-montreal.jpg');
+  }
+
+  .section-strasbourg {
+    background-image: $section-header-gradient,
+      url('/img/header-1920-strasbourg.jpg');
   }
 
   .section-help {

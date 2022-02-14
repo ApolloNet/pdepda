@@ -1,20 +1,21 @@
 <template>
-  <div class="media">
+  <div :class="cssClass">
     <img
       v-if="isImage"
       :id="filename + '-' + index"
       loading="lazy"
-      class="media-image"
+      class="media__image"
       :src="`/files/derivatives/small/${file}`"
       :alt="alt"
-      :srcset="
-        `/files/derivatives/small/${file} 480w,
-          /files/derivatives/medium/${file} 799w,
-          /files/derivatives/large/${file} 1280w,
-          /files/derivatives/giant/${file} 1600w`
-      "
+      :srcset="`
+        /files/derivatives/small/${file} 480w,
+        /files/derivatives/medium/${file} 799w,
+        /files/derivatives/large/${file} 1280w,
+        /files/derivatives/giant/${file} 1600w
+      `"
     />
-    <audio v-if="isAudio" class="media-audio" controls :src="src" />
+    <audio v-if="isAudio" controls :src="src" />
+    <p class="media__legend" v-if="legend" v-html="legend"></p>
   </div>
 </template>
 
@@ -23,6 +24,10 @@ export default {
   name: 'Media',
   props: {
     alt: {
+      type: String,
+      default: ''
+    },
+    legend: {
       type: String,
       default: ''
     },
@@ -36,6 +41,16 @@ export default {
     }
   },
   computed: {
+    cssClass() {
+      const cssClass = ['media']
+      if (this.isAudio) {
+        cssClass.push('media--audio')
+      }
+      if (this.legend) {
+        cssClass.push('media--with-legend')
+      }
+      return cssClass.join(' ')
+    },
     file() {
       return this.src.split('/').pop()
     },
@@ -51,7 +66,7 @@ export default {
     isAudio() {
       return ['mp3'].includes(this.ext)
     }
-  }
+  },
 }
 </script>
 
@@ -61,23 +76,49 @@ export default {
   margin-bottom: $margin;
 }
 
-.media-image {
+.doc-multiple .media--with-legend {
+  @media (min-width: $mq-680) {
+    max-width: 20rem;
+  }
+}
+
+.media--audio {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1rem;
+  border: 1px solid darken($grey, 10%);
+  border-radius: 0.25rem;
+  box-shadow: 0.25rem 0.25rem 0.25rem darken($grey, 2%);
+
+  @media (min-width: $mq-680) {
+    padding: 4rem 2rem;
+  }
+}
+
+.media__image {
   display: block;
   width: 100%;
   height: auto;
   margin: 0 auto;
   cursor: pointer;
+
+  @media (min-width: $mq-680) {
+    width: auto;
+    max-width: 100%;
+    max-height: 80vh;
+  }
+}
+
+.media__legend {
+  padding: 1rem;
+
+  @media (min-width: $mq-680) {
+    font-size: $fs-small;
+  }
 }
 
 .openseadragon-canvas {
   cursor: pointer;
-}
-
-@media (min-width: $mq-680) {
-  .media-image {
-    width: auto;
-    max-width: 100%;
-    max-height: 90vh;
-  }
 }
 </style>

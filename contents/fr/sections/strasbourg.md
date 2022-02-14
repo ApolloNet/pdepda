@@ -74,31 +74,26 @@ chapters:
     text: <p>Annexée au Reich allemand, l’Alsace et la Moselle voient s’appliquer sur leur territoire l’ensemble de la législation anti-juive nazie. Celle-ci se manifeste par la volonté de faire de ces régions, à l’instar du reste du Reich, des territoires judenrein (sans juifs).<br>La circulaire du 13 juillet 1940 organise cette « épuration ». Celle-ci se met en œuvre très rapidement et brutalement pour les expulsés qui n’ont parfois que quelques heures pour quitter leur foyer. Chaque individu a droit à 30 kg de bagages (les objets de valeur ou d’art en étaient exclus) et 150 Reichsmarks. Leurs logements sont mis sous scellés et leurs biens vendus aux enchères au profit du Reich. Le régime nazi poursuit sa politique d’annihilation de toute trace de la présence et de l’héritage juif dans la région. L’incendie de la synagogue de Strasbourg en est un exemple et plusieurs documents illustrent cette politique, notamment tous les formulaires préalables à l’embauche qui comportent plusieurs rubriques destinées à vérifier l’absence d’antécédents familiaux juifs.</p>
     documents:
       - document: Gilbert Weil, dessins relatant l’expulsion de sa famille de Bouxwiller, 1942, papier, crayon
-        component: doc-right
+        component: doc-bottom doc-multiple
         legend: Bouxwiller, Musée judéo-alsacien
-        text: "<p>Né à Strasbourg le 12 juillet 1929, Gilbert Weil habite avec sa famille à Bouxwiller, une petite ville du nord de l’Alsace. Le 14 juillet 1940, il est expulsé d’Alsace et se réfugie avec sa famille dans le Jura. Il parvient à fréquenter l’école communale puis le lycée de Lons-le-Saunier. Toutefois, à partir de 1942, la traque des Juifs se durcissant, le proviseur propose à ses parents de prendre Gilbert comme interne au lycée afin de lui éviter les aller-retour. Durant les vacances, le jeune adolescent est caché dans l’établissement et interdiction lui est faite de communiquer avec quiconque. Pour tromper son ennui et son angoisse, le garçon dessine dans ses cahiers son expulsion d’Alsace à l’été 1940. Les légendes sont celles que Gilbert Weil lui-même a apportées après la guerre.</p>
-        <ol>
-          <li>Bouxwiller, juin 1940 : presque tous les soldats français sont partis. Les derniers installent un canon devant la <em>Schule</em> et l’entourent de sacs de sable.</li>
-          <li>Dans la cour de la Gendarmerie, les gendarmes brûlent leurs papiers.</li>
-          <li>Des jeunes partent vite, chacun avec une valise et un sac, avant l’arrivée des Allemands.</li>
-          <li>M. Carbiner arrache, sur les panneaux de la Mairie, les affiches françaises ;</li>
-          <li>Dans les rues, personne… Les premiers soldats allemands arrivent. L’un d’eux monte décrocher le drapeau français de la Mairie. Un autre crie « <em>Sieg Heil !</em> ».</li>
-          <li>Tous se font photographier avec le drapeau devant la Mairie, entre leur camion et leur canon.</li>
-          <li>Papa dit : « Nous, ils ne nous feront rien. Je n’ai pas d’ennemi ! S’ils veulent fermer le magasin, on vivra avec les légumes du jardin. » Un matin, ils viennent tout prendre dans le magasin. Un officier avec un chien très méchant leur crie des ordres.</li>
-          <li>Un soir, un soldat allemand sonne et demande un peu de café moulu. Il dit : « Vous êtes juifs ! Partez tant qu’il est temps ! Le « cœur nous a saigné » de voir ce qu’ils ont fait avec nos Juifs ! Partez vite ! ».</li>
-          <li>Le 14 juillet, ils viennent nous chercher. « Vous avez une heure pour venir à la Mairie, avec une valise et une couverture. Tout ce que vous avez appartient maintenant au Reich allemand ». On nous met dans des camions. Madame Hauser, qui habite notre maison, regarde et pleure.</li>
-          <li>Dans le camion, on nous donne un papier marqué : « <em>Elsass Muss Judenrein Sein</em> » [L’Alsace doit être pure de Juifs]. Il fait nuit noire quand nous arrivons à un camp avec des baraques et des barbelés tout autour. Quelqu’un dit : « C’est Schirmeck »</li>
-          <li>Dans la baraque, éclairée par juste une ampoule au plafond, on dort sur des paillasses sales, dans des lits superposés.</li>
-          <li>Le matin tôt, ils crient « <em>Raus</em> » et font l’appel. Toute la journée, on roule en camion. Le soir, on est à Dôle, dans une caserne. Des dames viennent avec une cuisine sur roues distribuer un peu de soupe.</li>
-          <li>Le lendemain, on traverse un pont à Parthenay. On est dans le Jura, en « zone non occupée ». Ils jettent tout le monde sur la route. Des gendarmes nous font monter dans un train. À chaque arrêt, ils font descendre vingt personnes. Nous, on descend à Vercia. On dort sur de la paille dans une salle. On n’a rien. Et on n’a presque rien à manger…</li>
-        </ol>"
+        text: "<p>Né à Strasbourg le 12 juillet 1929, Gilbert Weil habite avec sa famille à Bouxwiller, une petite ville du nord de l’Alsace. Le 14 juillet 1940, il est expulsé d’Alsace et se réfugie avec sa famille dans le Jura. Il parvient à fréquenter l’école communale puis le lycée de Lons-le-Saunier. Toutefois, à partir de 1942, la traque des Juifs se durcissant, le proviseur propose à ses parents de prendre Gilbert comme interne au lycée afin de lui éviter les aller-retour. Durant les vacances, le jeune adolescent est caché dans l’établissement et interdiction lui est faite de communiquer avec quiconque. Pour tromper son ennui et son angoisse, le garçon dessine dans ses cahiers son expulsion d’Alsace à l’été 1940. Les légendes sont celles que Gilbert Weil lui-même a apportées après la guerre.</p>"
         medias:
           - /files/strasbourg-3-1-1.jpg
-          - /files/strasbourg-3-1-2.jpg
-          - /files/strasbourg-3-1-3.jpg
-          - /files/strasbourg-3-1-4.jpg
-          - /files/strasbourg-3-1-5.jpg
-          - /files/strasbourg-3-1-6.jpg
+          - file: /files/strasbourg-3-1-2.jpg
+            legend: "Bouxwiller, juin 1940 : presque tous les soldats français sont partis. Les derniers installent un canon devant la <em>Schule</em> et l’entourent de sacs de sable.<br>Dans la cour de la Gendarmerie, les gendarmes brûlent leurs papiers."
+          - file: /files/strasbourg-3-1-3.jpg
+            legend: "Des jeunes partent vite, chacun avec une valise et un sac, avant l’arrivée des Allemands.<br>M. Carbiner arrache, sur les panneaux de la Mairie, les affiches françaises."
+          - file: /files/strasbourg-3-1-4.jpg
+            legend: "Dans les rues, personne… Les premiers soldats allemands arrivent. L’un d’eux monte décrocher le drapeau français de la Mairie. Un autre crie « <em>Sieg Heil !</em> ».<br>Tous se font photographier avec le drapeau devant la Mairie, entre leur camion et leur canon."
+          - file: /files/strasbourg-3-1-5.jpg
+            legend: "Papa dit : « Nous, ils ne nous feront rien. Je n’ai pas d’ennemi ! S’ils veulent fermer le magasin, on vivra avec les légumes du jardin. » Un matin, ils viennent tout prendre dans le magasin. Un officier avec un chien très méchant leur crie des ordres.<br>Un soir, un soldat allemand sonne et demande un peu de café moulu. Il dit : « Vous êtes juifs ! Partez tant qu’il est temps ! Le « cœur nous a saigné » de voir ce qu’ils ont fait avec nos Juifs ! Partez vite ! »  ."
+          - file: /files/strasbourg-3-1-6.jpg
+            legend: "Le 14 juillet, ils viennent nous chercher. « Vous avez une heure pour venir à la Mairie, avec une valise et une couverture. Tout ce que vous avez appartient maintenant au Reich allemand ». On nous met dans des camions. Madame Hauser, qui habite notre maison, regarde et pleure.<br>Dans le camion, on nous donne un papier marqué : « <em>Elsass Muss Judenrein Sein</em> » [L’Alsace doit être pure de Juifs]. Il fait nuit noire quand nous arrivons à un camp avec des baraques et des barbelés tout autour. Quelqu’un dit : « C’est Schirmeck »"
+          - file: /files/strasbourg-3-1-7.jpg
+            legend: "Dans la baraque, éclairée par juste une ampoule au plafond, on dort sur des paillasses sales, dans des lits superposés.<br>Le matin tôt, ils crient « <em>Raus</em> » et font l’appel. Toute la journée, on roule en camion. Le soir, on est à Dôle, dans une caserne. Des dames viennent avec une cuisine sur roues distribuer un peu de soupe."
+          - file: /files/strasbourg-3-1-8.jpg
+            legend: "Le lendemain, on traverse un pont à Parthenay. On est dans le Jura, en « zone non occupée ». Ils jettent tout le monde sur la route. Des gendarmes nous font monter dans un train. À chaque arrêt, ils font descendre vingt personnes. Nous, on descend à Vercia. On dort sur de la paille dans une salle. On n’a rien. Et on n’a presque rien à manger…"
+          - /files/strasbourg-3-1-9.jpg
       - document: Avis de confiscation de terrain, encre, papier imprimé
         component: doc-left
         legend: Musée historique 88.2014.3.4
@@ -141,11 +136,12 @@ chapters:
     text: <p>Durant la guerre de nombreux scientifiques et médecins se servent de « matériaux humains » pour faire progresser leurs recherches. L’un des arguments destinés à justifier ces expérimentations était qu’elles vont permettre de sauver la vie de soldats allemands. L’université du Reich de Strasbourg et son institut d’anatomie, ainsi que le camp de concentration de Natzwiller (Struthof), sont en Alsace le théâtre de telles expériences qui concernent aussi bien des prisonniers de droit commun, des tsiganes que des juifs.</p>
     documents:
       - document: Anonyme, August Hirt
-        component: doc-top
+        component: doc-top doc-multiple
         legend: Photographie tirée de François Bayle, <em>Croix gammée contre caducée, les expériences humaines en Allemagne pendant la deuxième guerre mondiale</em>, Neustadt, Imprimerie nationale, 1950
         text: <p>En 1941, la chaire d’anatomie de l’Université nazie de Strasbourg est attribuée à August Hirt (Mannheim, 1898 – Schluchsee, 1945).  Hirt conduit dans ce cadre plusieurs opérations sur des cobayes humains. Il supervise également à partir de 1941 les travaux de l’anthropologue Beger qui utilise du « matériel humain ». Pour cette étude, 86 juives et juifs, sont acheminés d’Auschwitz à Natzwiller fin juillet 1943 puis exterminés dans une chambre à gaz. Leurs cadavres sont transportés à l’institut d’anatomie de Strasbourg et conservés dans un liquide spécial. Il semble qu’une partie de ces cadavres aient aussi servi aux études de testicules réalisées par l’assistant de Hirt, Anton Kiesselbach (Kempenich, 1907 - Dusseldorf, 1984). Ces cadavres, partiellement éliminés à l’arrivée des troupes alliées en novembre 1944, sont ensuite enterrés au cimetière israélite de Strasbourg-Cronenbourg. Un assistant avait noté la liste des matricules figurant sur les corps, ce qui permit l’identification en particulier de Menachem Taffel (1900-1943), commerçant à Berlin, époux de Klara Schenkel. Sa fille de 14 ans, Esther, était aide à l’hôpital de la communauté juive. Le 12 mars 1943, avec 7749 autres juifs, la famille Taffel est déportée de Berlin à Auschwitz. Klara et Esther passent immédiatement à la chambre à gaz. Menachem sera sélectionné trois mois plus tard pour la « collection de squelettes ». Son nom a été donné à un quai longeant l’hôpital civil qui abritait l’institut d’anatomie de la <em>Reichsuniversität</em> dirigé par Hirt.<br>À l’issue de la guerre, ayant perdu sa femme et son fils dans les bombardements alliés de Strasbourg, Hirt se replie en Allemagne et se suicide en Forêt Noire.</p>
         medias:
-          - /files/strasbourg-4-1.jpg
+          - /files/strasbourg-4-1-1.jpg
+          - /files/strasbourg-4-1-2.jpg
       - document: Pierre Filliquet, Amphithéâtre d’anatomie de l’hôpital civil, photographie
         component: doc-right
         legend: Musée historique 88.2012.30.1
@@ -163,14 +159,14 @@ chapters:
     documents:
       - document: "Destin 1 : René Hirschler, résistant et déporté"
         component: doc-subchapter
-      - document: Photo figurant Isaïe Schwarz, ancien grand rabbin du Bas-Rhin, grand rabbin de France, René Hirschler, grand rabbin du Bas-Rhin et Victor Marx, grand rabbin de Strasbourg, 1939.
-        component: doc-top
+      - document: Photo figurant René Hirschler, grand rabbin du Bas-Rhin, entre Isaïe Schwarz, ancien grand rabbin du Bas-Rhin et grand rabbin de France, et Victor Marx, grand rabbin de Strasbourg, 1939
+        component: doc-left
         legend: Musée alsacien, D.66.002.0.229, dépôt de la Société d’Histoire des Israélites d’Alsace et de Lorraine
         text: <p>René Hirschler est né à Marseille en 1905. Il est nommé en 1929 rabbin de Mulhouse puis grand rabbin de Strasbourg et du Bas-Rhin en 1939. Lors d’une cérémonie à la grande synagogue de Strasbourg en juin 1939, il est officiellement investi par son prédécesseur Isaïe Schwarz lui-même élevé à la fonction de grand rabbin de France. C’est sans doute à cette occasion que cette photographie a été prise.</p>
         medias:
           - /files/strasbourg-5-1-1.jpg
       - document: Lettre pastorale du Grand Rabbin Hirschler à ses fidèles dispersés de Strasbourg et du Bas-Rhin, 1940 Papier imprimé
-        component: doc-right
+        component: doc-top doc-multiple
         legend: Musée alsacien 66.996.10
         text: <p>Durant la guerre René Hirschler a à cœur de conserver le lien avec sa communauté dispersée par l’exil et le conflit et porte secours aux membres les plus démunis. Il fait également œuvre de résistance en contribuant à l’évasion d’officiers anglais. Arrêté à Marseille le 22 décembre 1943, il est déporté à Auschwitz en janvier 1944 et meurt à la suite de l’évacuation du camp au printemps 1945 à Ebensee en Autriche. En 1947, il est décoré à titre posthume de la Médaille de la Résistance.<br>Par cette lettre écrite depuis Périgueux le 25 septembre 1940 quelques semaines après l’expulsion des juifs d’Alsace, à la veille de Roch-Hachana, le Nouvel An juif, le Grand Rabbin tente de réconforter sa communauté tout en l’incitant à la repentance et à la générosité comme le veut la tradition juive en cette période de l’année.</p>
         medias:
@@ -187,25 +183,23 @@ chapters:
           - /files/strasbourg-5-2-2.jpg
           - /files/strasbourg-5-2-3.jpg
       - document: "Destin 3 : Simone Polak, une adolescente réfugiée puis déportée"
-        component: doc-right
+        component: doc-bottom doc-multiple
         legend: 
-        text: "<p>Simone Polak a dix ans au début de la guerre. Elle vit alors à Saverne avec sa mère et son petit frère. Expulsée d’Alsace le 15 juillet 1940, elle trouve refuge dans le Jura à Gevingey. Une réunion de résistants est prévue le 26 avril 1944 à deux kilomètres du village et annulée au dernier moment. Le lendemain, en mesure de représailles, les officiers allemands obtiennent du maire sous la contrainte la liste des résidents juifs du village. Simone, son frère et sa mère sont arrêtés avec 20 autres personnes de confession juive.  Internés à Drancy, ils sont déportés le 20 mai à Auschwitz. Rescapée des camps, Simone vit aujourd’hui à Strasbourg et a mené un important travail de témoignage et de transmission auprès des jeunes générations. Elle a publié un ouvrage retraçant son parcours « <em>Agis comme si j’étais toujours à tes côtés</em> » (éditions Le Manuscrit, 2018). Il s’agit des dernières recommandations faites à Simone Polak par sa mère dans le train avant d’arriver à Auschwitz et qui peuvent être interprétées comme annonciatrices des tristes événements qui se sont produits par la suite. Les extraits qui suivent sont issus d’un entretien réalisé à son domicile en avril 2021 pour l’exposition.</p>
-        <ul>
-          <li>Extrait 1 (7’30 – 10’30) : Simone Polak raconte l’expulsion des juifs de Saverne.</li>
-          <li>Extrait 2 (21 – 23’30) : L’inquiétude croissante des populations réfugiées en zone libre à partir de 1942.</li>
-          <li>Extrait 3 (39-43’30) : Madame Polak évoque les conditions du trajet en train depuis la gare de Bobigny jusqu’à Auschwitz.</li>
-          <li>Extrait 4 (46’23-48’24) : Simone Polak décrit son arrivée à Auschwitz et la séparation d’avec sa famille.</li>
-          <li>Extrait 5 (49’30-53) : Elle évoque ses premières heures dans le camp.</li>
-          <li>Extrait 6 (62-64’36) : Simone Polak évoque comment elle a découvert ce qu’il est advenu des siens et quels sont les éléments qui lui ont permis de survivre dans l’univers concentrationnaire. Parmi ceux-ci : la compréhension de l’allemand fut décisive pour exécuter immédiatement les ordres mais aussi et surtout le soutien de Sarah, sa compagne d’infortune durant toute la détention.</li>
-        </ul>"
+        text: "<p>Simone Polak a dix ans au début de la guerre. Elle vit alors à Saverne avec sa mère et son petit frère. Expulsée d’Alsace le 15 juillet 1940, elle trouve refuge dans le Jura à Gevingey. Une réunion de résistants est prévue le 26 avril 1944 à deux kilomètres du village et annulée au dernier moment. Le lendemain, en mesure de représailles, les officiers allemands obtiennent du maire sous la contrainte la liste des résidents juifs du village. Simone, son frère et sa mère sont arrêtés avec 20 autres personnes de confession juive.  Internés à Drancy, ils sont déportés le 20 mai à Auschwitz. Rescapée des camps, Simone vit aujourd’hui à Strasbourg et a mené un important travail de témoignage et de transmission auprès des jeunes générations. Elle a publié un ouvrage retraçant son parcours « <em>Agis comme si j’étais toujours à tes côtés</em> » (éditions Le Manuscrit, 2018). Il s’agit des dernières recommandations faites à Simone Polak par sa mère dans le train avant d’arriver à Auschwitz et qui peuvent être interprétées comme annonciatrices des tristes événements qui se sont produits par la suite. Les extraits qui suivent sont issus d’un entretien réalisé à son domicile en avril 2021 pour l’exposition.</p>"
         medias:
           - /files/strasbourg-5-3-1.jpg
-          - /files/strasbourg-5-3-2.mp3
-          - /files/strasbourg-5-3-3.mp3
-          - /files/strasbourg-5-3-4.mp3
-          - /files/strasbourg-5-3-5.mp3
-          - /files/strasbourg-5-3-6.mp3
-          - /files/strasbourg-5-3-7.mp3
+          - file: /files/strasbourg-5-3-2.mp3
+            legend: "Extrait 1 : Simone Polak raconte l’expulsion des juifs de Saverne."
+          - file: /files/strasbourg-5-3-3.mp3
+            legend: "Extrait 2 : L’inquiétude croissante des populations réfugiées en zone libre à partir de 1942."
+          - file: /files/strasbourg-5-3-4.mp3
+            legend: "Extrait 3 : Madame Polak évoque les conditions du trajet en train depuis la gare de Bobigny jusqu’à Auschwitz."
+          - file: /files/strasbourg-5-3-5.mp3
+            legend: "Extrait 4 : Simone Polak décrit son arrivée à Auschwitz et la séparation d’avec sa famille."
+          - file: /files/strasbourg-5-3-6.mp3
+            legend: "Extrait 5 : Elle évoque ses premières heures dans le camp."
+          - file: /files/strasbourg-5-3-7.mp3
+            legend: "Extrait 6 : Simone Polak évoque comment elle a découvert ce qu’il est advenu des siens et quels sont les éléments qui lui ont permis de survivre dans l’univers concentrationnaire. Parmi ceux-ci : la compréhension de l’allemand fut décisive pour exécuter immédiatement les ordres mais aussi et surtout le soutien de Sarah, sa compagne d’infortune durant toute la détention."
       - document: "Destin 4 : Alfred Thimmesch (1921-1944), un juste parmi les Nations"
         component: doc-left
         text: <p>Commissaire de Police strasbourgeois, Alfred Thimmesch  est nommé à Voiron pendant la guerre. Il fait des faux papiers pour une famille juive qui tentera de le retrouver après la guerre pour lui témoigner sa reconnaissance. Dénoncé par un collègue, il périra au camps de Mauthausen et deviendra Juste à titre posthume.</p>
@@ -240,7 +234,7 @@ chapters:
           - /files/strasbourg-6-3.jpg
       - document: Garder le souvenir des proches disparus. Paulette Levy (1887-1959)
         component: doc-left
-        text: "<p>Paulette Levy, née Paula Wertheimer est née en Allemagne, dans le Pays de Bade en 1887. En épousant un Alsacien, Simon Levy en 1912, elle devient française en 1918. Le couple a quatre enfants. Durant la guerre trois d’entre eux entrent dans la résistance : Gertrude, Raymond et Robert. Gertrude et Raymond meurent tous deux en 1944, la première brûlée par les Allemands, le second tué par balle lors des combats devant Belfort. Après la guerre Paulette et son mari retournent en Alsace. Raymond Levy, petit-fils de Paulette évoque les souvenirs d’enfant qu’il a de sa grand-mère, retournant annuellement en Allemagne, terre de ses ancêtres, pour se recueillir sur la tombe de ses proches.</p>"
+        text: "<p>Paulette Levy, née Paula Wertheimer est née en Allemagne, dans le Pays de Bade en 1887. En épousant un Alsacien, Simon Levy en 1912, elle devient française en 1918. Le couple a quatre enfants. Durant la guerre trois d’entre eux entrent dans la résistance : Gertrude, Raymond et Robert. Gertrude et Raymond meurent tous deux en 1944, la première brûlée par les Allemands, le second lors des combats devant Belfort. Après la guerre Paulette et son mari retournent en Alsace. Raymond Levy, petit-fils de Paulette évoque les souvenirs d’enfant qu’il a de sa grand-mère, retournant annuellement en Allemagne, terre de ses ancêtres, pour se recueillir sur la tombe de ses proches.</p>"
         medias:
           - /files/strasbourg-6-4-1.jpg
           - /files/strasbourg-6-4-2.mp3
@@ -255,8 +249,8 @@ chapters:
         medias:
           - /files/strasbourg-6-6-1.jpg
           - /files/strasbourg-6-6-2.mp3
-      - document: Bastien Cogitore et Pascal Koenig, photographies extraites de la série Les Gardiens des Lieux, photographies et textes, 2011-2012, texte lu par Loïc Risser
-        component: doc-right
+      - document: Bastien Cogitore et Pascal Koenig, photographies extraites de la série <em>Les Gardiens des Lieux</em>, photographies et textes, 2011-2012, texte lu par Loïc Risser
+        component: doc-bottom doc-multiple
         legend: Musée alsacien
         text: <p>La guerre et la Shoah anéantissent presque entièrement le judaïsme rural alsacien, alors déjà en déclin. De ce monde, il ne demeure plus guère aujourd’hui que la toponymie, les cimetières en périphérie des communes et les synagogues. La plupart sont aujourd’hui désaffectées ou remployées. En allant à la rencontre de ceux et celles qui les occupent aujourd’hui ou veillent d’une manière ou d’une autre à leur préservation, l’auteur Baptiste Cogitore et le photographe Pascal Koenig interrogent le souvenir de cette histoire dans la conscience collective alsacienne</p>
         medias:
@@ -279,7 +273,7 @@ chapters:
           - /files/strasbourg-6-7-6-2.jpg
           - /files/strasbourg-6-7-6-3.mp3
       - document: Entretenir la mémoire comme acte civique. Témoignage Laurence Jost-Lienhard
-        component: doc-bottom
+        component: doc-left
         legend: 
         text: <p>Laurence Jost-Lienhard est professeur au lycée Adrien Zeller de Bouxwiller. En 2015, en entamant un projet pédagogique avec ses élèves sur les populations civiles dans la Seconde Guerre mondiale, elle exhume des archives du lycée des documents relatifs à Maurice Bloch, professeur dans le même établissement entre 1919 et 1940. C’est le début d’un travail d’enquête qu’elle mène durant plusieurs années avec ses élèves pour retracer le destin de cet homme englouti par la Shoah et dont le résultat prendra la forme d’une pièce, d’un documentaire et d'un ouvrage intitulés <em>Kaddish pour un prof</em>. Dans l’extrait suivant, elle explique l’enjeu de sa démarche et le lien qu’elle établit auprès de ses élèves entre la Shoah et le terrorisme contemporain.</p>
         medias:

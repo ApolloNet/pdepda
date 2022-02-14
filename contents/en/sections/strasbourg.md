@@ -74,31 +74,26 @@ chapters:
     text: <p>All anti-Jewish Nazi legislation was applied in Alsace and Moselle, both of which were annexed to the German Reich. This manifested itself in the desire to make these regions Judenrein (without Jews) like the rest of the Reich.</p><p>The circular of 13 July 1940 organised this "purification". This was implemented very quickly and brutally for the deportees who sometimes only had a few hours to leave their homes. Each individual was entitled to 30 kg of luggage (valuables and artworks were excluded) and 150 Reichsmarks. Their homes were then put under seal and their goods sold at auction for the benefit of the Reich. The Nazi regime continued its policy of annihilating all traces of Jewish presence and heritage in the region. The Strasbourg synagogue fire is one example, and several documents illustrate this policy, including pre-employment forms which featured several sections intended to verify the absence of Jewish ancestry.</p>
     documents:
       - document: Gilbert Weil, drawings showing the expulsion of his family from Bouxwiller, 1942. Paper, pencil
-        component: doc-right
+        component: doc-bottom doc-multiple
         legend: Bouxwiller, Judeo-Alsatian Museum
-        text: "<p>Born in Strasbourg on 12 July 1929, Gilbert Weil lived with his family in Bouxwiller, a small town in northern Alsace. On 14 July 1940, he and his family were expelled from Alsace and took refuge in the Jura. He was able to attend the municipal school and subsequently the high school in Lons-le-Saunier. However, from 1942 onwards the hunt for Jews intensified and the principal suggested that his parents allow Gilbert to board at the school in order to avoid travelling back and forth. During the holidays, the young teenager was hidden in the establishment and prohibited from communicating with anyone. In order to counter his boredom and anxiety the boy drew images in his notebooks of his expulsion from Alsace in the summer of 1940. Captions were added by Gilbert Weil after the war.</p>
-        <ol>
-          <li>Bouxwiller, June 1940: almost all the French soldiers have left. The last ones set up a cannon in front of the <em>Schule</em> and surround it with sandbags.</li>
-          <li>Gendarmes burning their papers In the courtyard of the Gendarmerie.</li>
-          <li>Young people parting quickly, each carrying a suitcase and a bag, before the arrival of the Germans.</li>
-          <li>Mr Carbiner tearing French posters off the Town Hall panels.</li>
-          <li>No one In the streets… The first German soldiers arrive. One of them goes up to remove the French flag from the Town Hall. Another shouts “Sieg Heil!”.</li>
-          <li>All of them are photographed with the flag in front of the Town Hall, between their truck and their cannon.</li>
-          <li>Dad says: “They won’t do anything to us. I have no enemies! If they want to close the store, we'll live on vegetables from the garden.” One morning, they come and take away everything in the store. An officer with a very nasty dog shouts orders at them.</li>
-          <li>One evening, a German soldier rings the bell and asks for some ground coffee. He says: “You are Jews! Leave while there’s still time! Our “hearts bleed” to see what they did to our Jews! Go quickly!”.</li>
-          <li>On 14 July they come to pick us up. “You have an hour to come to the Town Hall, with a suitcase and a blanket. Everything you have now belongs to the German Reich”. They put us in trucks. Madame Hauser, who lives in our house, looks on and cries.</li>
-          <li>In the truck, we are given a paper marked: <em>“Elsass Muss Judenrein Sein”</em> [Alsace must be purified of Jews]. It is pitch black when we arrive at a camp with huts and surrounded by barbed wire. Someone says “This is Schirmeck”. </li>
-          <li>In the hut, lit by a single bulb on the ceiling, we sleep in bunk beds on dirty straw mattresses.</li>
-          <li>Early in the morning, they shout “Raus” and carry out the roll call. All day long, we drive in a truck. In the evening, we find ourselves in Dôle, in a hut. Ladies come with a wheeled cauldron to distribute soup.</li>
-          <li>The next day we cross a bridge at Parthenay. We are in the Jura, in the “Unoccupied Zone”. They throw everyone out on the road. The gendarmes put us on a train. At each stop they let twenty people get off. We go down to Vercia. We sleep on straw in a room. We have nothing. And we have almost nothing to eat…</li>
-        </ol>"
+        text: "<p>Born in Strasbourg on 12 July 1929, Gilbert Weil lived with his family in Bouxwiller, a small town in northern Alsace. On 14 July 1940, he and his family were expelled from Alsace and took refuge in the Jura. He was able to attend the municipal school and subsequently the high school in Lons-le-Saunier. However, from 1942 onwards the hunt for Jews intensified and the principal suggested that his parents allow Gilbert to board at the school in order to avoid travelling back and forth. During the holidays, the young teenager was hidden in the establishment and prohibited from communicating with anyone. In order to counter his boredom and anxiety the boy drew images in his notebooks of his expulsion from Alsace in the summer of 1940. Captions were added by Gilbert Weil after the war.</p>"
         medias:
           - /files/strasbourg-3-1-1.jpg
-          - /files/strasbourg-3-1-2.jpg
-          - /files/strasbourg-3-1-3.jpg
-          - /files/strasbourg-3-1-4.jpg
-          - /files/strasbourg-3-1-5.jpg
-          - /files/strasbourg-3-1-6.jpg
+          - file: /files/strasbourg-3-1-2.jpg
+            legend: "Bouxwiller, June 1940: almost all the French soldiers have left. The last ones set up a cannon in front of the <em>Schule</em> and surround it with sandbags.<br>Gendarmes burning their papers In the courtyard of the Gendarmerie."
+          - file: /files/strasbourg-3-1-3.jpg
+            legend: "Young people parting quickly, each carrying a suitcase and a bag, before the arrival of the Germans.<br>Mr Carbiner tearing French posters off the Town Hall panels."
+          - file: /files/strasbourg-3-1-4.jpg
+            legend: "No one In the streets… The first German soldiers arrive. One of them goes up to remove the French flag from the Town Hall. Another shouts “Sieg Heil!”.<br>All of them are photographed with the flag in front of the Town Hall, between their truck and their cannon."
+          - file: /files/strasbourg-3-1-5.jpg
+            legend: "Dad says: “They won’t do anything to us. I have no enemies! If they want to close the store, we'll live on vegetables from the garden.” One morning, they come and take away everything in the store. An officer with a very nasty dog shouts orders at them.<br>One evening, a German soldier rings the bell and asks for some ground coffee. He says: “You are Jews! Leave while there’s still time! Our “hearts bleed” to see what they did to our Jews! Go quickly!”."
+          - file: /files/strasbourg-3-1-6.jpg
+            legend: "On 14 July they come to pick us up. “You have an hour to come to the Town Hall, with a suitcase and a blanket. Everything you have now belongs to the German Reich”. They put us in trucks. Madame Hauser, who lives in our house, looks on and cries.<br>In the truck, we are given a paper marked: <em>“Elsass Muss Judenrein Sein”</em> [Alsace must be purified of Jews]. It is pitch black when we arrive at a camp with huts and surrounded by barbed wire. Someone says “This is Schirmeck”."
+          - file: /files/strasbourg-3-1-7.jpg
+            legend: "In the hut, lit by a single bulb on the ceiling, we sleep in bunk beds on dirty straw mattresses.<br>Early in the morning, they shout “Raus” and carry out the roll call. All day long, we drive in a truck. In the evening, we find ourselves in Dôle, in a hut. Ladies come with a wheeled cauldron to distribute soup."
+          - file: /files/strasbourg-3-1-8.jpg
+            legend: "The next day we cross a bridge at Parthenay. We are in the Jura, in the “Unoccupied Zone”. They throw everyone out on the road. The gendarmes put us on a train. At each stop they let twenty people get off. We go down to Vercia. We sleep on straw in a room. We have nothing. And we have almost nothing to eat…"
+          - /files/strasbourg-3-1-9.jpg
       - document: Land confiscation notice. Ink, printed paper 
         component: doc-left
         legend: Historical Museum 88.2014.3.4
@@ -141,11 +136,12 @@ chapters:
     text: <p>During the war many scientists and doctors used "human material" to advance their research. One of the arguments intended to justify these experiments was that they would save the lives of German soldiers. The Reich University of Strasbourg and its institute of anatomy, as well as the Natzwiller (Struthof) concentration camp, were the locations of such experiments in Alsace, which concerned common prisoners, Gypsies and Jews alike.</p>
     documents:
       - document: Anonymous, August Hirt
-        component: doc-top
+        component: doc-top doc-multiple
         legend: Photograph taken from François Bayle, <em>Croix gammée contre caducée, les expériences humaines en Allemagne pendant la deuxième guerre mondiale</em>, Neustadt, Imprimerie nationale, 1950
         text: <p>In 1941, the chair of anatomy at the Nazi University of Strasbourg was given to August Hirt (Mannheim, 1898 - Schluchsee, 1945). In this context, Hirt carried out several operations on human guinea pigs. From 1941 onwards he also supervised the work of the anthropologist Beger, who used "human material". For this study, 86 Jews were transported from Auschwitz to Natzwiller where they were exterminated in a gas chamber at the end of July 1943. Their corpses were then transported to the Strasbourg Institute of Anatomy where they were stored in a special liquid. Some of these corpses appear to have also been used in testicular studies by Hirt's assistant Anton Kiesselbach (Kempenich, 1907 - Dusseldorf, 1984). These corpses were partially disposed of on the arrival of Allied troops, in November 1944, and then buried in the Jewish cemetery of Strasbourg-Cronenbourg. An assistant had copied the list of the numbers on the bodies, which allowed the identification in particular of Menachem Taffel (1900-1943), a Berlin merchant and husband of Klara Schenkel. His 14-year-old daughter, Esther, was an aide at the Jewish community hospital. On 12 March 1943 the Taffel family, along with 7,749 other Jews, was deported from Berlin to Auschwitz where Klara and Esther were immediately sent to the gas chamber. Menachem was selected three months later for the “collection of skeletons”. His name was later given to a quay alongside the civil hospital that previously housed the Anatomy Institute of the Reichsuniversität run by Hirt.<br/>After the war, having lost his wife and son in the Allied bombardments of Strasbourg, Hirt returned to Germany and committed suicide in the Black Forest.</p>
         medias:
-          - /files/strasbourg-4-1.jpg
+          - /files/strasbourg-4-1-1.jpg
+          - /files/strasbourg-4-1-2.jpg
       - document: Pierre Filliquet, Civil Hospital Anatomy Amphitheater, Photograph
         component: doc-right
         legend: Historical Museum 88.2012.30.1
@@ -164,13 +160,13 @@ chapters:
       - document: "Destiny 1 : René Hirschler, deported resistance member"
         component: doc-subchapter
       - document: Photo showing Isaïe Schwarz, former Chief Rabbi of the Lower Rhine département, Chief Rabbi of France, René Hirschler, Chief Rabbi of the Lower Rhine area and Victor Marx, Chief Rabbi of Strasbourg, 1939.
-        component: doc-top
+        component: doc-left
         legend: Alsatian Museum, D.66.002.0.229, deposited by the Société d’Histoire des Israélites d’Alsace et de Lorraine
         text: <p>René Hirschler was born in Marseille in 1905. He was appointed rabbi of Mulhouse in 1929 then Chief Rabbi of Strasbourg and the Lower Rhine area in 1939. During a ceremony at the Great Synagogue of Strasbourg in June 1939, he was officially invested by his predecessor Isaiah Schwarz who had been elevated to the post of Chief Rabbi of France. It was probably on that occasion that this photograph was taken.</p>
         medias:
           - /files/strasbourg-5-1-1.jpg
       - document: Pastoral letter from Chief Rabbi Hirschler to members of the faith dispersed in Strasbourg and the Lower Rhine area, 1940. Printed paper
-        component: doc-right
+        component: doc-top doc-multiple
         legend: Alsatian Museum 66.996.10
         text: <p>During the war, René Hirschler was keen to maintain links with his community, which had been dispersed by exile and conflict, and came to the aid of the most deprived members. He also resisted the Nazi regime by aiding the escape of British officers. Arrested in Marseille on 22 December 1943, he was deported to Auschwitz in January 1944 and died in Ebensee in Austria, following the evacuation of the camp in the spring of 1945. In 1947, he was posthumously decorated with the Medal of the Resistance.</p><p>Through this letter written from Périgueux on 25 September 1940, on the eve of Rosh-Hashanah (the Jewish New Year) and a few weeks after the expulsion of the Jews from Alsace, the Chief Rabbi tried to comfort his community while encouraging them to repent and be generous, as Jewish tradition dictates at that time of year.</p>
         medias:
@@ -181,31 +177,29 @@ chapters:
       - document: "Destiny 2 : Fanny Tenenbaum, a child refugee in the South-West"
         component: doc-top doc-multiple
         legend: Alsatian Museum, to be included in the collection
-        text: <p>Milk jug, Iron</p><p>These objects belong to Fanny Glicksmann, née Tenenbaum, and her brother Jacques (now deceased) and bear witness to their life in Périgord between 1939 and 1944. Born respectively in 1931 and 1933 in Strasbourg, shortly after the arrival of their parents from Poland, Jacques and Fanny were evacuated to Saint-Pierre-de-Chignac with their mother in 1939. Fanny was only six years old at the time. While she does not remember this event more precisely, the milk jug and coloured sticks, which she used to learn to count, remind her of her daily life in that small village in Périgord. The same goes for the school exercise books belonging to her brother, then a student at the high school in Périgueux. His name appears on the covers, a sign that the family, like many Jewish families, was not living in hiding even as the roundups began to come into force. During the roundup of 16 March 1944, Ethel, the mother of Fanny and Jacques, was arrested. She pushed her children away when they ran to her. Jacques fled in despair. Fanny was taken in by neighbours, then entrusted to another family. Ethel was released after two weeks, following a decision by a senior official to release the women. The whole family survived the war. Fanny, however, did not forget this event and obtained the honorary title of Righteous Among the Nations for the couple who saved her in 1944.</p>
+        text: <p>These objects belong to Fanny Glicksmann, née Tenenbaum, and her brother Jacques (now deceased) and bear witness to their life in Périgord between 1939 and 1944. Born respectively in 1931 and 1933 in Strasbourg, shortly after the arrival of their parents from Poland, Jacques and Fanny were evacuated to Saint-Pierre-de-Chignac with their mother in 1939. Fanny was only six years old at the time. While she does not remember this event more precisely, the milk jug and coloured sticks, which she used to learn to count, remind her of her daily life in that small village in Périgord. The same goes for the school exercise books belonging to her brother, then a student at the high school in Périgueux. His name appears on the covers, a sign that the family, like many Jewish families, was not living in hiding even as the roundups began to come into force. During the roundup of 16 March 1944, Ethel, the mother of Fanny and Jacques, was arrested. She pushed her children away when they ran to her. Jacques fled in despair. Fanny was taken in by neighbours, then entrusted to another family. Ethel was released after two weeks, following a decision by a senior official to release the women. The whole family survived the war. Fanny, however, did not forget this event and obtained the honorary title of Righteous Among the Nations for the couple who saved her in 1944.</p>
         medias:
           - /files/strasbourg-5-2-1.jpg
           - /files/strasbourg-5-2-2.jpg
           - /files/strasbourg-5-2-3.jpg
       - document: "Destiny 3 : Simone Polak, a teenage refugee who was then deported"
-        component: doc-right
+        component: doc-bottom doc-multiple
         legend: 
-        text: "<p>Simone Polak was ten years old at the start of the war and lived in Saverne with her mother and younger brother. Expelled from Alsace on 15 July 1940, she took refuge in the Jura at Gevingey. A meeting of resistance fighters was scheduled for 26 April 1944, two kilometers from the village but was canceled at the last moment. The next day, in reprisal, German officers obtained the list of Jewish residents of the village from the mayor (under duress). Simone, her brother and her mother were arrested along with 20 other people of the Jewish faith. Interned at Drancy, they were deported to Auschwitz on 20 May. A survivor of the camps, Simone now lives in Strasbourg and has carried out important acts of testimony and transmission to the younger generation. She has published a book retracing her journey, Act as if I were always by your side (Le Manuscrit editions, 2018). This is the last recommendation made to Simone Polak by her mother on the train before arriving at Auschwitz and which can be interpreted as heralding the sad events that followed. The following excerpts are taken from an interview conducted at her home in April 2021 for the exhibition.</p>
-        <ul>
-          <li>Extract 1: Simone Polak recounts the expulsion of the Jews from Saverne.</li>
-          <li>Extract 2: The growing concern of refugees in the Unoccupied Zone from 1942 onwards.</li>
-          <li>Extract 3: Madame Polak describes the conditions of the train journey from Bobigny station to Auschwitz.</li>
-          <li>Extract 4: Simone Polak describes her arrival in Auschwitz and her separation from her family.</li>
-          <li>Extract 5: Simone Polak recalls her first hours in the camp.</li>
-          <li>Extract 6: Simone Polak talks about how she discovered what happened to her family and the elements that helped her to survive the concentration camp. These included understanding German, which was decisive in immediately carrying out orders but also, and above all, supporting Sarah, her companion in misfortune throughout her imprisonment.</li>
-        </ul>"
+        text: "<p>Simone Polak was ten years old at the start of the war and lived in Saverne with her mother and younger brother. Expelled from Alsace on 15 July 1940, she took refuge in the Jura at Gevingey. A meeting of resistance fighters was scheduled for 26 April 1944, two kilometers from the village but was canceled at the last moment. The next day, in reprisal, German officers obtained the list of Jewish residents of the village from the mayor (under duress). Simone, her brother and her mother were arrested along with 20 other people of the Jewish faith. Interned at Drancy, they were deported to Auschwitz on 20 May. A survivor of the camps, Simone now lives in Strasbourg and has carried out important acts of testimony and transmission to the younger generation. She has published a book retracing her journey, Act as if I were always by your side (Le Manuscrit editions, 2018). This is the last recommendation made to Simone Polak by her mother on the train before arriving at Auschwitz and which can be interpreted as heralding the sad events that followed. The following excerpts are taken from an interview conducted at her home in April 2021 for the exhibition.</p>"
         medias:
           - /files/strasbourg-5-3-1.jpg
-          - /files/strasbourg-5-3-2.mp3
-          - /files/strasbourg-5-3-3.mp3
-          - /files/strasbourg-5-3-4.mp3
-          - /files/strasbourg-5-3-5.mp3
-          - /files/strasbourg-5-3-6.mp3
-          - /files/strasbourg-5-3-7.mp3
+          - file: /files/strasbourg-5-3-2.mp3
+            legend: "Extract 1: Simone Polak recounts the expulsion of the Jews from Saverne."
+          - file: /files/strasbourg-5-3-3.mp3
+            legend: "Extract 2: The growing concern of refugees in the Unoccupied Zone from 1942 onwards."
+          - file: /files/strasbourg-5-3-4.mp3
+            legend: "Extract 3: Madame Polak describes the conditions of the train journey from Bobigny station to Auschwitz."
+          - file: /files/strasbourg-5-3-5.mp3
+            legend: "Extract 4: Simone Polak describes her arrival in Auschwitz and her separation from her family."
+          - file: /files/strasbourg-5-3-6.mp3
+            legend: "Extract 5: Simone Polak recalls her first hours in the camp."
+          - file: /files/strasbourg-5-3-7.mp3
+            legend: "Extract 6: Simone Polak talks about how she discovered what happened to her family and the elements that helped her to survive the concentration camp. These included understanding German, which was decisive in immediately carrying out orders but also, and above all, supporting Sarah, her companion in misfortune throughout her imprisonment."
       - document: "Destiny 4: Alfred Thimmesch (1921-1944), one of the Righteous Among the Nations"
         component: doc-left
         text: <p>Strasbourg Police Commissioner Alfred Thimmesch was nominated in Voiron during the war. He produced false papers for a Jewish family who tried to find him after the war to show him their gratitude. Denounced by a colleague, he perished at Mauthausen and become one of the Righteous posthumously.</p>
@@ -255,8 +249,8 @@ chapters:
         medias:
           - /files/strasbourg-6-6-1.jpg
           - /files/strasbourg-6-6-2.mp3
-      - document: Bastien Cogitore and Pascal Koenig, Guardians of Place (Mommenheim and Westhoffen). Photograph and texts, 2011-2012, text read by Loïc Risser
-        component: doc-right
+      - document: Bastien Cogitore and Pascal Koenig, <em>Guardians of Place</em> (Mommenheim and Westhoffen). Photograph and texts, 2011-2012, text read by Loïc Risser
+        component: doc-bottom doc-multiple
         legend: Alsatian Museum
         text: <p>The war and the Shoah almost completely wiped out rural Alsatian Judaism, which was already in decline. All that remains today of that world is toponymy, cemeteries on the outskirts of municipalities and synagogues. Most of these sites are now abandoned or have changed function. By going to meet those who occupy them today, or ensure in one way or another their preservation, the author Baptiste Cogitore and the photographer Pascal Koenig question the memory of this story in the Alsatian collective consciousness.</p>
         medias:
@@ -279,7 +273,7 @@ chapters:
           - /files/strasbourg-6-7-6-2.jpg
           - /files/strasbourg-6-7-6-3.mp3
       - document: Maintaining memory as a civic act. Testimony of Laurence Jost-Lienhard
-        component: doc-bottom
+        component: doc-left
         legend: 
         text: <p>Laurence Jost-Lienhard is a teacher at the Adrien Zeller high school in Bouxwiller. In 2015, when starting an educational project with her students on civilian populations in the Second World War, she unearthed documents from the school’s archives relating to Maurice Bloch, a teacher in the same establishment between 1919 and 1940. This was the beginning of an investigative work that she carried out for several years with her students, retracing the fate of this man engulfed by the Shoah. This research resulted in a play, a documentary and a piece entitled Kaddish for a prof. In the following excerpt, she explains the issues related to her approach and the link she establishes with her students between the Shoah and contemporary terrorism.</p>
         medias:
