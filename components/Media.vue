@@ -15,6 +15,9 @@
       `"
     />
     <audio v-if="isAudio" controls :src="src" />
+    <a v-if="isPdf" class="media--pdf" :href="src" target="_blank">
+      Voir la traduction
+    </a>
     <p class="media__legend" v-if="legend" v-html="legend"></p>
   </div>
 </template>
@@ -65,6 +68,9 @@ export default {
     },
     isAudio() {
       return ['mp3'].includes(this.ext)
+    },
+    isPdf() {
+      return ['pdf'].includes(this.ext)
     }
   },
 }
@@ -80,6 +86,12 @@ export default {
   @media (min-width: $mq-680) {
     max-width: 20rem;
   }
+}
+
+.media--pdf {
+  display: block;
+  font-size: $fs-small;
+  text-align: center;
 }
 
 .media--audio {

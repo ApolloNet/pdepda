@@ -17,7 +17,7 @@
         <div class="sticky">
           <h3 class="doc-title" v-html="document.document"></h3>
           <div v-if="document.text" class="doc-body" v-html="document.text"></div>
-          <p v-if="document.legend" class="doc-legend">{{ document.legend }}</p>
+          <p v-if="document.legend" class="doc-legend" v-html="document.legend"></p>
         </div>
       </div>
     </div>

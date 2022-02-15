@@ -1,5 +1,5 @@
 (function () {
-  addImageZoom('.media-image')
+  addImageZoom('.media__image')
 })();
 
 function addImageZoom(selector) {
