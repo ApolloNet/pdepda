@@ -18,7 +18,17 @@
     <a v-if="isPdf" class="media--pdf" :href="src" target="_blank">
       Voir la traduction
     </a>
-    <p class="media__legend" v-if="legend" v-html="legend"></p>
+    <iframe
+      v-if="isYoutube"
+      width="560"
+      height="315"
+      :src="src"
+      title="YouTube video player"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen>
+    </iframe>
+    <p v-if="legend" class="media__legend" v-html="legend"></p>
   </div>
 </template>
 
@@ -71,6 +81,9 @@ export default {
     },
     isPdf() {
       return ['pdf'].includes(this.ext)
+    },
+    isYoutube() {
+      return this.src.includes('https://www.youtube.com/')
     }
   },
 }

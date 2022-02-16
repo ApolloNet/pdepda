@@ -17,18 +17,14 @@ chapters:
         text: <p>In the 19th century, the vast majority of Jews in France were concentrated in Alsace and Lorraine. Although the attachment of Alsace and Moselle to Germany between 1871 and 1918 led to the emigration of a large number of Alsatian Jews, it was offset by the arrival of Jews from Germany and Central Europe.</p>
         medias:
           - /files/strasbourg-1-1.png
-      - document: Violence against Jews in Steinhouse and Durmenach (Upper Rhine area) in 1848. Watercolour on paper, after 1848
+      - document: Jewish and Christian communities in Alsace
         component: doc-left
-        legend: Alsatian Museum (MAL.XVII.5)
-        text: <p>The cohabitation of Jewish and non-Jewish communities within Alsatian towns and villages was not always peaceful. As representatives of "the Other", Jews were frequently victims of the violence that arose during economic or political crises, as was the case during the July Revolution of 1848. However, the proximity of populations also promoted understanding and mutual respect which increased with the gradual integration of Jews into society. This is demonstrated in the illustration of the unveiling of a Torah scroll (or Pentateuch) belonging to the Jewish community in Reichshoffen, an event also attended by the non-Jewish community (shown in the foreground).</p>
+        legend: Alsatian Museum (MAL.XVII.5 and MAL.53.3)
         medias:
-          - /files/strasbourg-1-2.jpg
-      - document: Stern, Inauguration of a Pentateuch at the synagogue in Reichshoffen, Ink and gouache on paper, 1857
-        component: doc-right
-        legend: Alsatian Museum (MAL.53.3)
-        text: ""
-        medias:
-          - /files/strasbourg-1-3.jpg
+          - file: /files/strasbourg-1-2.jpg
+            legend: Violence against Jews in Steinhouse and Durmenach (Upper Rhine area) in 1848. Watercolour on paper, after 1848
+          - file: /files/strasbourg-1-3.jpg
+            legend: Stern, Inauguration of a Pentateuch at the synagogue in Reichshoffen, Ink and gouache on paper, 1857
       - document: Patriotic Circumcision Swaddling Cloth, Painted cotton
         component: doc-top doc-multiple
         legend: Alsatian Museum (66.002.0.8)
@@ -124,7 +120,7 @@ chapters:
         legend: Strasbourg Médiathèque, heritage fund
         text: <p>The integration of Alsace into the Third Reich resulted in the Nazification of all means of communication, as demonstrated by this article from the <em>Dernières Nouvelles de Strasbourg</em> published between the burning of the synagogue (September 1940) and its destruction (November 1941). In populist rhetoric employing all the usual anti-Semitic clichés, the journalist rejoices in the destruction of the synagogue and the Jewish communities of Alsace.</p>
         medias:
-          - /files/strasbourg-3-6.jpg
+          - /files/strasbourg-3-6-1.jpg
       - document: "Nazi school textbook: Hirts deutsches Lesebuch 7A, Breslau, 1940"
         component: doc-right
         legend: Historical Museum 88.003.10.1.5
@@ -205,12 +201,14 @@ chapters:
         text: <p>Strasbourg Police Commissioner Alfred Thimmesch was nominated in Voiron during the war. He produced false papers for a Jewish family who tried to find him after the war to show him their gratitude. Denounced by a colleague, he perished at Mauthausen and become one of the Righteous posthumously.</p>
         medias:
           - /files/strasbourg-5-4-1.jpg
+          - https://www.youtube.com/watch?v=vRFKRQr-VaA
       - document: "Destiny 5: Ernest Weill: a Jewish officer in captivity (1915-? )"
         component: doc-right
         legend: 
         text: <p>A lawyer by training and an officer in the French army, Ernest Weill was imprisoned in a POW camp in Lübeck. Rounded up by the Gestapo in western France, his father was killed upon his arrival in Auschwitz, while his sister, who left in the same convoy, was subjected to medical experiments carried out in certain concentration camps. She returned much diminished at the end of the war.</p>
         medias:
           - /files/strasbourg-5-5-1.jpg
+          - https://www.youtube.com/watch?v=C0JGg2YMN3w
   - chapter: Resilience and transmission of memory
     text: "<p>The return to Alsace of the survivors of the Jewish community was painful. In addition to the suffering caused by exile and the disappearance of many of their loved ones, there was the loss of collective landmarks: many synagogues and cemeteries had been destroyed, burned or desecrated. Despoiled of all their property in 1940, the Jews of Alsace had to assert their rights to recover, not without difficulty, their housing and their furniture. Most of them settled in cities, accelerating the decline of traditional rural Judaism.</p><p>Despite these trials and tribulations, the post-war period was also a period of renewal for Alsatian Judaism. Several institutions were rebuilt and new ones emerged such as the Aquiba school (1948). Although, after consultation, it was decided not to rebuild the Great Synagogue in Strasbourg, a new building in a different location was inaugurated in 1958 despite the sometimes very harsh opposition of certain Strasbourg residents.</p><p>Today, the face of Alsatian Judaism has changed significantly. More urban, it also diversified following the arrival of communities from North Africa in the 1950s and 1960s. Questions therefore arise concerning the transmission of the memory of the fate of the Second World War Jewish community and attachment to the heritage of traditional Alsatian Judaism. While the descendants of the pre-war communities may be its natural custodians, are they the only ones? Might Alsatian Judaism not also be a shared heritage which each Alsatian can relate to, despite the vicissitudes of history?</p>"
     documents:

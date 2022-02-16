@@ -104,7 +104,7 @@
   Header set X-Content-Type-Options "nosniff"
 
   # CSP
-  #Header set Content-Security-Policy "default-src 'self' *.googletagmanager.com *.google-analytics.com *.jsdelivr.net; img-src 'self' *.googletagmanager.com *.google-analytics.com; script-src 'self' 'unsafe-inline' *.googletagmanager.com *.google-analytics.com *.jsdelivr.net; style-src 'self' 'unsafe-inline';"
+  #Header set Content-Security-Policy "default-src 'self' *.googletagmanager.com *.google-analytics.com *.jsdelivr.net *.youtube.com; img-src 'self' *.googletagmanager.com *.google-analytics.com *.youtube.com; script-src 'self' 'unsafe-inline' *.googletagmanager.com *.google-analytics.com *.jsdelivr.net *.youtube.com; style-src 'self' 'unsafe-inline' *.youtube.com;"
 
   #HSTS
   Header set Strict-Transport-Security  "max-age=16000000; includeSubDomains; preload"
@@ -120,7 +120,7 @@
 <FilesMatch "\.(pl|php|cgi|spl)$">
   <IfModule mod_headers.c>
     # security
-    Header set X-Frame-Options "DENY"
+    Header set X-Frame-Options "SAMEORIGIN"
     Header set X-XSS-Protection "1; mode=block"
   </IfModule>
 </FilesMatch>

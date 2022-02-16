@@ -2,7 +2,7 @@
   <footer class="main-footer">
     <div class="wrapper">
       <ul class="footer-logos">
-        <li class="footer-logos-item">
+        <li>
           <a
             class="footer-logos-link"
             href="https://framemuseums.org/"
@@ -20,7 +20,7 @@
             />
           </a>
         </li>
-        <li class="footer-logos-item">
+        <li>
           <a
             class="footer-logos-link"
             href="https://musees-rouen-normandie.fr/"
@@ -38,7 +38,7 @@
             />
           </a>
         </li>
-        <li class="footer-logos-item">
+        <li>
           <a
             class="footer-logos-link"
             href="https://musee-histoire-marseille-voie-historique.fr/"
@@ -56,7 +56,7 @@
             />
           </a>
         </li>
-        <li class="footer-logos-item">
+        <li>
           <a
             class="footer-logos-link"
             href="https://www.mbam.qc.ca/"
@@ -74,7 +74,7 @@
             />
           </a>
         </li>
-        <li class="footer-logos-item">
+        <li>
           <a
             class="footer-logos-link"
             href="https://museeholocauste.ca/"
@@ -88,6 +88,78 @@
               :src="`/img/logo-mhmontreal-${lang}.svg`"
               alt="Musée de l'Holocauste de Montréal"
               width="154"
+              height="80"
+            />
+          </a>
+        </li>
+        <li>
+          <a
+            class="footer-logos-link"
+            href="https://www.musees.strasbourg.eu/"
+            title="Musées de la Ville de Strasbourg"
+            target="_blank"
+            rel="noopener"
+          >
+            <img
+              loading="lazy"
+              class="footer-logos-logo"
+              src="/img/logo-musees-strasbourg.jpg"
+              alt="Musées de la Ville de Strasbourg"
+              width="960"
+              height="80"
+            />
+          </a>
+        </li>
+        <li>
+          <a
+            class="footer-logos-link"
+            href="https://www.unistra.fr/"
+            title="Université de Strasbourg"
+            target="_blank"
+            rel="noopener"
+          >
+            <img
+              loading="lazy"
+              class="footer-logos-logo"
+              src="/img/logo-universite-strasbourg.png"
+              alt="Université de Strasbourg"
+              width="190"
+              height="80"
+            />
+          </a>
+        </li>
+        <li>
+          <a
+            class="footer-logos-link"
+            href="http://judaisme.sdv.fr/today/musee/"
+            title="Musée judéo-alsacien de Bouxwiller"
+            target="_blank"
+            rel="noopener"
+          >
+            <img
+              loading="lazy"
+              class="footer-logos-logo"
+              src="/img/logo-mjab.png"
+              alt="Musée judéo-alsacien de Bouxwiller"
+              width="140"
+              height="80"
+            />
+          </a>
+        </li>
+        <li>
+          <a
+            class="footer-logos-link"
+            href="http://judaisme.sdv.fr/today/shial/"
+            title="Société d’histoire des Israélites d’Alsace et de Lorraine"
+            target="_blank"
+            rel="noopener"
+          >
+            <img
+              loading="lazy"
+              class="footer-logos-logo"
+              src="/img/logo-shial.png"
+              alt="Société d’histoire des Israélites d’Alsace et de Lorraine"
+              width="77"
               height="80"
             />
           </a>
@@ -159,6 +231,11 @@ export default {
   background-color: $grey;
   border-top: 1em solid $primary;
 
+  @media (min-width: $mq-680) {
+    padding-left: $margin * 2;
+    padding-right: $margin * 2;
+  }
+
   ul,
   li {
     margin: 0;
@@ -172,17 +249,21 @@ export default {
 }
 
 .footer-logos {
-  display: flex;
+  display: none;
   flex-wrap: wrap;
   list-style: none;
+
+  @media (min-width: $mq-680) {
+    display: flex;
+  }
 }
 
 .footer-logos-logo {
   display: block;
-  max-width: 100%;
   height: auto;
+  max-width: 300px;
   max-height: 80px;
-  margin: 0 $margin * 3 $margin * 2 0;
+  margin: 0 ($margin * 3) ($margin * 2) 0;
 }
 
 .footer-links {
@@ -194,12 +275,5 @@ export default {
 
 .footer-links-item {
   padding: 0 calc($margin/2);
-}
-
-@media (min-width: $mq-680) {
-  .main-footer {
-    padding-left: $margin * 2;
-    padding-right: $margin * 2;
-  }
 }
 </style>
