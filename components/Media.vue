@@ -117,6 +117,7 @@ export default {
   box-shadow: 0.25rem 0.25rem 0.25rem darken($grey, 2%);
 
   @media (min-width: $mq-680) {
+    max-height: 60vh;
     padding: 4rem 2rem;
   }
 }
@@ -131,7 +132,7 @@ export default {
   @media (min-width: $mq-680) {
     width: auto;
     max-width: 100%;
-    max-height: 80vh;
+    max-height: 60vh;
   }
 }
 

@@ -256,39 +256,39 @@ chapters:
       - document: Habsheim
         component: doc-bottom doc-multiple
         medias:
+          - /files/strasbourg-6-7-1-3.mp3
           - /files/strasbourg-6-7-1-1.jpg
           - /files/strasbourg-6-7-1-2.jpg
-          - /files/strasbourg-6-7-1-3.mp3
       - document: Hagenthal
         component: doc-bottom doc-multiple
         medias:
+          - /files/strasbourg-6-7-2-3.mp3
           - /files/strasbourg-6-7-2-1.jpg
           - /files/strasbourg-6-7-2-2.jpg
-          - /files/strasbourg-6-7-2-3.mp3
       - document: Mommenheim
         component: doc-bottom doc-multiple
         medias:
+          - /files/strasbourg-6-7-3-3.mp3
           - /files/strasbourg-6-7-3-1.jpg
           - /files/strasbourg-6-7-3-2.jpg
-          - /files/strasbourg-6-7-3-3.mp3
       - document: Muttersholtz
         component: doc-bottom doc-multiple
         medias:
+          - /files/strasbourg-6-7-4-3.mp3
           - /files/strasbourg-6-7-4-1.jpg
           - /files/strasbourg-6-7-4-2.jpg
-          - /files/strasbourg-6-7-4-3.mp3
       - document: Westhoffen
         component: doc-bottom doc-multiple
         medias:
+          - /files/strasbourg-6-7-5-3.mp3
           - /files/strasbourg-6-7-5-1.jpg
           - /files/strasbourg-6-7-5-2.jpg
-          - /files/strasbourg-6-7-5-3.mp3
       - document: Zellwiller
         component: doc-bottom doc-multiple
         medias:
+          - /files/strasbourg-6-7-6-3.mp3
           - /files/strasbourg-6-7-6-1.jpg
           - /files/strasbourg-6-7-6-2.jpg
-          - /files/strasbourg-6-7-6-3.mp3
       - document: Entretenir la mémoire comme acte civique. Témoignage Laurence Jost-Lienhard
         component: doc-left
         legend: 
