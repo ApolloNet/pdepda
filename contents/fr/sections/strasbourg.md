@@ -203,14 +203,14 @@ chapters:
         text: <p>Commissaire de Police strasbourgeois, Alfred Thimmesch  est nommé à Voiron pendant la guerre. Il fait des faux papiers pour une famille juive qui tentera de le retrouver après la guerre pour lui témoigner sa reconnaissance. Dénoncé par un collègue, il périra au camps de Mauthausen et deviendra Juste à titre posthume.</p>
         medias:
           - /files/strasbourg-5-4-1.jpg
-          - https://www.youtube.com/watch?v=vRFKRQr-VaA
+          - https://www.youtube.com/embed/vRFKRQr-VaA
       - document: "Destin 5 : Ernest Weill (1915-? )&nbsp;:&nbsp;un officier juif en captivité"
         component: doc-right
         legend: 
         text: <p>Avocat de formation, officier dans l’armée française, Ernest Weill est enfermé dans un camp de prisonniers de guerre à Lübeck. Raflé par la Gestapo dans l’Ouest de la France son père sera éliminé dès son arrivée à Auschwitz, tandis que sa sœur, partie par le même convoi, subira les expérimentations médicales réalisées dans certains camps de concentration. Elle en reviendra très amoindrie à l’issue de la guerre.</p>
         medias:
           - /files/strasbourg-5-5-1.jpg
-          - https://www.youtube.com/watch?v=C0JGg2YMN3w
+          - https://www.youtube.com/embed/C0JGg2YMN3w
   - chapter: Résilience et transmission de la mémoire
     text: "<p>Le retour en Alsace des survivants de la communauté juive fut douloureux. Aux souffrances occasionnées par l’exil et la disparition de nombre de leurs proches, s’ajoute la perte des repères collectifs : nombres de synagogues ou de cimetières ont été détruits, brûlés ou profanés. Spoliés de tous leurs biens en 1940, les Juifs d’Alsace doivent faire valoir leurs droits pour récupérer, non sans difficulté, leur logement ou leur mobilier. La plupart d’entre eux s’installe désormais dans les villes, accélérant le déclin du judaïsme rural traditionnel.<br>Malgré ces épreuves et ces difficultés, l’après-guerre est également une période de renouveau du judaïsme alsacien. Plusieurs institutions sont reconstruites, d’autres voient le jour comme l’école Aquiba (1948). Si, après concertation, il est décidé de ne pas reconstruire la Grande Synagogue de Strasbourg, un nouvel édifice dans un emplacement différent est inauguré en 1958 malgré l’opposition parfois très dure de certains strasbourgeois.<br>Aujourd’hui, le visage du judaïsme alsacien a sensiblement changé. Plus urbain, il s’est aussi diversifié à la suite de l’arrivée des communautés venues d’Afrique du Nord dans les années 1950 et 1960. Se pose alors la question de la transmission de la mémoire du destin des communautés juives de la Seconde guerre mondiale et de l’attachement à l’héritage du judaïsme alsacien traditionnel. Si les descendant des communautés d’avant-guerre peuvent en être les dépositaires naturels, en sont-ils les seuls ? Le judaïsme alsacien ne peut-il aussi, être un héritage partagé dans lequel, chaque Alsacien ou Alsacienne peut, malgré les vicissitudes de l’histoire, se retrouver ?</p>"
     documents:
