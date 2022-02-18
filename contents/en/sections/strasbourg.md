@@ -201,14 +201,14 @@ chapters:
         text: <p>Strasbourg Police Commissioner Alfred Thimmesch was nominated in Voiron during the war. He produced false papers for a Jewish family who tried to find him after the war to show him their gratitude. Denounced by a colleague, he perished at Mauthausen and become one of the Righteous posthumously.</p>
         medias:
           - /files/strasbourg-5-4-1.jpg
-          - https://www.youtube.com/watch?v=vRFKRQr-VaA
+          - https://www.youtube.com/embed/vRFKRQr-VaA
       - document: "Destiny 5: Ernest Weill: a Jewish officer in captivity (1915-? )"
         component: doc-right
         legend: 
         text: <p>A lawyer by training and an officer in the French army, Ernest Weill was imprisoned in a POW camp in Lübeck. Rounded up by the Gestapo in western France, his father was killed upon his arrival in Auschwitz, while his sister, who left in the same convoy, was subjected to medical experiments carried out in certain concentration camps. She returned much diminished at the end of the war.</p>
         medias:
           - /files/strasbourg-5-5-1.jpg
-          - https://www.youtube.com/watch?v=C0JGg2YMN3w
+          - https://www.youtube.com/embed/C0JGg2YMN3w
   - chapter: Resilience and transmission of memory
     text: "<p>The return to Alsace of the survivors of the Jewish community was painful. In addition to the suffering caused by exile and the disappearance of many of their loved ones, there was the loss of collective landmarks: many synagogues and cemeteries had been destroyed, burned or desecrated. Despoiled of all their property in 1940, the Jews of Alsace had to assert their rights to recover, not without difficulty, their housing and their furniture. Most of them settled in cities, accelerating the decline of traditional rural Judaism.</p><p>Despite these trials and tribulations, the post-war period was also a period of renewal for Alsatian Judaism. Several institutions were rebuilt and new ones emerged such as the Aquiba school (1948). Although, after consultation, it was decided not to rebuild the Great Synagogue in Strasbourg, a new building in a different location was inaugurated in 1958 despite the sometimes very harsh opposition of certain Strasbourg residents.</p><p>Today, the face of Alsatian Judaism has changed significantly. More urban, it also diversified following the arrival of communities from North Africa in the 1950s and 1960s. Questions therefore arise concerning the transmission of the memory of the fate of the Second World War Jewish community and attachment to the heritage of traditional Alsatian Judaism. While the descendants of the pre-war communities may be its natural custodians, are they the only ones? Might Alsatian Judaism not also be a shared heritage which each Alsatian can relate to, despite the vicissitudes of history?</p>"
     documents:
