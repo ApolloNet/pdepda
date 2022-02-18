@@ -20,6 +20,7 @@
     </a>
     <iframe
       v-if="isYoutube"
+      class="media__video"
       width="560"
       height="315"
       :src="src"
@@ -134,6 +135,10 @@ export default {
     max-width: 100%;
     max-height: 60vh;
   }
+}
+
+.media__video {
+  height: 100%;
 }
 
 .media__legend {

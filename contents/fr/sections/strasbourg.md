@@ -199,13 +199,13 @@ chapters:
           - file: /files/strasbourg-5-3-7.mp3
             legend: "Extrait 6 : Simone Polak évoque comment elle a découvert ce qu’il est advenu des siens et quels sont les éléments qui lui ont permis de survivre dans l’univers concentrationnaire. Parmi ceux-ci : la compréhension de l’allemand fut décisive pour exécuter immédiatement les ordres mais aussi et surtout le soutien de Sarah, sa compagne d’infortune durant toute la détention."
       - document: "Destin 4 : Alfred Thimmesch (1921-1944), un Juste parmi les Nations"
-        component: doc-left
+        component: doc-top doc-multiple
         text: <p>Commissaire de Police strasbourgeois, Alfred Thimmesch  est nommé à Voiron pendant la guerre. Il fait des faux papiers pour une famille juive qui tentera de le retrouver après la guerre pour lui témoigner sa reconnaissance. Dénoncé par un collègue, il périra au camps de Mauthausen et deviendra Juste à titre posthume.</p>
         medias:
           - /files/strasbourg-5-4-1.jpg
           - https://www.youtube.com/embed/vRFKRQr-VaA
       - document: "Destin 5 : Ernest Weill (1915-? )&nbsp;:&nbsp;un officier juif en captivité"
-        component: doc-right
+        component: doc-top doc-multiple
         legend: 
         text: <p>Avocat de formation, officier dans l’armée française, Ernest Weill est enfermé dans un camp de prisonniers de guerre à Lübeck. Raflé par la Gestapo dans l’Ouest de la France son père sera éliminé dès son arrivée à Auschwitz, tandis que sa sœur, partie par le même convoi, subira les expérimentations médicales réalisées dans certains camps de concentration. Elle en reviendra très amoindrie à l’issue de la guerre.</p>
         medias:
