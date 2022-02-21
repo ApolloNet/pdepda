@@ -254,39 +254,39 @@ chapters:
         legend: Musée Alsacien, 66.2021.4.1
         text: <p>La guerre et la Shoah anéantissent presque entièrement le judaïsme rural alsacien, alors déjà en déclin. De ce monde, il ne demeure plus guère aujourd’hui que la toponymie, les cimetières en périphérie des communes et les synagogues. La plupart sont aujourd’hui désaffectées ou réemployées. En allant à la rencontre de ceux et celles qui les occupent aujourd’hui ou veillent d’une manière ou d’une autre à leur préservation, l’auteur Baptiste Cogitore et le photographe Pascal Koenig interrogent le souvenir de cette histoire dans la conscience collective alsacienne</p>
       - document: Habsheim
-        component: doc-bottom doc-multiple
+        component: doc-top doc-multiple
+        text: "<audio controls src=\"/files/strasbourg-6-7-1-3.mp3\" />"
         medias:
-          - /files/strasbourg-6-7-1-3.mp3
           - /files/strasbourg-6-7-1-1.jpg
           - /files/strasbourg-6-7-1-2.jpg
       - document: Hagenthal
-        component: doc-bottom doc-multiple
+        component: doc-top doc-multiple
+        text: "<audio controls src=\"/files/strasbourg-6-7-2-3.mp3\" />"
         medias:
-          - /files/strasbourg-6-7-2-3.mp3
           - /files/strasbourg-6-7-2-1.jpg
           - /files/strasbourg-6-7-2-2.jpg
       - document: Mommenheim
-        component: doc-bottom doc-multiple
+        component: doc-top doc-multiple
+        text: "<audio controls src=\"/files/strasbourg-6-7-3-3.mp3\" />"
         medias:
-          - /files/strasbourg-6-7-3-3.mp3
           - /files/strasbourg-6-7-3-1.jpg
           - /files/strasbourg-6-7-3-2.jpg
       - document: Muttersholtz
-        component: doc-bottom doc-multiple
+        component: doc-top doc-multiple
+        text: "<audio controls src=\"/files/strasbourg-6-7-4-3.mp3\" />"
         medias:
-          - /files/strasbourg-6-7-4-3.mp3
           - /files/strasbourg-6-7-4-1.jpg
           - /files/strasbourg-6-7-4-2.jpg
       - document: Westhoffen
-        component: doc-bottom doc-multiple
+        component: doc-top doc-multiple
+        text: "<audio controls src=\"/files/strasbourg-6-7-5-3.mp3\" />"
         medias:
-          - /files/strasbourg-6-7-5-3.mp3
           - /files/strasbourg-6-7-5-1.jpg
           - /files/strasbourg-6-7-5-2.jpg
       - document: Zellwiller
-        component: doc-bottom doc-multiple
+        component: doc-top doc-multiple
+        text: "<audio controls src=\"/files/strasbourg-6-7-6-3.mp3\" />"
         medias:
-          - /files/strasbourg-6-7-6-3.mp3
           - /files/strasbourg-6-7-6-1.jpg
           - /files/strasbourg-6-7-6-2.jpg
       - document: Entretenir la mémoire comme acte civique. Témoignage de Laurence Jost-Lienhard
