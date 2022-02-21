@@ -11,7 +11,7 @@ chapters:
   - chapter: The Jews and Alsace, an ancient story
     text: <p>At the start of the 20th century, Alsace was blessed with a large Jewish community whose origins dated back to the 12th century. Having become rural as a result of the persecution and expulsions that took place in cities at the end of the Middle Ages, Alsatian Judaism was different from that of Eastern Europe, in that the members of the community were not grouped together in a <em>shtetl</em> but were mixed within the villages.</p><p>The French Revolution granted full citizenship to Jews while the Concordat under the Empire recognized and organized Jewish worship on the same basis as Catholicism and Protestantism. From 1815 onwards, German Jews immigrated to France en masse. Thus, despite the relocation of many of their members to large French cities, the 19th century saw significant growth in Alsatian Jewish communities and the construction of numerous synagogues throughout the area. From the second half of the 19th century, there was a trend towards rural exodus. More and more members of the Alsatian Jewish community moved to towns and cities in the hope of improving their living conditions. Following the attachment of Alsace and Moselle to the German Empire in 1871, this tendency was reinforced by significant immigration from across the Rhine. The members of the Jewish community were generally city-dwellers employed in academic, industrial or financial activities. The profile of the Alsatian Jewish community changed significantly in the early 20th century. Although still extensive and dynamic, it became more urban, while rural Alsatian Judaism already appeared to be on the decline.</p>
     documents: 
-      - document: Map showing the distribution of Jewish communities in Alsace around 1850.
+      - document: Map showing the distribution of Jewish communities in Alsace around 1850
         component: doc-right
         legend: "Cartography: Anne Horrenberger, Alsatian Museum"
         text: <p>In the 19th century, the vast majority of Jews in France were concentrated in Alsace and Lorraine. Although the attachment of Alsace and Moselle to Germany between 1871 and 1918 led to the emigration of a large number of Alsatian Jews, it was offset by the arrival of Jews from Germany and Central Europe.</p>
@@ -19,7 +19,8 @@ chapters:
           - /files/strasbourg-1-1.png
       - document: Jewish and Christian communities in Alsace
         component: doc-left
-        legend: Alsatian Museum (MAL.XVII.5 and MAL.53.3)
+        legend: Alsatian Museum, MAL.XVII.5 and MAL.53.3
+        text: <p>The cohabitation of Jewish and non-Jewish communities within Alsatian towns and villages was not always peaceful. As representatives of "the Other", Jews were frequently victims of the violence that arose during economic or political crises, as was the case during the July Revolution of 1848. However, the proximity of populations also promoted understanding and mutual respect which increased with the gradual integration of Jews into society. This is demonstrated in the illustration of the unveiling of a Torah scroll (or Pentateuch) belonging to the Jewish community in Reichshoffen, an event also attended by the non-Jewish community (shown in the foreground).</p>
         medias:
           - file: /files/strasbourg-1-2.jpg
             legend: Violence against Jews in Steinhouse and Durmenach (Upper Rhine area) in 1848. Watercolour on paper, after 1848
@@ -27,7 +28,7 @@ chapters:
             legend: Stern, Inauguration of a Pentateuch at the synagogue in Reichshoffen, Ink and gouache on paper, 1857
       - document: Patriotic Circumcision Swaddling Cloth, Painted cotton
         component: doc-top doc-multiple
-        legend: Alsatian Museum (66.002.0.8)
+        legend: Alsatian Museum, 66.002.0.8
         text: "<p>It is customary in Rhine-area Jewish communities to preserve and adorn circumcision swaddling cloths or <em>Mappa</em> (plural: <em>Mappot</em>) with the name and parentage of the child plus blessings. When he is about three years old, the child takes them to the synagogue where they are wrapped around Torah scrolls. In the case of the tricolour ornamention of this Mappa, made for Baruch, son of Mordechai, born 10 October 1872 (when Alsace had been under German administration for eighteen months), the parents of the newborn baby demonstrated their attachment to France.</p>"
         medias:
           - /files/strasbourg-1-4-1.jpg
@@ -41,7 +42,7 @@ chapters:
           - /files/strasbourg-1-5-2.jpg
       - document: Meckelin, The Great Synagogue of Strasbourg, Pyrographed board, 1930
         component: doc-right
-        legend: Alsatian Museum (66.999.32.2)
+        legend: Alsatian Museum, 66.999.32.2
         text: <p>The emigration of part of the Alsatian Jewish community after 1871 was offset by the arrival of Jews from Germany and central Europe. As they mostly settled in big cities, it was the urban Jewish community of Alsace that underwent significant growth. In Strasbourg, it grew from 2,820 members in 1861 to 8,000 in 1889. The construction of the Great Synagogue, from 1896 to 1898, by the architect Ludwig Lévy testifies to this vitality. After 1918, some of these people tried to stay in Alsace. Not all succeeded and were deported to Germany by the French. They were subsequently among the first victims of the Nazi regime.</p>
         medias:
           - /files/strasbourg-1-6.jpg
@@ -115,7 +116,7 @@ chapters:
         text: <p>On the night of 11 September 1940, the synagogue was set on fire by a group of Hitler Youth. Firefighters intervened the next afternoon but were ordered to abandon the fire, so the synagogue burned entirely inside, with only the outer walls and the roof structure remaining visible. During 1941 the latter were razed to the ground. These two broken columns were taken away after the fire (but still during the war) by a young student who kept them all his life before donating them to the Historical Museum. They seem to have come from the banister leading to the Holy Arch in the chancel of the synagogue, as well as the barrier separating the chancel from the rest of the synagogue.</p>
         medias:
           - /files/strasbourg-3-5.jpg
-      - document: P. Schell, "Die Strassburger Synagogue. Zeugin einer wenig ruhmvollen Vergangenheit", Strassburger Neuester Nachrichten, 7. März 1941/ "The Strasbourg synagogue, witness to an inglorious past", Dernières Nouvelles de Strasbourg, 7 March 1941. Press Article.
+      - document: P. Schell, "Die Strassburger Synagogue. Zeugin einer wenig ruhmvollen Vergangenheit", Strassburger Neueste Nachrichten, 7. März 1941/ "The Strasbourg synagogue, witness to an inglorious past", Dernières Nouvelles de Strasbourg, 7 March 1941. Press Article.
         component: doc-left
         legend: Strasbourg Médiathèque, heritage fund
         text: <p>The integration of Alsace into the Third Reich resulted in the Nazification of all means of communication, as demonstrated by this article from the <em>Dernières Nouvelles de Strasbourg</em> published between the burning of the synagogue (September 1940) and its destruction (November 1941). In populist rhetoric employing all the usual anti-Semitic clichés, the journalist rejoices in the destruction of the synagogue and the Jewish communities of Alsace.</p>
@@ -163,7 +164,7 @@ chapters:
           - /files/strasbourg-5-1-1.jpg
       - document: Pastoral letter from Chief Rabbi Hirschler to members of the faith dispersed in Strasbourg and the Lower Rhine area, 1940. Printed paper
         component: doc-top doc-multiple
-        legend: Alsatian Museum 66.996.10
+        legend: Alsatian Museum, 66.996.10
         text: <p>During the war, René Hirschler was keen to maintain links with his community, which had been dispersed by exile and conflict, and came to the aid of the most deprived members. He also resisted the Nazi regime by aiding the escape of British officers. Arrested in Marseille on 22 December 1943, he was deported to Auschwitz in January 1944 and died in Ebensee in Austria, following the evacuation of the camp in the spring of 1945. In 1947, he was posthumously decorated with the Medal of the Resistance.</p><p>Through this letter written from Périgueux on 25 September 1940, on the eve of Rosh-Hashanah (the Jewish New Year) and a few weeks after the expulsion of the Jews from Alsace, the Chief Rabbi tried to comfort his community while encouraging them to repent and be generous, as Jewish tradition dictates at that time of year.</p>
         medias:
           - /files/strasbourg-5-1-2-1.jpg
