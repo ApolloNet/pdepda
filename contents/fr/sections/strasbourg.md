@@ -253,8 +253,8 @@ chapters:
         component: doc-subchapter
         legend: Musée Alsacien, 66.2021.4.1
         text: <p>La guerre et la Shoah anéantissent presque entièrement le judaïsme rural alsacien, alors déjà en déclin. De ce monde, il ne demeure plus guère aujourd’hui que la toponymie, les cimetières en périphérie des communes et les synagogues. La plupart sont aujourd’hui désaffectées ou réemployées. En allant à la rencontre de ceux et celles qui les occupent aujourd’hui ou veillent d’une manière ou d’une autre à leur préservation, l’auteur Baptiste Cogitore et le photographe Pascal Koenig interrogent le souvenir de cette histoire dans la conscience collective alsacienne</p>
-      - document: bottom
-        component: doc-top doc-multiple
+      - document: Habsheim
+        component: doc-bottom doc-multiple
         text: "<audio controls src=\"/files/strasbourg-6-7-1-3.mp3\" />"
         medias:
           - /files/strasbourg-6-7-1-1.jpg

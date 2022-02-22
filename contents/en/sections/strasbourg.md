@@ -254,38 +254,38 @@ chapters:
         text: <p>The war and the Shoah almost completely wiped out rural Alsatian Judaism, which was already in decline. All that remains today of that world is toponymy, cemeteries on the outskirts of municipalities and synagogues. Most of these sites are now abandoned or have changed function. By going to meet those who occupy them today, or ensure in one way or another their preservation, the author Baptiste Cogitore and the photographer Pascal Koenig question the memory of this story in the Alsatian collective consciousness.</p>
       - document: Habsheim
         component: doc-bottom doc-multiple
+        text: "<audio controls src=\"/files/strasbourg-6-7-1-3.mp3\" />"
         medias:
-          - /files/strasbourg-6-7-1-3.mp3
           - /files/strasbourg-6-7-1-1.jpg
           - /files/strasbourg-6-7-1-2.jpg
       - document: Hagenthal
         component: doc-bottom doc-multiple
+        text: "<audio controls src=\"/files/strasbourg-6-7-2-3.mp3\" />"
         medias:
-          - /files/strasbourg-6-7-2-3.mp3
           - /files/strasbourg-6-7-2-1.jpg
           - /files/strasbourg-6-7-2-2.jpg
       - document: Mommenheim
         component: doc-bottom doc-multiple
+        text: "<audio controls src=\"/files/strasbourg-6-7-3-3.mp3\" />"
         medias:
-          - /files/strasbourg-6-7-3-3.mp3
           - /files/strasbourg-6-7-3-1.jpg
           - /files/strasbourg-6-7-3-2.jpg
       - document: Muttersholtz
         component: doc-bottom doc-multiple
+        text: "<audio controls src=\"/files/strasbourg-6-7-4-3.mp3\" />"
         medias:
-          - /files/strasbourg-6-7-4-3.mp3
           - /files/strasbourg-6-7-4-1.jpg
           - /files/strasbourg-6-7-4-2.jpg
       - document: Westhoffen
         component: doc-bottom doc-multiple
+        text: "<audio controls src=\"/files/strasbourg-6-7-5-3.mp3\" />"
         medias:
-          - /files/strasbourg-6-7-5-3.mp3
           - /files/strasbourg-6-7-5-1.jpg
           - /files/strasbourg-6-7-5-2.jpg
       - document: Zellwiller
         component: doc-bottom doc-multiple
+        text: "<audio controls src=\"/files/strasbourg-6-7-6-3.mp3\" />"
         medias:
-          - /files/strasbourg-6-7-6-3.mp3
           - /files/strasbourg-6-7-6-1.jpg
           - /files/strasbourg-6-7-6-2.jpg
       - document: Maintaining memory as a civic act. Testimony of Laurence Jost-Lienhard
