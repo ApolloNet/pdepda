@@ -8,7 +8,7 @@ const env = {
       : 'https://destinees-juives.expositionsvirtuelles.fr',
   mainTitle: "Ports d'Exil, Ports d'Attache",
   mainDesc:
-    'Exposition virtuelle : destinées juives à Elbeuf, Marseille et Montréal'
+    'Exposition virtuelle : destinées juives'
 }
 
 export default {
