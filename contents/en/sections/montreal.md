@@ -1,5 +1,6 @@
 ---
 id: montreal
+weight: 3
 place: Montreal
 title: Land of Welcome and New Beginnings
 museum: Montreal Museum of Fine Arts and the Montreal Holocaust Museum

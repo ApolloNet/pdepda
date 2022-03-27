@@ -1,5 +1,6 @@
 ---
 id: marseille
+weight: 2
 place: Marseille
 title: From Refuge to Trap
 museum: Musée d'Histoire de Marseille

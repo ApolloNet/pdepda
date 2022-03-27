@@ -1,5 +1,6 @@
 ---
 id: marseille
+weight: 2
 place: Marseille
 title: Ville refuge, ville piège
 museum: Musée d’Histoire de Marseille

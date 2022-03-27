@@ -15,10 +15,13 @@ export const mutations = {
 export const getters = {
   sections: (state) => {
     const entries = Object.entries(state.contents)
-    const sectionsEntries = entries.filter(
+    const sections = entries.filter(
       ([key, value]) =>
         value.dir.includes('section') && value.dir.includes(state.lang + '/')
-    )
-    return Object.fromEntries(sectionsEntries)
+    ).map(([key, value]) => value)
+    sections.sort((a, b) => {
+      return a.weight > b.weight;
+    })
+    return sections
   }
 }

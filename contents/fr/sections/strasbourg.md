@@ -1,5 +1,6 @@
 ---
 id: strasbourg
+weight: 4
 place: Strasbourg
 title: Fuir pour survivre. Les Juifs d’Alsace dans la tourmente nazie
 museum: Musées de la Ville de Strasbourg et Musée judéo-alsacien de Bouxwiller

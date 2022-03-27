@@ -109,6 +109,10 @@ Conseil scientifique : Raymond Levy (Musée judéo-alsacien de Bouxwiller), Jean
 
 Les Musées de la Ville de Strasbourg remercient chaleureusement toutes les personnes qui, par leur temps ou leurs conseils ont permis de réaliser cette exposition et tout particulièrement : Mme Claude Bloch, Mme Laurence Jost Lienhart, Mme Caroline Lambert-David, M. Jean-Pierre Lambert, M. Raymond Levy, Mme Simone Polak, M. Olivier Samuel, Mme Malou Schneider, ainsi que la Société d’histoire des Israélites d’Alsace et de Lorraine et le Musée judéo-alsacien de Bouxwiller.
 
+## Centre National Jean Moulin
+
+...
+
 ## FRAME
 
 Anne-Solène Rolland et William Beekman, Coprésidents de FRAME

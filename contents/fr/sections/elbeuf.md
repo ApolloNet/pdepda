@@ -1,5 +1,6 @@
 ---
 id: elbeuf
+weight: 1
 place: Elbeuf
 title: Destinées juives en terre normande
 museum: Réunion des Musées Métropolitains Rouen Normandie

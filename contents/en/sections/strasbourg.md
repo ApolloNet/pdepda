@@ -1,5 +1,6 @@
 ---
 id: strasbourg
+weight: 4
 place: Strasbourg
 title: Fleeing to Survive. The Jews of Alsace in the Nazi Maelstrom
 museum: Musées de la Ville de Strasbourg et Musée judéo-alsacien de Bouxwiller

@@ -1,5 +1,6 @@
 ---
 id: montreal
+weight: 3
 place: Montréal
 title: Terre d’accueil, port d’attache
 museum: Musée des beaux-arts de Montréal et Musée de l’Holocauste Montréal

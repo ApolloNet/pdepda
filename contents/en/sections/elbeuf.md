@@ -1,5 +1,6 @@
 ---
 id: elbeuf
+weight: 1
 place: Elbeuf
 title: Jewish fates on norman soil
 museum: Réunion des Musées Métropolitains Rouen Normandie
