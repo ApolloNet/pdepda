@@ -164,6 +164,24 @@
             />
           </a>
         </li>
+        <li>
+          <a
+            class="footer-logos-link"
+            href="https://www.musee-aquitaine-bordeaux.fr/fr/article/centre-national-jean-moulin"
+            title="Centre National Jean Moulin"
+            target="_blank"
+            rel="noopener"
+          >
+            <img
+              loading="lazy"
+              class="footer-logos-logo"
+              src="/img/logo-bordeaux-jean-moulin.jpg"
+              alt="Centre National Jean Moulin"
+              width="36"
+              height="80"
+            />
+          </a>
+        </li>
       </ul>
       <ul class="footer-links">
         <li class="footer-links-item">
