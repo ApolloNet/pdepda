@@ -111,7 +111,19 @@ Les Musées de la Ville de Strasbourg remercient chaleureusement toutes les pers
 
 ## Centre National Jean Moulin
 
-...
+Commissariat : Laurent Védrine, directeur Musée d’Aquitaine / Christian Block, conservateur du Centre National Jean Moulin
+
+Textes : Christian Block, conservateur du Centre National Jean Moulin
+
+Recherche iconographique : Christian Block, conservateur Centre National Jean Moulin /
+Jean Sébastien Baillet, médiateur Centre National Jean Moulin / Sylvie Lacoume médiatrice
+Centre National Jean Moulin
+
+Crédits photographiques : Lysiane Gauthier, Mairie de Bordeaux, sauf mention contraire / Service photographique des Archives Bordeaux Métropole / Service photographique des Archives départementales de la Gironde.
+
+Relecture : Professeur Bernard Lachaise, professeur émérite d&#39;histoire contemporaine à l'université Bordeaux-Montaigne / Nicolas Patin, maître de conférences à l'Université Bordeaux-Montaigne / Laurent Védrine, directeur du Musée d’Aquitaine / Katia Kukawka, conservatrice au Musée d’Aquitaine.
+
+Remerciements : Le Centre National Jean Moulin et le musée d’Aquitaine remercient chaleureusement toutes les personnes qui ont contribué à l’aboutissement de cette exposition à savoir Docteur Erick Aouizerate, président du consistoire de Bordeaux pour son aimable autorisation d’accès à la synagogue ; Agnès Vatican, directrice des archives départementales de la Gironde et Frédéric Laux, directeur des Archives de Bordeaux métropole pour leur prêt de collections.
 
 ## FRAME
 
