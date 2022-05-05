@@ -120,7 +120,8 @@ Recherche iconographique : Christian Block, conservateur Centre National Jean Mo
 Jean Sébastien Baillet, médiateur Centre National Jean Moulin / Sylvie Lacoume médiatrice
 Centre National Jean Moulin
 
-Crédits photographiques : Lysiane Gauthier, Mairie de Bordeaux, sauf mention contraire / Service photographique des Archives Bordeaux Métropole / Service photographique des Archives départementales de la Gironde.
+Crédits photographiques : Lysiane Gauthier, Mairie de Bordeaux, sauf mention contraire / Service photographique des Archives Bordeaux Métropole / Service photographique des Archives départementales de la Gironde.  
+Comité Sousa Mendès/ Fondation Sousa Mendès
 
 Relecture : Professeur Bernard Lachaise, professeur émérite d&#39;histoire contemporaine à l'université Bordeaux-Montaigne / Nicolas Patin, maître de conférences à l'Université Bordeaux-Montaigne / Laurent Védrine, directeur du Musée d’Aquitaine / Katia Kukawka, conservatrice au Musée d’Aquitaine.
 

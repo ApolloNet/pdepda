@@ -3,7 +3,7 @@ id: bordeaux
 weight: 5
 place: Bordeaux
 title: Jewish Fates In Bordeaux During The Second World War
-museum: Centre National Jean Moulin
+museum: Musée d’Aquitaine / Centre National Jean Moulin
 image: 
 description: 
 chapters:
